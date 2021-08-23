@@ -1,0 +1,511 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="tablecloth-sizing-tool.html">
+</head>
+<body>
+<div class="row size-row">
+  <div class="size-sidebar">
+    <div>
+      <button class="collapsible-toggle-button">
+        Table Shape
+        <span class="icon icon-arrow-up"></span>
+      </button>
+      <div id="table_shapes_container" class="collapsible-content">
+        <button id="round_table_button" class="collapsible-button">Round</button>
+        <button id="square_table_button" class="collapsible-button">Square</button>
+        <button id="rectangle_table_button" class="collapsible-button">Rectangle</button>
+      </div>
+    </div>
+    <div>
+      <button class="collapsible-toggle-button">
+        Table Size
+      	<span class="icon icon-arrow-up"></span>
+      </button>
+      <div id="table_sizes_container" class="collapsible-content"></div>
+    </div>
+    <div>
+      <button class="collapsible-toggle-button">
+        Tablecloth Size
+      	<span class="icon icon-arrow-up"></span>
+      </button>
+      <div id="tablecloth_sizes_container" class="collapsible-content"></div>
+    </div>
+  </div>
+  <div class="size-image">
+    <div id="product_wrapper">
+      <img id="product_image">
+      <div id="product_description"></div>
+      <a id="product_button" class="btn" target="_blank">Shop Now</a>
+    </div>
+  </div>
+</div>
+
+<script>
+
+"use strict";
+
+var tables = {
+  round: {
+    table48Inches: [{
+      name: "70\"",
+      description: "A round 48\" table with a 70\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/70-tablecloth-on-48-table.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-70%22"
+    }, {
+      name: "90\"",
+      description: "A round 48\" table with a 90\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/90-tablecloth-on-48-table.jpg?v=554592890",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-90%22"
+    }, {
+      name: "108\"",
+      description: "A round 48\" table with a 108\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/108-tablecloth-on-48-table.jpg?v=815810826",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-108%22"
+    }, {
+      name: "120\"",
+      description: "A round 48\" table with a 120\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/120-tablecloth-on-48-table.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-120%22"
+    }, {
+      name: "132\"",
+      description: "A round 48\" table with a 132\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/132-tablecloth-on-48-table.jpg?v=217881765",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-132%22"
+    }],
+    table60Inches: [{
+      name: "70\"",
+      description: "A round 60\" table with a 70\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/70-tablecloth-on-60-table.jpg?v=781506010",
+      productURL: ""
+    }, {
+      name: "90\"",
+      description: "A round 60\" table with a 90\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/90-tablecloth-on-60-table.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-90%22"
+    }, {
+      name: "108\"",
+      description: "A round 60\" table with a 108\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/108-tablecloth-on-60-table.jpg?v=554592890",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-108%22"
+    }, {
+      name: "120\"",
+      description: "A round 60\" table with a 120\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/120-tablecloth-on-60-table.jpg?v=815810826",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-120%22"
+    }, {
+      name: "132\"",
+      description: "A round 60\" table with a 132\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/132-tablecloth-on-60-table.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-132%22"
+    }],
+    table72Inches: [{
+      name: "90\"",
+      description: "A round 72\" table with a 90\" tablecloth that seats 10 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/90-tablecloth-on-72-table.jpg?v=781506010",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-90%22"
+    }, {
+      name: "108\"",
+      description: "A round 72\" table with a 108\" tablecloth that seats 10 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/108-tablecloth-on-72-table.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-108%22"
+    }, {
+      name: "120\"",
+      description: "A round 72\" table with a 120\" tablecloth that seats 10 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/120-tablecloth-on-72-table.jpg?v=554592890",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-120%22"
+    }, {
+      name: "132\"",
+      description: "A round 72\" table with a 132\" tablecloth that seats 10 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/132-tablecloth-on-72-table.jpg?v=549097383",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-round+size-132%22"
+    }]
+  },
+  square: {
+    table48x48Inches: [{
+      name: "54\" x 54\"",
+      description: "A square 48\" x 48\" (4 ft) table with a 54\" x 54\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/48x48-Square-54.jpg?v=824932169",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-54x54%22"
+    }, {
+      name: "60\" x 60\"",
+      description: "A square 48\" x 48\" (4 ft) table with a 60\" x 60\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/48x48-square-60.jpg?v=980923687",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-60x60%22"
+    }, {
+      name: "70\" x 70\"",
+      description: "A square 48\" x 48\" (4 ft) table with a 70\" x 70\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/48x48-Square-70.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-70x70%22"
+    }, {
+      name: "90\" x 90\"",
+      description: "A square 48\" x 48\" (4 ft) table with a 90\" x 90\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/48x48-Square-90.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-90x90%22"
+    }],
+    table60x60Inches: [{
+      name: "70\" x 70\"",
+      description: "A square 60\" x 60\" (5 ft) table with a 70\" x 70\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/60x60-Square-70.jpg?v=980923687",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-70x70%22"
+    }, {
+      name: "90\" x 90\"",
+      description: "A square 60\" x 60\" (5 ft) table with a 90\" x 90\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/60x60-Square-90.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-90x90%22"
+    }],
+    table72x72Inches: [{
+      name: "90\" x 90\"",
+      description: "A square 72\" x 72\" (6 ft) table with a 90\" x 90\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/72x72-Square-90.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-square+size-90x90%22"
+    }]
+  },
+  rectangle: {
+    table30x48Inches: [{
+      name: "60\" x 102\"",
+      description: "A rectangle 30\" x 48\" (4 ft) table with a 60\" x 102\" tablecloth that seats 4 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/4F-60-102.jpg?v=246514398",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x102%22"
+    }, {
+      name: "60\" x 126\"",
+      description: "A rectangle 30\" x 48\" (4 ft) table with a 60\" x 126\" tablecloth that seats 4 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/4F-60-126.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x126%22"
+    }, {
+      name: "90\" x 132\"",
+      description: "A rectangle 30\" x 48\" (4 ft) table with a 90\" x 132\" tablecloth that seats 4 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/4F-90-132.jpg?v=676567491",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x132%22"
+    }, {
+      name: "90\" x 156\"",
+      description: "A rectangle 30\" x 48\" (4 ft) table with a 90\" x 156\" tablecloth that seats 4 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/4F-90-156.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x156%22"
+    }],
+    table30x72Inches: [{
+      name: "60\" x 102\"",
+      description: "A rectangle 30\" x 72\" (6 ft) table with a 60\" x 102\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/6F-60-102.jpg?v=144653966",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x102%22"
+    }, {
+      name: "60\" x 126\"",
+      description: "A rectangle 30\" x 72\" (6 ft) table with a 60\" x 126\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/6F-60-126.jpg?v=399302854",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x126%22"
+    }, {
+      name: "90\" x 132\"",
+      description: "A rectangle 30\" x 72\" (6 ft) table with a 90\" x 132\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/6F-90-132.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x132%22"
+    }, {
+      name: "90\" x 156\"",
+      description: "A rectangle 30\" x 72\" (6 ft) table with a 90\" x 156\" tablecloth that seats 6 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/6F-90-156.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x156%22"
+    }],
+    table30x96Inches: [{
+      name: "60\" x 102\"",
+      description: "A rectangle 30\" x 96\" (8 ft) table with a 60\" x 102\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/8F-60-102.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x102%22"
+    }, {
+      name: "60\" x 126\"",
+      description: "A rectangle 30\" x 96\" (8 ft) table with a 60\" x 126\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/8F-60-126.jpg?v=144653966",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-60x126%22"
+    }, {
+      name: "90\" x 132\"",
+      description: "A rectangle 30\" x 96\" (8 ft) table with a 90\" x 132\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/8F-90-132.jpg?v=423903468",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x132%22"
+    }, {
+      name: "90\" x 156\"",
+      description: "A rectangle 30\" x 96\" (8 ft) table with a 90\" x 156\" tablecloth that seats 8 people.",
+      imageURL: "//cdn.shopify.com/s/files/1/1552/7691/files/8F-90-156.jpg?v=",
+      productURL: "https://www.efavormart.com/collections/tablecloths?page=1&filters=shape-rectangle+size-90x156%22"
+    }]
+  }
+};
+
+var tableShapesContainer = document.getElementById("table_shapes_container");
+var tableSizesContainer = document.getElementById("table_sizes_container");
+var tableclothSizesContainer = document.getElementById("tablecloth_sizes_container");
+var productImage = document.getElementById("product_image");
+var productDescription = document.getElementById("product_description");
+var productButton = document.getElementById("product_button");
+
+init();
+
+/******************** Initialize the page ********************/
+
+function init() {
+  initDefaultView();
+  initDefaultActiveButtons();
+  initTableShapeButtons();
+  initCollapsibleToggleButtons();
+}
+
+function initDefaultView() {
+  renderRoundTables();
+  updateProduct(tables.round.table48Inches[0]);
+}
+
+function initDefaultActiveButtons() {
+  setActiveButton(tableShapesContainer.firstElementChild);
+  setActiveButton(tableSizesContainer.firstElementChild);
+  setActiveButton(tableclothSizesContainer.firstElementChild);
+}
+
+function initTableShapeButtons() {
+  document.getElementById("round_table_button").addEventListener('click', renderRoundTables);
+  document.getElementById("square_table_button").addEventListener('click', renderSquareTables);
+  document.getElementById("rectangle_table_button").addEventListener('click', renderRectangleTables);
+
+  var tableShapeButtons = Array.from(tableShapesContainer.children);
+  tableShapeButtons.forEach(function (tableShapeButton) {
+    tableShapeButton.addEventListener('click', function () {
+      handleActiveButton(this);
+
+      // Set default table size and tablecloth size on click
+      setActiveButton(tableSizesContainer.firstElementChild);
+      setActiveButton(tableclothSizesContainer.firstElementChild);
+    });
+  });
+}
+
+function initCollapsibleToggleButtons() {
+  var toggleButtons = document.querySelectorAll(".collapsible-toggle-button");
+  toggleButtons.forEach(function (toggleButton) {
+    toggleButton.addEventListener("click", function () {
+      var collapsibleContent = this.nextElementSibling;
+      collapsibleContent.classList.toggle("collapsed");
+
+      var arrowIcon = this.querySelector(".icon-arrow-up");
+      arrowIcon.classList.toggle("icon-arrow-down");
+    });
+  });
+}
+
+/*********************** Render tables ***********************/
+
+function renderRoundTables() {
+  var tableSizes = ["48\" table", "60\" table", "72\" table"];
+  var tableclothsInfo = [tables.round.table48Inches, tables.round.table60Inches, tables.round.table72Inches];
+  renderTableSizesInfo(tableSizes, tableclothsInfo);
+  renderTableclothsInfo(tables.round.table48Inches); // Default view
+}
+
+function renderSquareTables() {
+  var tableSizes = ["48\" x 48\"", "60\" x 60\"", "72\" x 72\""];
+  var tableclothsInfo = [tables.square.table48x48Inches, tables.square.table60x60Inches, tables.square.table72x72Inches];
+  renderTableSizesInfo(tableSizes, tableclothsInfo);
+  renderTableclothsInfo(tables.square.table48x48Inches); // Default view
+}
+
+function renderRectangleTables() {
+  var tableSizes = ["30\" x 48\"", "30\" x 72\"", "30\" x 96\""];
+  var tableclothsInfo = [tables.rectangle.table30x48Inches, tables.rectangle.table30x72Inches, tables.rectangle.table30x96Inches];
+  renderTableSizesInfo(tableSizes, tableclothsInfo);
+  renderTableclothsInfo(tables.rectangle.table30x48Inches); // Default view
+}
+
+function renderTableSizesInfo(tableSizes, tableclothsInfo) {
+  clearContent(tableSizesContainer);
+
+  var _loop = function _loop(i) {
+    var tableSizeButton = document.createElement('button');
+    tableSizeButton.innerHTML = tableSizes[i];
+    tableSizeButton.classList.add("collapsible-button");
+    tableSizeButton.addEventListener('click', function () {
+      handleActiveButton(this);
+      renderTableclothsInfo(tableclothsInfo[i]);
+
+      // Set default tablecloth size on click
+      setActiveButton(tableclothSizesContainer.firstElementChild);
+    });
+    tableSizesContainer.append(tableSizeButton);
+  };
+
+  for (var i = 0; i < tableSizes.length; i++) {
+    _loop(i);
+  }
+}
+
+function renderTableclothsInfo(tableclothsInfo) {
+  clearContent(tableclothSizesContainer);
+  tableclothsInfo.forEach(function (tablecloth) {
+    var tableclothSizeButton = document.createElement('button');
+    tableclothSizeButton.innerHTML = tablecloth.name;
+    tableclothSizeButton.classList.add("collapsible-button");
+    tableclothSizeButton.addEventListener('click', function () {
+      handleActiveButton(this);
+      updateProduct(tablecloth);
+    });
+    tableclothSizesContainer.appendChild(tableclothSizeButton);
+  });
+  updateProduct(tableclothsInfo[0]); // Default view
+}
+
+/*********************** Helpful functions ***********************/
+
+function clearContent(element) {
+  while (element.firstChild) {
+    element.removeChild(element.firstChild);
+  }
+}
+
+function handleActiveButton(button) {
+  clearActiveButton(Array.from(button.parentElement.children) // Array.from is necessary to convert the NodeList to an array
+  );
+  setActiveButton(button);
+}
+
+function clearActiveButton(buttons) {
+  buttons.forEach(function (button) {
+    if (button.classList.contains("active-collapsible-button")) {
+      button.classList.remove("active-collapsible-button");
+      return;
+    }
+  });
+}
+
+function setActiveButton(button) {
+  button.classList.add("active-collapsible-button");
+}
+
+function updateProduct(product) {
+  updateProductImage(product.imageURL);
+  updateProductDescription(product.description);
+  updateProductLink(product.productURL);
+}
+
+function updateProductImage(imageURL) {
+  productImage.src = imageURL;
+}
+
+function updateProductDescription(description) {
+  productDescription.innerHTML = description;
+}
+
+function updateProductLink(productURL) {
+  productButton.href = productURL;
+}
+
+</script>
+
+<style>.collapsible-toggle-button {
+    color: white;
+    background-color: #561c56;
+    border: 2px solid #561c56;
+    padding: 16px;
+    font-size: 16px;
+    margin-top: 16px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    display: block;
+    width: 100%;
+  }
+
+  .collapsed {
+  	max-height: 0 !important;
+  }
+
+  .collapsible-content {
+    width: 100%;
+    display: block;
+    max-height: 115px;
+    overflow: hidden;
+    transition: max-height 0.2s;
+  }
+
+  .collapsible-button {
+  	border: 0;
+    width: 100%;
+    display: block;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+    background-color: #EFE0F3;
+  }
+
+  .collapsible-button:hover {
+    font-weight: bold;
+  }
+
+  .collapsible-button:focus {
+    outline: 0;
+  }
+
+  .active-collapsible-button {
+  	font-weight: bold;
+  }
+
+  .row {
+  	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 950px;
+    width: auto;
+    margin: 0px auto;
+  }
+
+  #product_wrapper {
+    width: 90%;
+    height: auto;
+    overflow: hidden;
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+
+  #product_image {
+    width: 100%;
+    height: auto;
+    border-radius: 1%;
+  }
+
+  .size-image{
+    width: 65%;
+    margin-top: 15px;
+  }
+
+  .size-sidebar{
+    width: 35%;
+  }
+
+  #product_description, #product_button {
+    margin-top: 1em;
+  }
+
+  @media only screen and (max-width: 425px) {
+      .row {
+          flex-direction: column;
+      }
+      .size-sidebar{
+        width: 90%;
+        margin: 0 auto 5px auto;
+      }
+      .collapsible-content{
+        max-height: 100%;
+      }
+      .collapsible-toggle-button{
+        font-size: 24px;
+      }
+      .collapsible-button{
+        font-size: 18px;
+        padding: 5px 0;
+      }
+      .size-image {
+        width: 100%;
+        margin: 0 auto;
+      }
+
+  }
+
+</style>
+</body>
+</html>

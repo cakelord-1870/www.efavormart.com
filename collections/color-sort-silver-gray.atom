@@ -1,0 +1,3340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/color-sort-silver-gray.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-08-17T13:12:53-07:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/9777661266</id>
+    <published>2021-08-17T13:12:53-07:00</published>
+    <updated>2021-08-17T13:12:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/16-silver-square-crystal-pendants-metal-chandelier-cake-stand-12-tall"/>
+    <title>12&quot; Tall Silver Square Metal Cake Stand - Chandelier Cake Stand With 60 Acrylic Crystal Chains</title>
+    <s:type>Cake Stands</s:type>
+    <s:vendor>HIER_4100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHDLR_034_SILV__01.jpg?v=1617749945"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4100<br>
+        <strong>Type: </strong>Cake Stands<br>
+        <strong>Price: </strong>
+            41.18 - 195.38
+            <a href="https://www.efavormart.com/products/16-silver-square-crystal-pendants-metal-chandelier-cake-stand-12-tall">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Cake Stand</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Metal with Acrylic crystals</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Shape: </strong>Square</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Height</strong>: 12"</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Width</strong>: 16" x 16"</td>
+</tr>
+<tr>
+<td>
+<strong>Total Crystal Chains</strong>: 60 (15 Chains / Side)</td>
+</tr>
+<tr>
+<td>Strong, durable, and perfect for dining events.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4>[Information]</h4>
+<p>Our elegant silver bling cake stand is adorned with sparkly leaded cut crystals wired into place and designed with detailed attention. This glimmering gemmed cake stand consists of three rows of twinkling crystal beading around the edges and attractive silver ball feet for added regal feel. Sumptuously display your cake using this dreamy piece or create an eye catching centerpiece by placing it atop your bridal table with LED candles or a bowl of submersible floating candles reflecting enchanting silhouettes all around!</p>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Max Weight Capacity</strong>: 45 lbs</li>
+<li>
+<strong>Uses</strong>: Birthdays, Weddings, Table Decoration, Event Decoration, Centerpieces.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-5</s:tag>
+    <s:tag>cat-sub1_Acrylic Cake Stands</s:tag>
+    <s:tag>cat-sub1_Acrylic Diamond Chandelier Collection</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Chandeliers &amp; Crystal</s:tag>
+    <s:tag>cat-sub1_Crystal Cake Stands</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Acrylic Diamond Cake Stand and Toppers</s:tag>
+    <s:tag>cat-sub2_Cake Stand &amp; Candle Holder</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Cake Stands &amp; Toppers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>etsy-cakestands</s:tag>
+    <s:tag>material-crystal</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:height-12&quot;</s:tag>
+    <s:tag>size:width-16&quot;</s:tag>
+    <s:tag>type-cake-stand</s:tag>
+    <s:tag>variant-CHDLR_034</s:tag>
+    <s:tag>variantstylev-CHDLR_SILV</s:tag>
+    <s:tag>vstylev-Square</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9777661266</id>
+      <title>Pack of 1 Cake Stand</title>
+      <s:price currency="USD">41.18</s:price>
+      <s:sku>CHDLR_034_SILV</s:sku>
+      <s:grams>3915</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9777661266</id>
+      <title>Case of 5 Cake Stands</title>
+      <s:price currency="USD">195.38</s:price>
+      <s:sku>CHDLR_034_SILV_CASE</s:sku>
+      <s:grams>19573</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/197257822226</id>
+    <published>2021-08-16T12:45:41-07:00</published>
+    <updated>2021-08-16T12:45:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-52x108-chevron-design-thermal-blackout-curtains-with-chrome-grommet-window-treatment-panels-white-silver"/>
+    <title>Pack of 2 | 52&quot;x108&quot; Chevron Design Thermal Blackout Curtains With Chrome Grommet Window Treatment Panels - White | Silver</title>
+    <s:type>Curtains</s:type>
+    <s:vendor>HIER_3160</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CUR_PANMIC05_52108_SILV__01_490x490.progressive_39b2df91-bf3b-4ebf-ac6d-50ee57621788.jpg?v=1586462097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3160<br>
+        <strong>Type: </strong>Curtains<br>
+        <strong>Price: </strong>
+            24.49 - 139.49
+            <a href="https://www.efavormart.com/products/pack-of-2-52x108-chevron-design-thermal-blackout-curtains-with-chrome-grommet-window-treatment-panels-white-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4></h4>
+<h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Blackout Curtains<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Polyester<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver/White<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM</strong>: 230<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Energy Efficient, Insulation, Noise Reduction, High Quality<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can Block up to 99% of Light &amp; 60% of Noise<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Package Contains Two (2) Panels<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Panel Size</strong>: 52x108"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Header Type</strong>: Grommet<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Grommet Ring Size</strong>: 1.6" Opening<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Comes with a Heavy Duty Vinyl Bag<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Each Panel Contains Eight (8) Chrome Grommets<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instructions</strong>: Cold Temp, Gentle Cycle w/Mild Detergent | Hang to Dry or Low Heat Dry.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Perfect for room divider, pair with <a href="https://www.efavormart.com/collections/backdrop-stand" target="_blank">backdrop stand</a></strong><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+Revamp your home décor with this pair of Thermal Grommet Curtain Panels in chic chevron pattern that will instantly give your space a contemporary update. Our innovative Thermal Insulated Curtain Panels are crafted from 100% polyester and feature blackout light filtration that assists in giving you a perfectly tranquil environment to rest easy and also reduce your utility costs by insulating unwanted light, UV rays, noise, heat, and cold. These functional curtains are constructed with blackout fibers interwoven to the curtains fabric, providing a layer of added insulation against light diffusion and outside temperature transfer for energy efficacy qualities. It is so easy now to darken a room for daytime sleep, movie watching, or to prevent sunlight glare, with our 100% Thermal Eyelet Top Curtain Panels.<br><br><strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Material </strong><span data-mce-fragment="1">:</span><span data-mce-fragment="1"> </span>Polyester</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color</strong> <span data-mce-fragment="1">: Silver/White</span>
+</li>
+<li data-mce-fragment="1">100% Thermal Insulation</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size </strong><span data-mce-fragment="1">:</span> 52" W x 108" L</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Header Type:</strong><span data-mce-fragment="1"> </span>Grommet</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Grommet Ring Size<span data-mce-fragment="1"> </span></strong><span data-mce-fragment="1">: </span>1.6" Opening</li>
+<li data-mce-fragment="1">Comes with a Heavy Duty Vinyl Bag</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity<span data-mce-fragment="1"> </span></strong><span data-mce-fragment="1">:</span> 2 pcs</li>
+<li data-mce-fragment="1">Each Panel Contains Eight (8) Chrome Grommets</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-12</s:tag>
+    <s:tag>cat-sub1_Blackout Curtains</s:tag>
+    <s:tag>cat-sub1_Curtains | Curtain Rods</s:tag>
+    <s:tag>cat-sub1_Polyester Curtains</s:tag>
+    <s:tag>cat-sub2_Blackout Curtains</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Curtains</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Blackout Curtains</s:tag>
+    <s:tag>categ-Christmas Linens</s:tag>
+    <s:tag>categ-Curtains | Curtain Rods</s:tag>
+    <s:tag>categ-Designer Curtains</s:tag>
+    <s:tag>categ-Large Scale Events</s:tag>
+    <s:tag>categ-Polyester Curtains</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>single-unit-count-2</s:tag>
+    <s:tag>size:length-52&quot;</s:tag>
+    <s:tag>size:width-108&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-chevron</s:tag>
+    <s:tag>type-curtain</s:tag>
+    <s:tag>variant-CUR_PANMIC05_52108</s:tag>
+    <s:tag>variantsizev-CUR_PANMIC05_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/197257822226</id>
+      <title>Pack of 2 Curtains</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>CUR_PANMIC05_52108_SILV</s:sku>
+      <s:grams>2245</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/197257822226</id>
+      <title>Case of 12 Curtains</title>
+      <s:price currency="USD">139.49</s:price>
+      <s:sku>CUR_PANMIC05_52108_SILV_CASE</s:sku>
+      <s:grams>13472</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8582096850</id>
+    <published>2021-08-11T12:33:46-07:00</published>
+    <updated>2021-08-11T12:33:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-10-white-6oz-round-disposable-plastic-bowls-with-silver-lace-design-rim"/>
+    <title>Set of 10 - 6oz White Round Disposable Bowls | Mini Plastic Dessert Bowls | Silver Lace Design Rim</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5420</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PLST_BO0018_WHTS_D02.jpg?v=1624652894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5420<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            3.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 10 Bowls</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Hard Plastic</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: White with Silver Border</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Product Size</strong>: 6 oz</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Product Height</strong>: 1.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Product Width</strong>: 5.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Shape</strong>: Round</td>
+</tr>
+<tr>
+<td>
+<strong>Recyclable</strong>: Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>These classy disposable plastic bowls are an ideal choice for salads, cereals, soups, sauces, desserts, appetizers, and more. Lovely metallic trimmed borders enhance the elegance of this disposable ware. Our lace band accented bowls will adorn your dining table with elegant sophistication. These disposable plastic bowls are strong and sturdy, thus will avoid the spilling of food while eating. During exciting indoor events and summer fun activities, make dining and tidying a breeze with our special disposable plastic bowls.</p>
+<p> </p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>WARNING</strong>: Not Microwave or Dishwasher Safe</li>
+<li>Perfect for wedding receptions, banquets, and upscale catered events</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Designer Dinnerware Collection</s:tag>
+    <s:tag>cat-sub1_Disposable Bowls</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Dessert Bowls</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Mini Serving Bowls</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>categ-Designer Dinnerware Collection</s:tag>
+    <s:tag>categ-Dessert Bowls</s:tag>
+    <s:tag>categ-Disposable Bowls</s:tag>
+    <s:tag>categ-Disposable Party Supplies</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Mini Serving Bowls</s:tag>
+    <s:tag>collection-partytown-plastics</s:tag>
+    <s:tag>collection-picturesque-collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>occasion-anniversary</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>single-unit-count_10</s:tag>
+    <s:tag>size:volume-6 Oz</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-disposables</s:tag>
+    <s:tag>type-dishware</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-dessert bowls</s:tag>
+    <s:tag>utensiltype-mini serving bowls</s:tag>
+    <s:tag>variant-plst_bo0018</s:tag>
+    <s:tag>variantsizev-PLST_BO00_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8582096850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku>PLST_BO0018_WHTS</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6662268977198</id>
+    <published>2021-08-10T15:52:54-07:00</published>
+    <updated>2021-08-10T15:52:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-pack-8-silver-heavy-duty-plastic-cutlery-set-baby-blue-handle-plastic-silverware"/>
+    <title>24 Pack | 8&quot; Silver Heavy Duty Plastic Cutlery Set | Baby Blue Handle Plastic Silverware</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5460</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/DSP_YY0010_8_SV_BLUE__01.jpg?v=1628622997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5460<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 24 Pcs (8 Forks | 8 Spoons | 8 Knives)</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Heavy Duty Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Utensil Head Color:</strong> Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Handle Color:</strong> Baby Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Matte Finish</td>
+</tr>
+<tr>
+<td>
+<strong>Fork Size:</strong> 7.75"L x 1"W"</td>
+</tr>
+<tr>
+<td>
+<strong>Spoon Size:</strong> 8"L x 1.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Knife Size:</strong> 8"L x 0.5"W</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Uses</strong>: Wedding, Birthdays, Catered Events, Banquet, Formal/Casual Dinner, and any Special Occasions</li>
+<li>
+<strong>WARNING:</strong> Not microwave and dishwasher safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Disposable Tableware</s:tag>
+    <s:tag>cat-sub1_Plastic Cutlery</s:tag>
+    <s:tag>cat-sub2_Cutlery Sets</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_24</s:tag>
+    <s:tag>size:length-8&quot;</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-fork</s:tag>
+    <s:tag>utensiltype-knife</s:tag>
+    <s:tag>utensiltype-spoon</s:tag>
+    <s:tag>variant-DSP_YY0010_8_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6662268977198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>DSP_YY0010_8_SV_BLUE</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6658058387502</id>
+    <published>2021-08-10T15:51:03-07:00</published>
+    <updated>2021-08-10T15:51:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-pack-8-silver-heavy-duty-plastic-spoons-disposable-premium-plastic-silverware"/>
+    <title>24 Pack | 8&quot; Silver Heavy Duty Plastic Spoons, Disposable Premium Plastic Silverware</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5460</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/DSP_YS0010_8_SV_SILV__01.jpg?v=1628721298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5460<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 24 Plastic Spoons</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Heavy Duty Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Shiny Finish</td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 7.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 1.75"</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Uses</strong>: Wedding, Birthdays, Catered Events, Banquet, Formal/Casual Dinner, and any Special Occasions</li>
+<li>
+<strong>WARNING:</strong> Not microwave and dishwasher safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Disposable Tableware</s:tag>
+    <s:tag>cat-sub1_Plastic Cutlery</s:tag>
+    <s:tag>cat-sub2_Spoons</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>single-unit-count_24</s:tag>
+    <s:tag>size:length-8&quot;</s:tag>
+    <s:tag>size:width-1.75&quot;</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-spoon</s:tag>
+    <s:tag>variant-DSP_YS0010_8_</s:tag>
+    <s:tag>variantstylev-DSP_Y0010_8_SV_SILV</s:tag>
+    <s:tag>vstylev-spoon</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6658058387502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>DSP_YS0010_8_SV_SILV</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6658029846574</id>
+    <published>2021-08-10T15:50:13-07:00</published>
+    <updated>2021-08-10T15:50:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-pack-8-silver-heavy-duty-plastic-knives-disposable-premium-plastic-silverware"/>
+    <title>24 Pack | 8&quot; Silver Heavy Duty Plastic Knives, Disposable Premium Plastic Silverware</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5460</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/DSP_YK0010_8_SV_SILV__01.jpg?v=1628720623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5460<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 24 Plastic Knives</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Heavy Duty Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Shiny Finish</td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 8"</td>
+</tr>
+<tr>
+<td>
+<strong>Width:</strong> 0.5"</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Uses</strong>: Wedding, Birthdays, Catered Events, Banquet, Formal/Casual Dinner, and any Special Occasions</li>
+<li>
+<strong>WARNING:</strong> Not microwave and dishwasher safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Plastic Cutlery</s:tag>
+    <s:tag>cat-sub2_Knives</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_24</s:tag>
+    <s:tag>size:length-8&quot;</s:tag>
+    <s:tag>size:width-0.5&quot;</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-knife</s:tag>
+    <s:tag>variant-DSP_YK0010_8_</s:tag>
+    <s:tag>variantstylev-DSP_Y0010_8_SV_SILV</s:tag>
+    <s:tag>vstylev-knife</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6658029846574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>DSP_YK0010_8_SV_SILV</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6658002976814</id>
+    <published>2021-08-10T15:49:08-07:00</published>
+    <updated>2021-08-10T15:49:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-pack-8-silver-heavy-duty-plastic-forks-disposable-premium-plastic-silverware"/>
+    <title>24 Pack | 8&quot; Silver Heavy Duty Plastic Forks, Disposable Premium Plastic Silverware</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5460</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/DSP_YF0010_8_SV_SILV__01.jpg?v=1628720297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5460<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 24 Plastic Forks</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Heavy Duty Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Shiny Finish</td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 7.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 1"</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Uses</strong>: Wedding, Birthdays, Catered Events, Banquet, Formal/Casual Dinner, and any Special Occasions</li>
+<li>
+<strong>WARNING:</strong> Not microwave and dishwasher safe</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Plastic Cutlery</s:tag>
+    <s:tag>cat-sub2_Forks</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_24</s:tag>
+    <s:tag>size:length-8&quot;</s:tag>
+    <s:tag>size:width-1&quot;</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-fork</s:tag>
+    <s:tag>variant-DSP_YF0010_8_</s:tag>
+    <s:tag>variantstylev-DSP_Y0010_8_SV_SILV</s:tag>
+    <s:tag>vstylev-fork</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6658002976814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>DSP_YF0010_8_SV_SILV</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6644460257326</id>
+    <published>2021-08-09T10:59:16-07:00</published>
+    <updated>2021-08-09T10:59:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-pack-6x106-accordion-crinkle-taffeta-silver-chair-sashes"/>
+    <title>5 Pack | 6&quot;x106&quot; Accordion Crinkle Taffeta Silver Chair Sashes</title>
+    <s:type>Chair Sashes</s:type>
+    <s:vendor>HIER_2140</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/SASH_ACRNK_SILV__01.jpg?v=1626881869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2140<br>
+        <strong>Type: </strong>Chair Sashes<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 5 Sashes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Crinkle Taffeta w/ Metallic Shine Finish</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Style</strong>: Accordion Crinkle Taffeta Chair Sashes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 6" wide x 106" long</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Edges</strong>: Serged</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings, the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><b data-mce-fragment="1" data-stringify-type="bold">Additional Information:</b><br></p>
+<ul>
+<li>
+<strong>How to Care:</strong> Hang wash, hang dry only.<br>
+</li>
+<li>For sashes only, does not include any other decorations.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Chair Linens</s:tag>
+    <s:tag>cat-sub1_Crinkle Taffeta Chair Sashes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>Collection-Crinkle Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-Accordion Taffeta Crinkle</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-106&quot;</s:tag>
+    <s:tag>size:width-6&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-chair sash</s:tag>
+    <s:tag>variant-SASH_ACRNK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6644460257326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>SASH_ACRNK_SILV</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/226946416658</id>
+    <published>2021-08-03T00:31:35-07:00</published>
+    <updated>2021-08-03T00:31:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-10-10-white-round-disposable-plastic-dinner-plates-with-silver-diamond-rim"/>
+    <title>Set of 10 - 10&quot; White Round Disposable Plastic Dinner Plates With Silver Diamond Rim</title>
+    <s:type>Disposables</s:type>
+    <s:vendor>HIER_5440</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PLST_PLA0111_WHTS__01_ee6c2701-9b9b-4a37-ab2a-99d5cbea02ea.jpg?v=1607544835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5440<br>
+        <strong>Type: </strong>Disposables<br>
+        <strong>Price: </strong>
+            6.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<ul href="https://www.efavormart.com/search?q=WHITE+NAPKINS" rel="noopener noreferrer" target="_blank"></ul>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Material</strong>:Hard Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White/Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 10” Diameter</td>
+</tr>
+<tr>
+<td>
+<strong>Shape</strong>: Round</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Diamond Rim</td>
+</tr>
+<tr>
+<td>
+<strong>Type</strong>: Dinner plates</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+<tr>
+<td><a href="https://www.efavormart.com/collections/10-round-plates" target="_blank">View All 10'' Size Round Plates</a></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<br>Impart an air of regal elegance to any table settings with our Premium Plastic Party Plates. Made out of high gloss premium rigid disposable plastic, these heavy-duty plates are perfect for hot and cold meals, appetizers, desserts, and scrumptious main course. Designed to create a sophisticated table setting with a timeless appeal, these classic plates feature glistening gold lace banding coupled with modern styling and heavy-weight plastic construction. Use this imperial dinnerware on its own for a charmingly cohesive tablescape, or mix and match with our multi-sized and multi-shaped tableware for an enticingly eclectic party table. <br>
+<div class="table-wrapper"></div>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">WARNING</strong>: Not Microwave or Dishwasher Safe</li>
+<li data-mce-fragment="1">Perfect for wedding receptions, banquets, and upscale catered events</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Designer Dinnerware Collection</s:tag>
+    <s:tag>cat-sub1_Disposable Plates</s:tag>
+    <s:tag>cat-sub1_Disposable Tableware</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Designer Plates</s:tag>
+    <s:tag>cat-sub2_Dinner Plates</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>categ-Designer Dinnerware Collection</s:tag>
+    <s:tag>categ-Designer Plates</s:tag>
+    <s:tag>categ-Dinner Plates</s:tag>
+    <s:tag>categ-Disposable Party Supplies</s:tag>
+    <s:tag>categ-Disposable Plates</s:tag>
+    <s:tag>categ-Disposable Tableware</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Memorial Day</s:tag>
+    <s:tag>categ-Memorial Day Disposable Dinnerware</s:tag>
+    <s:tag>categ-Partytown Plastics</s:tag>
+    <s:tag>categ-Thanksgiving Dinnerware</s:tag>
+    <s:tag>collection-picturesque-collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>Designer Dinnerware</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>single-unit-count_10</s:tag>
+    <s:tag>size:diameter-10&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-disposables</s:tag>
+    <s:tag>type-dishware</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>utensiltype-dinner plate</s:tag>
+    <s:tag>variant-PLST_PLA0111</s:tag>
+    <s:tag>variantsizev-PLST_PLA0109_WHTS</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/226946416658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>PLST_PLA0111_WHTS</s:sku>
+      <s:grams>531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1917186244654</id>
+    <published>2021-07-28T13:13:50-07:00</published>
+    <updated>2021-07-28T13:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-thick-chair-pad-metallic-silver-seat-padded-sponge-cushion-with-premium-vinyl-fabric-straps-and-removable-zippered-covers"/>
+    <title>2&quot; Thick Chair Pad | Metallic Silver | Seat Padded Sponge Cushion with Premium Vinyl Fabric, Straps and Removable Zippered Covers</title>
+    <s:type>Cushions</s:type>
+    <s:vendor>HIER_2130</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FURN_CUSHVIN_SILV__01.jpg?v=1614138042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2130<br>
+        <strong>Type: </strong>Cushions<br>
+        <strong>Price: </strong>
+            6.18 - 204.68
+            <a href="https://www.efavormart.com/products/2-thick-chair-pad-metallic-silver-seat-padded-sponge-cushion-with-premium-vinyl-fabric-straps-and-removable-zippered-covers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Quantity:</strong> 1 Chair Cushion</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Color:</strong> Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Material: </strong>Vinyl</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Memory Foam Polyurethane Filling</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Length</b>: 15.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Maximum Width: </strong>15.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Minimum Width: </strong>9.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Thickness of Cushion: </strong>2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>All sizes are approximate measurements<br></strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>
+<strong></strong>Attachment straps with Velcro help hold the cushion in place</li>
+<li>Zippered back allows for padding to be removed</li>
+<li>Intended for use with crystal, resin, or wood Chiavari Chairs</li>
+<li>Attachment straps with Velcro help hold the cushion in place</li>
+<li>Fits Chivari Chairs</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Beechwood and Chivari Chairs Cushion</li>
+<li>
+<strong data-mce-fragment="1">How to care: </strong><span data-mce-fragment="1">Machine wash cold, tumble dry with no heat. No bleach, no ironing</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-36</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Chair Cushions</s:tag>
+    <s:tag>cat-sub1_Chair Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Chair Covers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Chair Covers</s:tag>
+    <s:tag>categ-Chair Cushions</s:tag>
+    <s:tag>categ-Chair Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>chairtype-chiavari</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>etsy-chaircushions</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-chair cushions</s:tag>
+    <s:tag>variant-furn_cush01</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1917186244654</id>
+      <title>Pack of 1 Cushion</title>
+      <s:price currency="USD">6.18</s:price>
+      <s:sku>FURN_CUSHVIN_SILV</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1917186244654</id>
+      <title>Case of 36 Cushions</title>
+      <s:price currency="USD">204.68</s:price>
+      <s:sku>FURN_CUSHVIN_SILV_CASE</s:sku>
+      <s:grams>75131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6616730730542</id>
+    <published>2021-07-21T16:58:45-07:00</published>
+    <updated>2021-07-21T16:58:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/14x14-silver-acrylic-cake-box-stand-mirror-finish-display-box-pedestal-riser-with-hollow-bottom"/>
+    <title>14&quot;x14&quot; | Silver Acrylic Cake Box Stand, Mirror Finish Display Box Pedestal Riser with Hollow Bottom</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_3610</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PROP_BOX_001_1414_SILV__01.jpg?v=1626911826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3610<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Quantity</b>: 1 Cake Box Stand</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Material</strong>: Acrylic</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Color: </strong>Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Style</strong>: 5 Sided Mirror Finish Display Box with Hollow Bottom</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Overall Size</strong>: 14"L x 14"W x 5" H</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Panel Thickness:</strong> 3mm</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Base Depth: </strong>4.75"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Weight Capacity: </b>20lbs</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Can be used as a Cake Stand, Centerpiece Base, Dessert Tray, or Display Case.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Need to remove protective plastic film before assembly</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><b data-stringify-type="bold">All sizes are approximate measurements</b></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><b data-stringify-type="bold"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></b></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>How To Care</strong>: Can wipe with a lightly damp cloth<br>
+</li>
+<li>Perfect for Centerpiece Display, desserts, floral displays, jewelry and accessories, or any centerpiece or accent decor<br>
+</li>
+<li>
+<strong>Uses</strong>: Home Decor, Wedding Reception, Parties, Baby Showers, Bakeries, Graduation Parties, Quinceanera and Sweet Sixteen Birthday, Engagement party, and more.</li>
+<li>
+<strong>Note:</strong> Order is only for Box. Accessories Not Included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Acrylic Cake Stands</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Floor Vases &amp; Pedestals</s:tag>
+    <s:tag>cat-sub1_Geometric Decors</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Cake Stand &amp; Candle Holder</s:tag>
+    <s:tag>cat-top_Cake Stands &amp; Toppers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Acrylic Cake Stands</s:tag>
+    <s:tag>categ-Cake Stand &amp; Candle Holder</s:tag>
+    <s:tag>categ-Cake Stands &amp; Toppers</s:tag>
+    <s:tag>categ-candy buffet</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Floor Vases &amp; Pedestals</s:tag>
+    <s:tag>categ-Geometric Decors</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-acrylic</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>size:length-14&quot;</s:tag>
+    <s:tag>size:width-14&quot;</s:tag>
+    <s:tag>style-acrylic</s:tag>
+    <s:tag>type-Display Box</s:tag>
+    <s:tag>type-Pedestal Risers</s:tag>
+    <s:tag>variant-PROP_BOX_001_1414</s:tag>
+    <s:tag>variantsizev-PROP_BOX_001_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6616730730542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.99</s:price>
+      <s:sku>PROP_BOX_001_1414_SILV</s:sku>
+      <s:grams>1311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6637675118638</id>
+    <published>2021-07-19T11:50:15-07:00</published>
+    <updated>2021-07-19T11:50:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-9-confetti-balloon-cloud-cake-topper-mini-balloon-garland-for-cake-decoration-black-silver-clear"/>
+    <title>Set of 9 Confetti Balloon Cloud Cake Topper, Mini Balloon Garland for Cake Decoration - Black | Silver | Clear</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_4200</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CAKE_TOP_006_MIX10__01.jpg?v=1626715507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4200<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<b>Quantity: </b>1 Balloon Garland Cake Topper Set + Accessories</td>
+</tr>
+<tr>
+<td>
+<p><b>Includes</b>:</p>
+<li>9 Balloons</li>
+<li>2 Straws w/Stars</li>
+<li>10 Balloon Dots</li>
+</td>
+</tr>
+<tr>
+<td>
+<b>Balloon Material</b>: Latex</td>
+</tr>
+<tr>
+<td>
+<b>Straw Material</b>: Paper</td>
+</tr>
+<tr>
+<td>
+<b>Balloon Colors:</b> Black | Silver | Clear w/Foil Gold Confetti</td>
+</tr>
+<tr>
+<td>
+<b>Each Balloons Size: </b>5" Dia.</td>
+</tr>
+<tr>
+<td>
+<b>Each Straw Size</b>: 7.75"L x 0.25"</td>
+</tr>
+<tr>
+<td>
+<b>Straw Thickness</b>: 0.5mm</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<ul></ul>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li><strong>Balloon Colors Available in Pack:</strong></li>
+<ul>
+<li>3x Black</li>
+<li>3x Silver</li>
+<li>3x Clear w/Foil Gold Confetti</li>
+</ul>
+<li>Use for Dressing Up cakes, Cupcakes, Brownies, Ice Cream, Cereal Treats, Cookies, Meats, cheeses, beverages, even miniature appetizer shish kabobs etc.</li>
+<li>
+<strong>Warning:</strong> The cupcake toppers are disposable and not edible and intended for decoration only, please don't put these cake toppers in oven/microwave and keep it away from children and pets.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Cake Toppers</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Celebration Balloons</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Birthday Cake Topper</s:tag>
+    <s:tag>cat-sub2_Candy Table Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Cake Stands &amp; Toppers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>categ-Birthday Cake Topper</s:tag>
+    <s:tag>categ-Cake Stands &amp; Toppers</s:tag>
+    <s:tag>categ-candy buffet</s:tag>
+    <s:tag>categ-Candy Table Decor</s:tag>
+    <s:tag>categ-Celebration Balloons</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Party Decors</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>color-clear</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-latex</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-5&quot;</s:tag>
+    <s:tag>type-cake-topper</s:tag>
+    <s:tag>variant-CAKE_TOP_006_MIX</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6637675118638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CAKE_TOP_006_MIX10</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6637633306670</id>
+    <published>2021-07-19T11:50:07-07:00</published>
+    <updated>2021-07-19T11:50:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-9-balloon-cloud-cake-topper-mini-balloon-garland-for-cake-decoration-light-blue-royal-blue-silver"/>
+    <title>Set of 9 Balloon Cloud Cake Topper, Mini Balloon Garland for Cake Decoration - Light Blue | Royal Blue | Silver</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_4200</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CAKE_TOP_006_MIX03__01.jpg?v=1626711271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4200<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<b>Quantity: </b>1 Balloon Garland Cake Topper Set + Accessories</td>
+</tr>
+<tr>
+<td>
+<p><b>Includes</b>:</p>
+<li>9 Balloons</li>
+<li>2 Straws w/Stars</li>
+<li>10 Balloon Dots</li>
+</td>
+</tr>
+<tr>
+<td>
+<b>Balloon Material</b>: Latex</td>
+</tr>
+<tr>
+<td>
+<b>Straw Material</b>: Paper</td>
+</tr>
+<tr>
+<td>
+<b>Balloon Colors:</b> Light Blue | Royal Blue | Silver</td>
+</tr>
+<tr>
+<td>
+<b>Each Balloons Size: </b>5" Dia.</td>
+</tr>
+<tr>
+<td>
+<b>Each Straw Size</b>: 7.75"L x 0.25"</td>
+</tr>
+<tr>
+<td>
+<b>Straw Thickness</b>: 0.5mm</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<ul></ul>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li><strong>Balloon Colors Available in Pack:</strong></li>
+<ul>
+<li>3x Light Blue</li>
+<li>3x Royal Blue</li>
+<li>3x Silver</li>
+</ul>
+<li>Use for Dressing Up cakes, Cupcakes, Brownies, Ice Cream, Cereal Treats, Cookies, Meats, cheeses, beverages, even miniature appetizer shish kabobs etc.</li>
+<li>
+<strong>Warning:</strong> The cupcake toppers are disposable and not edible and intended for decoration only, please don't put these cake toppers in oven/microwave and keep it away from children and pets.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Cake Toppers</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Celebration Balloons</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Birthday Cake Topper</s:tag>
+    <s:tag>cat-sub2_Candy Table Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Cake Stands &amp; Toppers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>categ-Birthday Cake Topper</s:tag>
+    <s:tag>categ-Cake Stands &amp; Toppers</s:tag>
+    <s:tag>categ-candy buffet</s:tag>
+    <s:tag>categ-Candy Table Decor</s:tag>
+    <s:tag>categ-Celebration Balloons</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Party Decors</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>color-light-blue</s:tag>
+    <s:tag>color-royal-blue</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-latex</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-5&quot;</s:tag>
+    <s:tag>type-cake-topper</s:tag>
+    <s:tag>variant-CAKE_TOP_006_MIX</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6637633306670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.99</s:price>
+      <s:sku>CAKE_TOP_006_MIX03</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6586055262254</id>
+    <published>2021-07-19T11:01:47-07:00</published>
+    <updated>2021-07-19T11:01:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-pack-18-chrome-silver-metallic-latex-balloons-helium-party-balloons"/>
+    <title>5 Pack | 18&quot; Chrome Silver Metallic Latex Balloons, Helium Party Balloons</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_3220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/BLOON_MET_18_SILV__01.jpg?v=1626722059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3220<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 5 Metallic Balloons</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Latex</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Chrome Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Chrome Metallic Latex Helium Balloons</td>
+</tr>
+<tr>
+<td>
+<strong>Shape</strong>: Round</td>
+</tr>
+<tr>
+<td>
+<strong>Balloon Diameter</strong>: 18"</td>
+</tr>
+<tr>
+<td>
+<strong>Helium/Air Fillable: </strong>Yes</td>
+</tr>
+<tr>
+<td>
+<strong>Float Time w/Helium: </strong>About 10 hours. Always good to inflate close to when the event starts so it lasts as long as the period of the event</td>
+</tr>
+<tr>
+<td>
+<strong>Float Time w/Air: </strong>Putting in Air in balloon will not make it float. But putting in air makes it last typically between 5-7 Days</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>DIY:</strong> It is easy to inflate, you can hang them over the trees, walls, windows, doorways, dinner tables, and any place that you like</li>
+<li>
+<strong>Uses:</strong> Birthday parties, bridal showers, baby showers, engagement, weddings!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Celebration Balloons</s:tag>
+    <s:tag>cat-sub2_Candy Table Decor</s:tag>
+    <s:tag>cat-sub2_Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>cat-sub2_Latex Balloons</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-candy buffet</s:tag>
+    <s:tag>categ-Candy Table Decor</s:tag>
+    <s:tag>categ-Celebration Balloons</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>categ-Latex Balloons</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-latex</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:diameter-18&quot;</s:tag>
+    <s:tag>type-balloons</s:tag>
+    <s:tag>variant-BLOON_MET_18</s:tag>
+    <s:tag>variantsizev-BLOON_MET_SILV</s:tag>
+    <s:tag>variantstylev-BLOON_18_</s:tag>
+    <s:tag>vstylev-Metallic Latex</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6586055262254</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>BLOON_MET_18_SILV</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6579407323182</id>
+    <published>2021-07-16T12:58:35-07:00</published>
+    <updated>2021-07-16T12:58:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/25-pack-12-chrome-charcoal-gray-metallic-latex-helium-balloons"/>
+    <title>25 Pack - 12&quot; Chrome Charcoal Gray Metallic Latex Helium Balloons</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_3220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/BLOON_MET_044__01.jpg?v=1626473964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3220<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 25 Metallic Balloons</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Latex</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Chrome Charcoal Gray</td>
+</tr>
+<tr>
+<td>
+<strong>Shape</strong>: Round</td>
+</tr>
+<tr>
+<td>
+<strong>Balloon Diameter</strong>: 12"</td>
+</tr>
+<tr>
+<td>
+<strong>Helium Fillable: </strong>Yes</td>
+</tr>
+<tr>
+<td>
+<strong>Float Time w/Helium: </strong>About 10 hours. Always good to inflate close to when the event starts so it lasts as long as the period of the event</td>
+</tr>
+<tr>
+<td>
+<strong>Float Time w/Air: </strong>Putting in Air in balloon will not make it float. But putting in air makes it last typically between 5-7 Days</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Celebration Balloons</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Candy Table Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-sub2_Latex Balloons</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-candy buffet</s:tag>
+    <s:tag>categ-Candy Table Decor</s:tag>
+    <s:tag>categ-Celebration Balloons</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Decorations</s:tag>
+    <s:tag>categ-Latex Balloons</s:tag>
+    <s:tag>color-Charcoal Gray</s:tag>
+    <s:tag>material-latex</s:tag>
+    <s:tag>occasion-birthday</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_25</s:tag>
+    <s:tag>size:diameter-12&quot;</s:tag>
+    <s:tag>type-hanging-decor</s:tag>
+    <s:tag>variant-BLOON_MET</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6579407323182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku>BLOON_MET_044</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584694034</id>
+    <published>2021-07-13T15:25:34-07:00</published>
+    <updated>2021-07-13T15:25:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-20-silver-dahlia-flower-bushes-artificial-wedding-bouquets"/>
+    <title>Pack of 2 | 20&quot; Silver Dahlia Flower Bushes, Artificial Wedding Bouquets</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1150</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_DAHL_002_SILV_D07.jpg?v=1626744235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1150<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity:</strong> 2 Bushes ( Total 14 Flowers)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Type</strong>: Dahlia</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Material</strong>: High Quality Silk</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Material</strong>: Plastic with inside wire</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Overall Size</strong>: 20"H x 12"W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Flowers per Bush</strong>: 7</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Size</strong>: 3"H x 6.5" Dia.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Height:</strong> 6"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Thickness:</strong> 10mm</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Size</strong>: 3.25"L x 2.5"W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Lifelike Feeling, silky soft texture, Vibrant Colors</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Bendable metal wire inside stem for firmness and flexibility</td>
+</tr>
+<tr></tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>2 Bushes ( Total 14 Flowers)<br>
+</li>
+<li>
+<strong>Flower Type:</strong><span> </span>Dahlia<br>
+</li>
+<li>
+<strong>Flower Material:</strong><span> </span>High Quality Silk<br>
+</li>
+<li>
+<strong>Stem Material:</strong><span> </span>Plastic with inside wire<br>
+</li>
+<li>
+<strong>Color:</strong><span> Silver</span><br>
+</li>
+<li>
+<strong>Overall Size:</strong><span> </span>20"H x 12"W<br>
+</li>
+<li>
+<strong>Total Flowers per Bush:</strong><span> </span>7<br>
+</li>
+<li>
+<strong>Flower Size:</strong><span> </span>3"H x 6.5" Dia.<br>
+</li>
+<li>
+<strong>Stem Height:</strong><span> </span>6"<br>
+</li>
+<li>
+<strong>Stem Thickness:</strong><span> </span>10mm</li>
+<li>
+<strong>Leaf Size</strong>: 3.25"L x 2.5"W<br>
+</li>
+<li>
+<strong>Features:</strong><span> </span>Lifelike Feeling, silky soft texture, Vibrant Colors<br>
+</li>
+<li>Bendable metal wire inside stem for firmness and flexibility<br>
+</li>
+<li>Order is for dahlia flowers only, other decorative accessories not included<br>
+</li>
+<li>These are artificial, not fresh flowers<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bouquets</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Flower Bouquets</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>flowertype-dahlia</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-20&quot;</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-ARTI_DAHL_002</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584694034</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.69</s:price>
+      <s:sku>ARTI_DAHL_002_SILV</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4682004791342</id>
+    <published>2021-07-12T10:42:22-07:00</published>
+    <updated>2021-07-12T10:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/3-ft-silver-polystone-mirror-mosaic-trumpet-floor-candle-holder"/>
+    <title>3 Ft Silver Polystone Mirror Mosaic Trumpet Floor Candle Holder</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_3600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PROP_MIR01__01_67ad24dd-2117-4a41-813c-51c389fbf381.jpg?v=1621886430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3600<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            78.99 - 289.99
+            <a href="https://www.efavormart.com/products/3-ft-silver-polystone-mirror-mosaic-trumpet-floor-candle-holder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[About]
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Polystone | Fiberglass | Mirror<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Pc per order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Height</strong>: 3 Ft<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Top</strong> <strong>Diameter</strong>: 10"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Top</strong> <strong>Opening</strong> <strong>Diameter</strong>: 7.5"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Top Depth</strong>: 9.5”<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Base</strong> <strong>Diameter</strong>: 11"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Base</strong> <strong>Thickness</strong>: 1.25"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Finish</strong>: Textured<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Brighten any room or event with shiny, sparkly, rose gold mirror mosaic accented decorative Candle Holders, you can add a dash of imperial sheen into your flower arrangements, bouquets, and plant decorations.  Either place these on their own to exude surreal shimmer and glimmer, or top with pots of fresh or artificial flowers, kissing balls, plants, or candles to create a charming medley of colors, sparkle, and festive glee.</p>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Polystone | Fiberglass | Mirror</li>
+<li>
+<strong>Qty</strong>: 1 Pc per order</li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>
+<strong>Height</strong>: 3<span> Ft</span>
+</li>
+<li>
+<strong>Top</strong> <strong>Diameter</strong>: 10"</li>
+<li>
+<strong>Top</strong> <strong>Opening</strong> <strong>Diameter</strong>: 7.5"</li>
+<li>
+<strong>Top</strong> <strong>Depth</strong>: 9.5”</li>
+<li>
+<strong>Base</strong> <strong>Diameter</strong>: 11"</li>
+<li>
+<strong>Base Thickness</strong>: 1.25"</li>
+<li>
+<strong>Finish</strong>: Textured</li>
+<li>Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns</li>
+<li>Extra bonus One Glass Mirror Strip - 1 ft length with 177 glass mirrors (approx) will be included in case of missing/damage, can be replaced easily, free of charge.</li>
+<li><span><strong>Uses</strong>: Wedding, Party, Event, Banquet, Decoration</span></li>
+</ul>
+<p><span><strong>Note:</strong> Due to delicacy of the item, pieces may fall off during transit. We will add additional mirrors with the item and  can be glue back easily.</span></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-4</s:tag>
+    <s:tag>cat-sub1_Acrylic Centerpieces</s:tag>
+    <s:tag>cat-sub1_Candle Holder Stand</s:tag>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Floor Vases &amp; Pedestals</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-sub2_Glass Candle Holders</s:tag>
+    <s:tag>cat-sub2_Glass Votive Candle Holder</s:tag>
+    <s:tag>cat-sub2_Modern Aisle Decors</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Acrylic Centerpieces</s:tag>
+    <s:tag>categ-Candle Holder Stand</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Decorations</s:tag>
+    <s:tag>categ-Glass Candle Holders</s:tag>
+    <s:tag>categ-Glass Votive Candle Holder</s:tag>
+    <s:tag>categ-Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>categ-Large Scale Events</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Props &amp; Columns</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>material-fiberglass</s:tag>
+    <s:tag>material-mirror</s:tag>
+    <s:tag>material-polystone</s:tag>
+    <s:tag>size:length-3 Ft</s:tag>
+    <s:tag>style-modern</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-centerpiece</s:tag>
+    <s:tag>variantsizev-PROP_MIR_B_CH</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4682004791342</id>
+      <title>Pack of 1 Candle Holder</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>PROP_MIR01</s:sku>
+      <s:grams>6346</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4682004791342</id>
+      <title>Case of 4 Candle Holders</title>
+      <s:price currency="USD">289.99</s:price>
+      <s:sku>PROP_MIR01_CASE</s:sku>
+      <s:grams>25383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4681996795950</id>
+    <published>2021-07-12T10:42:22-07:00</published>
+    <updated>2021-07-12T10:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/4-ft-silver-polystone-mirror-mosaic-pedestal-floor-candle-holder"/>
+    <title>4 Ft Silver Polystone Mirror Mosaic Pedestal Floor Candle Holder</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_3600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PROP_MIR09__01_b0e45b86-c6e9-4e02-8b65-332c618d3ad2.jpg?v=1621886436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3600<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            197.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[About]
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Polystone | Fiberglass | Mirror<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Pcs Candle Holder<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Height</strong>: 4 Ft <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Top</strong> <strong>Diameter</strong>: 14" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Base</strong>: 13" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Finish</strong>: Textured<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Brighten any room or event with shiny, sparkly, rose gold mirror mosaic accented decorative Candle Holders, you can add a dash of imperial sheen into your flower arrangements, bouquets, and plant decorations.  Either place these on their own to exude surreal shimmer and glimmer, or top with pots of fresh or artificial flowers, kissing balls, plants, or candles to create a charming medley of colors, sparkle, and festive glee.</p>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Polystone | Fiberglass | Mirror</li>
+<li>
+<strong>Qty</strong>: 1 Pcs Candle Holder</li>
+<li>
+<strong>Height</strong>: <span>4 Ft </span>
+</li>
+<li>
+<strong>Top</strong> <strong>Diameter</strong>: 14" </li>
+<li>
+<strong>Base</strong>: 13" </li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>
+<strong>Finish</strong>: Textured</li>
+<li>Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns</li>
+<li>Extra bonus One Glass Mirror Strip - 1 ft length with 177 glass mirrors (approx) will be sent in case of missing/damage, can be replaced easily, free of charge.</li>
+<li>
+<strong>Uses</strong>: Wedding, Party, Event, Banquet, Decoration</li>
+<li>
+<strong>Note:</strong> Due to delicacy of the item, pieces may fall off during transit. We will add additional mirrors with the item and  can be glue back easily.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Acrylic Centerpieces</s:tag>
+    <s:tag>cat-sub1_Candle Holder Stand</s:tag>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Floor Vases &amp; Pedestals</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-sub2_Glass Candle Holders</s:tag>
+    <s:tag>cat-sub2_Glass Votive Candle Holder</s:tag>
+    <s:tag>cat-sub2_Modern Aisle Decors</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Acrylic Centerpieces</s:tag>
+    <s:tag>categ-Candle Holder Stand</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Decorations</s:tag>
+    <s:tag>categ-Glass Candle Holders</s:tag>
+    <s:tag>categ-Glass Votive Candle Holder</s:tag>
+    <s:tag>categ-Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>categ-Large Scale Events</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Props &amp; Columns</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>material-fiberglass</s:tag>
+    <s:tag>material-mirror</s:tag>
+    <s:tag>material-polystone</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-4 Ft</s:tag>
+    <s:tag>style-modern</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-centerpiece</s:tag>
+    <s:tag>variant-PROP_MIR_E_CH</s:tag>
+    <s:tag>variantsizev-prop_mir_a_CH</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4681996795950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">197.99</s:price>
+      <s:sku>PROP_MIR09</s:sku>
+      <s:grams>31956</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4681995681838</id>
+    <published>2021-07-12T10:42:22-07:00</published>
+    <updated>2021-07-12T10:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/3-ft-silver-polystone-mirror-mosaic-pedestal-floor-candle-holder"/>
+    <title>3 Ft Silver Polystone Mirror Mosaic Pedestal Floor Candle Holder</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_3600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/PROP_MIR08__01_9389df78-4bd5-4fd9-b7eb-7b9e5d056236.jpg?v=1621886432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3600<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            161.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[About]
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Polystone | Fiberglass | Mirror<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Pcs Candle Holder<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Height</strong>: 3 Ft <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Top</strong> <strong>Diameter</strong>: 14" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Base</strong>: 13" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Finish</strong>: Textured<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">All sizes are approximate measurements<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Due to different light settings the actual color might vary a bit from the pictures.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Brighten any room or event‚ ambiance with an elegant sparkle that is always in style. With shiny, sparkly, silver mirror mosaic accented decorative columns, you can add a dash of imperial sheen into your flower arrangements, bouquets, and plant decorations. With stylish, glitzy, and glamorous design, these silver mosaic Candle Holders are a perfect addition to any modern home, posh party, or an elite gathering.</p>
+<p>Slender, artistic shape coupled with brilliantly mosaic mirror accented design grant these tall columns an attention grabbing charisma. Throw some light on these reflecting mirror adorned columns to create a majestic spectacle of glitz and glam. Either place these on their own to exude surreal shimmer and glimmer, or top with pots of fresh or artificial flowers, kissing balls, plants, or candles to create a charming medley of colors, sparkle, and festive glee.<br><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Polystone | Fiberglass | Mirror</li>
+<li>
+<strong>Qty</strong>: 1 Pcs Candle Holder</li>
+<li>
+<strong>Height</strong>: 3<span> Ft</span> </li>
+<li>
+<strong>Top</strong> <strong>Diameter</strong>: 14" </li>
+<li>
+<strong>Base</strong>: 13" </li>
+<li>Includes extra mirror straps</li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>
+<strong>Finish</strong>: Textured</li>
+<li>Shiny, Sparkly, Silver Mirror Mosaic Candle Holder Columns</li>
+<li>Extra bonus One Glass Mirror Strip - 1 ft length with 177 glass mirrors (approx) will be sent in case of missing/damage, can be replaced easily, free of charge.</li>
+<li>
+<strong>Uses</strong>: Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><span><strong>Note:</strong> Due to delicacy of the item, pieces may fall off during transit. We will add additional mirrors with the item and can be glue back easily.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Acrylic Centerpieces</s:tag>
+    <s:tag>cat-sub1_Candle Holder Stand</s:tag>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Floor Vases &amp; Pedestals</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-sub2_Glass Candle Holders</s:tag>
+    <s:tag>cat-sub2_Glass Votive Candle Holder</s:tag>
+    <s:tag>cat-sub2_Modern Aisle Decors</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Acrylic Centerpieces</s:tag>
+    <s:tag>categ-Candle Holder Stand</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Decorations</s:tag>
+    <s:tag>categ-Glass Candle Holders</s:tag>
+    <s:tag>categ-Glass Votive Candle Holder</s:tag>
+    <s:tag>categ-Huge Centerpieces &amp; Vases</s:tag>
+    <s:tag>categ-Large Scale Events</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Props &amp; Columns</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>material-fiberglass</s:tag>
+    <s:tag>material-mirror</s:tag>
+    <s:tag>material-polystone</s:tag>
+    <s:tag>size:length-3 Ft</s:tag>
+    <s:tag>style-modern</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-centerpiece</s:tag>
+    <s:tag>variantsizev-prop_mir_a_CH</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4681995681838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">161.99</s:price>
+      <s:sku>PROP_MIR08</s:sku>
+      <s:grams>27469</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4681919823918</id>
+    <published>2021-07-12T10:42:21-07:00</published>
+    <updated>2021-07-12T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-pack-6-rose-gold-mercury-glass-candle-holders-honeycomb-geometric-candle-holders"/>
+    <title>2 Pack - 6&quot; Rose Gold Mercury Glass Candle Holders - Honeycomb Geometric Candle Holders</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_4810</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A57_6_054__01_00113aa7-1ec5-43f5-a778-06d0b37d5a12.jpg?v=1618864455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4810<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>1 Qty</strong>: 2 Mercury Glass Candle Holder</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Material</strong>: Glass</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Color: </strong>Rose Gold Exterior | Silver Interior</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Style: </strong>Geometric Hexagon Faces</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Height</strong>: 6"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Candle Holder Width: </strong>7.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Depth: </strong>6"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Top Diameter: </strong>5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Base Diameter:</strong> 5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Opening Diameter: </strong>4.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Glass Thickness: </strong>1/2 cm</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Premium Quality: </strong>Made from heavy, handcrafted, mercury glass</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Unique Geometrical Design: </strong>Suitable for all styles: Modern, Contemporary, Eclectic or Vintage</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>Perfect for floral and candle displays</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p> </p>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A57_6_054_D07_240x240.jpg?v=1572662639" alt=""></td>
+<td>
+<h3 class="item-header">Mercury Glass Finish</h3>
+<p>Glistening whimsy of mercury glass harmonizes with urbanity of contemporary style geometric construction in these gorgeous glass Candle Holders. Featuring sparkling splattered metallic mercury glass finish with quirky hexagonal design formation; these Candle Holders boast modern aesthetics and mystic metallic sheen.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Multi-Purpose &amp; Versatile</h3>
+<p>Stunning to the look and impact, these glam mercury glass Candle Holders will instantly add pizzazz and glamour to your otherwise plain spaces. Perfect to glam your wedding or party tables up, these plush pieces can also elegantly be used to give your dining tables, coffee tables, kitchen counters, and even office desk a touch of regal air.</p>
+</td>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A57_6_054_D06_240x240.jpg?v=1572662638" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A57_6_054_D09_240x240.jpg?v=1572662639" alt=""></td>
+<td>
+<h3 class="item-header">Sturdy &amp; Durable</h3>
+Heavy weight glass construction makes these beauties a sturdy and durable decorative accessory to be used indoors and outdoors with the same classy sophistication. Perfect to be used as standalone accent pieces, you can create epic party and wedding centerpieces by filling seasonal or silk flowers, candles, LEDs, and other accessories. Besides making breathtaking accent pieces, these geometric Candle Holders can also be given as thoughtful and practical gifts for anniversary, wedding, birthdays, and as a house warming gift.</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Can put water, sand, and vase fillers</li>
+<li>A great container for Wedding Reception or Garden Style Wedding Decor.</li>
+<li>Makes a perfect and memorable gift!</li>
+<li>
+<strong>Note:</strong> Exterior and Interior are mix of concave and convex protrusions</li>
+</ul>
+<div class="p-rich_text_section">
+<b data-stringify-type="bold">How to Care:</b><br>
+</div>
+<ul data-indent="0" class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list">
+<li>Prior to first use, glass pieces should be hand washed individually in warm soapy water, rinsed thoroughly and dried with a lint free cloth.</li>
+<li>For optimal finish &amp; clarity, clean with a 50/50 solution of vinegar and water, let stand for a few hours then rinse well and dry with a lint free cloth.</li>
+<li>Our glass is produced overseas in extremely large quantities for our wholesale customers, due to transit and mass storage, all Candle Holders should be cleaned before use to remove any accumulated dust/dirt.</li>
+<li>Glass pieces should not be cleaned in a dish washer. Do not use products in microwaves or conventional ovens.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Geometric Candle Holders</s:tag>
+    <s:tag>cat-sub1_Geometric Decors</s:tag>
+    <s:tag>cat-sub1_Table Top Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub1_Votive Candle Holders</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Geometric Candle Holder</s:tag>
+    <s:tag>cat-sub2_Glass Candle Holders</s:tag>
+    <s:tag>cat-sub2_Glass Geometric Vases</s:tag>
+    <s:tag>cat-sub2_Glass Votive Candle Holder</s:tag>
+    <s:tag>cat-sub2_Votive Candle Holders</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>cat-top_Wedding Favors</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Geometric Candle Holder</s:tag>
+    <s:tag>categ-Glass Candle Holders</s:tag>
+    <s:tag>categ-Glass Votive Candle Holder</s:tag>
+    <s:tag>categ-Glass Votive Holder</s:tag>
+    <s:tag>categ-Table Centerpieces</s:tag>
+    <s:tag>categ-Table Top Decor</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-glass</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-6&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4681919823918</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>VASE_A57_6_054</s:sku>
+      <s:grams>2808</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4681900392494</id>
+    <published>2021-07-12T10:42:21-07:00</published>
+    <updated>2021-07-12T10:42:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/9-silver-acrylic-300-crystal-beaded-bowl-pedestal-candle-holder"/>
+    <title>9&quot; Silver Acrylic 300 Crystal Beaded Bowl Pedestal Candle Holder</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_4400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHDLR_059_SILV__01_1c09a93e-5999-4095-87ad-5dfb30c111de.jpg?v=1610516972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4400<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            51.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> Metal with Acrylic Crystals</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong> 1 Pc/Order</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color: </strong>Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Height:</strong> 9" </td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width:</strong> 12"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Depth:</strong> <span>5" </span>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Base:</strong> 6" </td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Bowl Opening:</strong> 9" </td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Acrylic Crystal Size:</strong> 0.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Crystal Count:</strong> 300 (Approx)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Multipurpose Use: </strong>Decorative Bowl, Fruit Bowl, Candy Dish, Tea Light Candle Holder, Centerpieces</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings, the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+Glamorize your wedding and party tables with this stunning masterpiece of seamless sparkle that features rows and rows of gem cut crystal beads, masterfully looped by shiny metallic silver rings. Combining intricate craftsmanship with regal glitz and glam, this lovely candle holder is an ideal decorative accent to elegantly titivate your Home, Office, or Party Space. Glistening metallic silver surface coupled with the multi-faceted acrylic crystal gems impart a royal feel and an opulent appeal to any table settings. This ornate beauty makes an affectionate gift to remind your loved ones of your elite aesthetic taste, and can also be used as a luxurious Candle Holder, Flower Vase, Flower Ball Holder, or simply as a deluxe Wedding Centerpiece. For a truly gorgeous setup, pair this plush piece with our Acrylic Crystal Candlesticks, Candle Holders, Chandelier Vases, Glass Candelabras, Crystal Pendant Centerpieces, Metal Cake and Cupcake Stands, and other Diamond Crystal Ornamentations. <br><br> <strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>Metal with Acrylic Crystals</li>
+<li>
+<strong>Quantity: </strong><span> </span>1 Pc/Order</li>
+<li>
+<strong>Color: </strong>Silver</li>
+<li>
+<strong>Height:</strong><span> </span>9" </li>
+<li>
+<strong>Width:</strong><span> </span>12"</li>
+<li>
+<strong>Depth:</strong><span> </span><span>5" </span>
+</li>
+<li>
+<strong>Base:</strong><span> </span>6" </li>
+<li>
+<strong>Bowl Opening:</strong><span> </span>9" </li>
+<li>
+<strong>Each Acrylic Crystal Size:</strong><span> </span>0.5"</li>
+<li>
+<strong>Crystal Count:</strong><span> </span>300 (Approx)</li>
+<li>
+<strong>Multipurpose Use</strong> : Decorative Bowl, Fruit Bowl, Candy Dish, Tea Light Candle Holder, Centerpieces</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Acrylic Diamond Chandelier Collection</s:tag>
+    <s:tag>cat-sub1_Candle Holder Stand</s:tag>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Centerpieces and Decor</s:tag>
+    <s:tag>cat-sub1_Table Top Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub1_Votive Candle Holders</s:tag>
+    <s:tag>cat-sub2_Acrylic Diamond Centerpieces</s:tag>
+    <s:tag>cat-sub2_Beaded Candle Holder</s:tag>
+    <s:tag>cat-sub2_Metal Candle Holder Stand</s:tag>
+    <s:tag>cat-sub2_Votive Candle Holders</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Beaded Candle Holder</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Crystal | Metal Votive Holder</s:tag>
+    <s:tag>categ-Glass Votive Holder</s:tag>
+    <s:tag>categ-Table Centerpieces</s:tag>
+    <s:tag>categ-Table Top Decor</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-crystal</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>size:height-9&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>variant-CHDLR_059_X_CH</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4681900392494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.39</s:price>
+      <s:sku>CHDLR_059_SILV1</s:sku>
+      <s:grams>2513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6612567064622</id>
+    <published>2021-07-09T17:22:46-07:00</published>
+    <updated>2021-07-09T17:22:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/6-pack-3-silver-mercury-glass-candle-holders-votive-tealight-holders-assorted-geometric-designs"/>
+    <title>6 Pack | 3&quot; Silver Mercury Glass Candle Holders, Votive Tealight Holders - Assorted Geometric Designs</title>
+    <s:type>Centerpieces</s:type>
+    <s:vendor>HIER_4320</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CAND_HOLD_001_S_MSILV__01.jpg?v=1626124209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4320<br>
+        <strong>Type: </strong>Centerpieces<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 6 Candle Holders</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Glass</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Mercury Finish with Assorted Geometric Design</td>
+</tr>
+<tr>
+<td>
+<p><strong>3 Different Designs:</strong></p>
+<li>(2x) Diamond</li>
+<li>(2x) Diamond w/Circles</li>
+<li>(2x) Triangle</li>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Each Candle Holder Size:</strong> 3"H x 2.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Top Diameter: </strong>2.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Bottom Diameter: </strong>2"</td>
+</tr>
+<tr>
+<td>
+<strong>Inner Depth:</strong> 2.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness:</strong> 2mm</td>
+</tr>
+<tr>
+<td>These classic glass votives are perfect for home decor, wedding, reception, quinceanera, parties or any events.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong> Quantity:</strong> 6 Candle Holders<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Material:</strong> Glass<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Color:</strong> Silver</li>
+<li>
+<strong>Style:</strong> Mercury Finish with Assorted Geometric Design<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Each Candle Holder Size:</strong> 3"H x 2.75"W<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Top Diameter:</strong> 2.75"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Bottom Diameter:</strong> 2"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Inner Depth:</strong> 2.75"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Thickness:</strong> 2mm</li>
+<li>
+<strong>Note: </strong>Candles and other decorations are not included</li>
+<li>For safety precautions we recommend the votive candle holders to be used with an LED tea light. However, regular tea light candles may also be used.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Table Decoration</li>
+</ul>
+<p><strong>Care Instructions</strong>:</p>
+<ul data-indent="1" class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list">
+<li data-stringify-indent="1">Our glass is produced overseas in extremely large quantities for our wholesale customers, due to transit and mass storage, all vases should be cleaned before use to remove any accumulated dust/dirt.</li>
+<li data-stringify-indent="1">Glass pieces should not be cleaned in a dish washer. Do not use products in microwaves or conventional ovens</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Candle Holders</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Table Top Decor</s:tag>
+    <s:tag>cat-sub1_Votive Candle Holders</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Glass Candle Holders</s:tag>
+    <s:tag>cat-sub2_Votive Candle Holders</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>cat-top_Wedding Favors</s:tag>
+    <s:tag>categ-Candle Holders</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Glass Candle Holders</s:tag>
+    <s:tag>categ-Glass Votive Holder</s:tag>
+    <s:tag>categ-Home Decoration</s:tag>
+    <s:tag>categ-Small votive holder</s:tag>
+    <s:tag>categ-Table Centerpieces</s:tag>
+    <s:tag>categ-Table Top Decor</s:tag>
+    <s:tag>categ-Wedding Centerpieces</s:tag>
+    <s:tag>categ-Wedding Favors</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>single-unit-count_6</s:tag>
+    <s:tag>size:height-3&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>variant-CAND_HOLD_001_S_</s:tag>
+    <s:tag>variantstylev-CAND_HOLD_00_SILV</s:tag>
+    <s:tag>vstylev-Assorted Geometric</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6612567064622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>CAND_HOLD_001_S_MSILV</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6612222738478</id>
+    <published>2021-07-09T16:36:43-07:00</published>
+    <updated>2021-07-09T16:36:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-16-white-disposable-round-serving-trays-7-compartment-food-trays-with-silver-rim"/>
+    <title>Pack of 2 | 16&quot; White Disposable Round Serving Trays, 7-Compartment Food Trays With Silver Rim</title>
+    <s:type>Serving Tray</s:type>
+    <s:vendor>HIER_5400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/DSP_TR0002_16_WHTSV__01.jpg?v=1626121683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5400<br>
+        <strong>Type: </strong>Serving Tray<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 2 Serving Trays</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Heavy Duty Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White with Silver Rims</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 16” Dia. x 1.25” Depth</td>
+</tr>
+<tr>
+<td>
+<strong>Style</strong>: Round Tray with 7 Sections</td>
+</tr>
+<tr>
+<td>
+<strong>Total Outer Sections</strong>: 6</td>
+</tr>
+<tr>
+<td>
+<strong>Outer Section Size:</strong> 7”L x 4.5”W x 1”Depth</td>
+</tr>
+<tr>
+<td>
+<strong>Round Middle Section Size:</strong> 5.75”Dia. x 1” Depth</td>
+</tr>
+<tr>
+<td>
+<strong>Inner Bottom Width</strong>: 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness</strong>: 2mm</td>
+</tr>
+<tr>
+<td>
+<strong>BPA Free</strong>: Yes</td>
+</tr>
+<tr>
+<td>Great for dips and chips, hummus and veggies, party snacks, taste testing</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Perfect for wedding, birthday, upscale occasions, and any special events</li>
+<li>
+<strong>How to Care</strong>: Clean with Mild Soap and Water</li>
+<li>
+<strong>WARNING</strong>: Not Microwave or Dishwasher Safe</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Appetizer &amp; Desserts</s:tag>
+    <s:tag>cat-sub1_Disposable Tableware</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Decorative Trays</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Appetizer &amp; Desserts</s:tag>
+    <s:tag>categ-Decorative Trays</s:tag>
+    <s:tag>categ-Disposable Party Supplies</s:tag>
+    <s:tag>categ-Disposable Tableware</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:diameter-16&quot;</s:tag>
+    <s:tag>style-disposables</s:tag>
+    <s:tag>type-disposable</s:tag>
+    <s:tag>type-tray</s:tag>
+    <s:tag>variant-DSP_TR000</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6612222738478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DSP_TR0002_16_WHTSV</s:sku>
+      <s:grams>816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/10723891922</id>
+    <published>2021-07-08T10:29:32-07:00</published>
+    <updated>2021-07-08T10:29:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-silver-round-metal-cake-stand-with-mirror-top"/>
+    <title>Set of 3 | Silver Round Metal Cake Stand With Mirror Top</title>
+    <s:type>Cake Stands</s:type>
+    <s:vendor>HIER_4100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHDLR_045_SILV__01.jpg?v=1617385050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4100<br>
+        <strong>Type: </strong>Cake Stands<br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: Set of 3 Cake Stands</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Metal with Mirror Top</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Silver</td>
+</tr>
+<tr>
+<td>
+<p><strong>Large Cake Stand</strong></p>
+<ul>
+<li>
+<strong>Total Height:</strong> 12"</li>
+<li>
+<strong>Total Diameter:</strong> 11"</li>
+<li>
+<strong>Thickness:</strong> 0.4cm</li>
+<li>
+<strong>Rim on Mirror Top:</strong> 0.25"</li>
+<li>Total 14 chains; 7 with pendant (2.5" long, 1 acrylic circle + 1 pendant) &amp; 7 loops with 2" lowest drop (5 acrylic)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Medium Cake Stand</strong></p>
+<ul>
+<li>
+<strong>Total Height:</strong> 10"</li>
+<li>
+<strong>Total Diameter:</strong> 9"</li>
+<li>Total 10 chains with 5 pendant and 5 loops (1.5" lowest drop)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Small Cake Stand</strong></p>
+<ul>
+<li>
+<strong>Total Height:</strong> 8"</li>
+<li>
+<strong>Total Diameter:</strong> 8"</li>
+<li>Total 8 Chains; 4 pendant and 4 loops (1" being the lowest drop)</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Inclusions</strong>: 3 Poles (2", 4", 6") | 3 Screws (0.75") | 3 Bases (5")</td>
+</tr>
+<tr>
+<td>Easy to Assemble Parts</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Uses</strong>: Wedding, Party, Birthday, Event, Table Decoration, Centerpieces</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Acrylic Cake Stands</s:tag>
+    <s:tag>cat-sub1_Acrylic Diamond Chandelier Collection</s:tag>
+    <s:tag>cat-sub1_Candy Buffet Decoration</s:tag>
+    <s:tag>cat-sub1_Chandeliers &amp; Crystal</s:tag>
+    <s:tag>cat-sub1_Crystal Cake Stands</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Acrylic Diamond Cake Stand and Toppers</s:tag>
+    <s:tag>cat-sub2_Cake Stand &amp; Candle Holder</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-top_Cake Stands &amp; Toppers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Tabletop Decors</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>etsy-cakestands</s:tag>
+    <s:tag>material-crystal</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>type-cake-stand</s:tag>
+    <s:tag>variant-CHDLR_045</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/10723891922</id>
+      <title>Default Title</title>
+      <s:price currency="USD">78.99</s:price>
+      <s:sku>CHDLR_045_SILV</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/745192357934</id>
+    <published>2021-07-08T10:00:42-07:00</published>
+    <updated>2021-07-08T10:00:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/17-flared-top-silver-metal-flower-ball-stand-candle-holder"/>
+    <title>17&quot; Flared Top Silver Metal Flower Ball Stand Candle Holder</title>
+    <s:type>Vases</s:type>
+    <s:vendor>HIER_4500</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHDLR_052_SILV_D10.JPG?v=1591990577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4500<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            29.08 - 110.58
+            <a href="https://www.efavormart.com/products/17-flared-top-silver-metal-flower-ball-stand-candle-holder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Candle Holder / Order</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Metal </td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Total Height</strong>: 17"</td>
+</tr>
+<tr>
+<td>
+<strong data-mce-fragment="1">Stem Height:</strong> 14"</td>
+</tr>
+<tr>
+<td>
+<strong>Base Diameter</strong>: 6"</td>
+</tr>
+<tr>
+<td>
+<strong>Base Thickness</strong>: 1"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Diameter</strong>: 2"</td>
+</tr>
+<tr>
+<td>
+<strong>Bowl Depth: </strong>2"<strong></strong>
+</td>
+</tr>
+<tr>
+<td><a href="https://www.efavormart.com/collections/type-candle" target="_blank"><strong>Click here for our Candle Collection</strong></a></td>
+</tr>
+<tr>
+<td><a href="https://www.efavormart.com/collections/kissing-balls" target="_blank"><strong>Click here for our Flower Balls Collection</strong></a></td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4>[Information]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" data-mce-style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHDLR_052_SILV__01.progressive_5307f650-92f3-4d18-a5b9-7c0f93b46cce_240x240.jpg?v=1617665837"></td>
+<td>
+<h3 class="item-header">Metal Flower Ball Stand</h3>
+<p>Sleek, Stylish, and Shapely! Fashioned from sturdy, finely polished gold metal and styled elegantly in a gorgeous flared shape, this shiny showpiece makes a luxurious Floral Centerpiece Riser, Candle Holder, Flower Ball Holder, and an ornate Floor Décor Accent. Standing 17" tall, this elevated beauty will extravagantly showcase your beautiful Floral and Candle Decoration without hindering your view and vision.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="714" height="166">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Candle Holder</h3>
+<p>Featuring a sleek solid stem tapered masterfully and splayed base and top, this spangled stand will add regal elegance to your Banquet and Party Tables, Guest and Wedding Tables, Backstage Decoration, Aisle Passages, and Floor Decorations. </p>
+</td>
+<td style="text-align: center;" data-mce-style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHDLR_052_SILV_D12_grande.progressive_de02bca9-2618-4ceb-8e06-6b3c6e1e9fd5_240x240.jpg?v=1617665578" alt=""></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;" data-mce-style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHDLR_052_SILV_D10_grande.progressive_0f978071-d84b-4076-bade-66b47e062e48_240x240.jpg?v=1617665846"></td>
+<td>
+<h3 class="item-header">Multi-Use</h3>
+<p>The flared top is wide enough to gorgeously hold our Rose Pomander or Hydrangea Flower Balls, Box weed Foliage Ball, Pillar Candles, Bird Cages, LED Fairy and String Lights, Glass Terrariums, and other ornamentations. For a pure Imperial Look, pair this beauty with our Gold Metal, Crystal, or Ceramic Vases, Centerpiece Risers, Candelabras, Candle Stands, and Floral Pots.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong> 1 Candle Holder / Order<br>
+</li>
+<li>
+<strong>Material:</strong> Metal <br>
+</li>
+<li>
+<strong>Color:</strong> Silver<br>
+</li>
+<li>
+<strong>Total Height:</strong> 17"<br>
+</li>
+<li>
+<strong>Stem Height:</strong> 14"<br>
+</li>
+<li>
+<strong>Base Diameter:</strong> 6"<br>
+</li>
+<li>
+<strong>Base Thickness:</strong> 1"<br>
+</li>
+<li>
+<strong>Stem Diameter:</strong> 2"<br>
+</li>
+<li>
+<strong>Bowl Depth:</strong> 2"<br>
+</li>
+<li>
+<strong>Best Uses:</strong> Table Top Candle Holder, Fire Place Candle Holder, Wedding Centerpiece Candle Holder, Christmas Candle Holders, Home Decor, Candle Holders for Weddings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-4</s:tag>
+    <s:tag>cat-sub1_Candle Holder Stand</s:tag>
+    <s:tag>cat-sub1_Centerpieces and Decor</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub1_Table Top Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub1_Votive Candle Holders</s:tag>
+    <s:tag>cat-sub2_Metal Candle Holder Stand</s:tag>
+    <s:tag>cat-sub2_Metal Vases</s:tag>
+    <s:tag>cat-sub2_Votive Candle Holders</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Candelabra</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>cat-top_Wedding Favors</s:tag>
+    <s:tag>categ-Candle Holder Stand</s:tag>
+    <s:tag>categ-Centerpieces and Decor</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Metal Candle Holder Stand</s:tag>
+    <s:tag>categ-Metal Vases</s:tag>
+    <s:tag>categ-Small votive holder</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>categ-Vases</s:tag>
+    <s:tag>categ-Wedding Favors</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>size:height-17&quot;</s:tag>
+    <s:tag>type-Flared Top Vases</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/745192357934</id>
+      <title>Pack of 1 Floral Vase Riser</title>
+      <s:price currency="USD">29.08</s:price>
+      <s:sku>CHDLR_052_SILV</s:sku>
+      <s:grams>1610</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/745192357934</id>
+      <title>Case of 4 Floral Vase Risers</title>
+      <s:price currency="USD">110.58</s:price>
+      <s:sku>CHDLR_052_SILV_CASE</s:sku>
+      <s:grams>6441</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,2753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/overlays-napkins.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-08-17T09:20:16-07:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/8569774802</id>
+    <published>2021-08-17T09:20:16-07:00</published>
+    <updated>2021-08-17T09:20:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90-x-90-blue-crinkle-crushed-taffeta-square-tablecloth-overlay"/>
+    <title>90&quot; x 90&quot; Blue Crinkle Crushed Taffeta Square Tablecloth Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY90_CRNK_BLUE__01.jpg?v=1619469843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            6.98 - 321.09
+            <a href="https://www.efavormart.com/products/90-x-90-blue-crinkle-crushed-taffeta-square-tablecloth-overlay">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Taffeta Crinkle with Metallic Shine Finish</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>90" x 90"</td>
+</tr>
+<tr>
+<td>
+<strong>Edges:</strong> Serged</td>
+</tr>
+<tr>
+<td>
+<strong>How to Care:</strong> Hand Wash and Hang Dry only.</td>
+</tr>
+<tr>
+<td>Seamless, 1 pc design.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Let this exquisite overlay enchant the entire ambiance of your special event with its seamless luster and upscale look. Blending the modern flair with traditional sophistication, this magnum opus is simply magnificent. Spread it atop your dreary tables or plain, lackluster table covers to achieve the excellence of class and vibrancy. The lovely crinkles accented all over the surface coupled with the impeccable metallic glint of lustrous taffeta will impart an imperial sublimity to whatever you adorn it with.<br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Size:</strong> 90"x90" square</li>
+<li>
+<strong>Edges:</strong> Serged.</li>
+<li>
+<strong>Fabric:</strong> Taffeta Crinkle w/ Metallic Shine finish.</li>
+<li>
+<strong>How to Care:</strong> Hand wash and Hang dry only</li>
+<li>Seamless, 1 pc design</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-50</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Crinkle Collection</s:tag>
+    <s:tag>color-light-blue</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-90&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>styletype-Elegant</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay90_crnk</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569774802</id>
+      <title>Pack of 1 Overlay</title>
+      <s:price currency="USD">6.98</s:price>
+      <s:sku>LAY90_CRNK_BLUE</s:sku>
+      <s:grams>431</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569774802</id>
+      <title>Case of 50 Overlays</title>
+      <s:price currency="USD">321.09</s:price>
+      <s:sku>LAY90_CRNK_BLUE_CASE</s:sku>
+      <s:grams>21546</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8569771026</id>
+    <published>2021-08-10T10:24:15-07:00</published>
+    <updated>2021-08-10T10:24:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/85-x-85-champagne-pintuck-square-overlay"/>
+    <title>85&quot; x 85&quot; Champagne Pintuck Square Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY85_PTK_CHMP.jpg?v=1571438697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            9.88 - 225.28
+            <a href="https://www.efavormart.com/products/85-x-85-champagne-pintuck-square-overlay">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Taffeta Pintuck</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Champagne</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>85" x 85"</td>
+</tr>
+<tr>
+<td>
+<strong>Each Square Measures:</strong> 3" x 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Edges: </strong>Serged</td>
+</tr>
+<tr>
+<td>
+<b>How to Care: </b>Hand wash only. Hang dry, Don't use a dryer.</td>
+</tr>
+<tr>
+<td>Perfect to be used on top of <a href="https://www.efavormart.com/collections/tablecloths" title="Tablecloths">our tablecloths</a> as accents.</td>
+</tr>
+<tr>
+<td>Can be used for weddings, banquets, or any type of celebration.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Pintuck is actually a fold of fabric that is stitched intricately to hold it in a place, very much like a pleat. These lovely pleats impart a decorative effect to the fabric by fashioning a visual line at a chosen point. They effortlessly bridge vintage and contemporary styles to create a majestic new classic look. If you do not want your celebration to blend in with other weddings, birthdays, and anniversaries, try our premium quality pintuck overlays that contain everything you need to lend your event the look and aura that it deserves. Celebrate your special day with our splendid square pintuck style table cloths spread elegantly atop your plain and ordinary table covers. Be the show stopper by designing some awesome bows and other accents with pintuck patterns and style. Create an inviting ambiance for your guests by throwing a pintuck theme ambiance containing squared pattern napkins, sashes, runners, and linens.</p>
+<p><strong data-mce-fragment="1">Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Measurements:</strong> 85" x 85" Square</li>
+<li>
+<strong>How to Care</strong>: Hand wash only. Hang dry, don't use dryer.</li>
+<li>
+<strong>Material:</strong> Taffeta Pintuck. Edges are Serged.</li>
+<li>
+<strong>Each square measures</strong> : 3"x3".</li>
+<li>Perfect to be used on top of our tablecloths as accents.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Pintuck Collection</s:tag>
+    <s:tag>color-champagne</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size-85&quot; x 85&quot;</s:tag>
+    <s:tag>size:length-85&quot;</s:tag>
+    <s:tag>size:width-85&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-pintuck</s:tag>
+    <s:tag>styletype-Modern</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay85_ptk</s:tag>
+    <s:tag>variantsizev-LAY_PTK_CHMP</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569771026</id>
+      <title>Pack of 1 Overlay</title>
+      <s:price currency="USD">9.88</s:price>
+      <s:sku>LAY85_PTK_CHMP</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569771026</id>
+      <title>Case of 24 Overlays</title>
+      <s:price currency="USD">225.28</s:price>
+      <s:sku>LAY85_PTK_CHMP_CASE</s:sku>
+      <s:grams>10995</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6632980971566</id>
+    <published>2021-08-05T16:43:22-07:00</published>
+    <updated>2021-08-05T16:43:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-pack-metallic-gold-butterfly-napkin-rings-paper-napkin-holders"/>
+    <title>5 Pack | Metallic Gold Butterfly Napkin Rings, Paper Napkin Holders</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2310</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_RING11_GOLD_D12.jpg?v=1628265802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2310<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 5 Napkin Rings</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Metal</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Butterfly Napkin Ring Holder</td>
+</tr>
+<tr>
+<td>
+<strong>Height:</strong> 1"</td>
+</tr>
+<tr>
+<td>
+<strong>Diameter:</strong> 1.75"</td>
+</tr>
+<tr>
+<td>Perfectly goes with our wide selection of Napkins</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+<tr>
+<td><strong><a href="https://www.efavormart.com/collections/napkins" target="_blank">Click Here for our Napkin Collection</a></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Easy to Clean: </strong>Wipe it gently with a dry or damp cloth.</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Napkin Rings</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:diameter-1.75&quot;</s:tag>
+    <s:tag>size:height-1&quot;</s:tag>
+    <s:tag>type-napkin-ring</s:tag>
+    <s:tag>variantstylev-NAP_RING1</s:tag>
+    <s:tag>vstylev-Butterfly</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6632980971566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>NAP_RING11_GOLD</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6632962654254</id>
+    <published>2021-08-05T16:42:59-07:00</published>
+    <updated>2021-08-05T16:42:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-pack-metallic-gold-geometric-napkin-rings-paper-napkin-holders"/>
+    <title>5 Pack | Metallic Gold Geometric Napkin Rings, Paper Napkin Holders</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2310</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_RING12_GOLD_D11.jpg?v=1628266018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2310<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 5 Napkin Rings</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Metal</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Geometric Napkin Ring Holder</td>
+</tr>
+<tr>
+<td>
+<strong>Height:</strong> 1"</td>
+</tr>
+<tr>
+<td>
+<strong>Diameter:</strong> 1.75"</td>
+</tr>
+<tr>
+<td>Perfectly goes with our wide selection of Napkins</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+<tr>
+<td><strong><a href="https://www.efavormart.com/collections/napkins" target="_blank">Click Here for our Napkin Collection</a></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Easy to Clean: </strong>Wipe it gently with a dry or damp cloth.</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Napkin Rings</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-Metal</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:diameter-1.75&quot;</s:tag>
+    <s:tag>size:height-1&quot;</s:tag>
+    <s:tag>type-napkin-ring</s:tag>
+    <s:tag>variantstylev-NAP_RING1</s:tag>
+    <s:tag>vstylev-Geometric Cut</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6632962654254</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>NAP_RING12_GOLD</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/9801842898</id>
+    <published>2021-08-04T14:26:20-07:00</published>
+    <updated>2021-08-04T14:26:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90-sage-green-satin-overlay-seamless-square-table-overlays"/>
+    <title>90&quot; | Sage Green Satin Overlay | Seamless Square Table Overlays</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY90_STN_SAGE__01.jpg?v=1627344391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            5.68 - 209.02
+            <a href="https://www.efavormart.com/products/90-sage-green-satin-overlay-seamless-square-table-overlays">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Satin</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Sage Green</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>90" x 90"</td>
+</tr>
+<tr>
+<td>Seamless, Edges are Serged.</td>
+</tr>
+<tr>
+<td>Stain &amp; Wrinkle Resistant</td>
+</tr>
+<tr>
+<td>Perfect to be used on top of <a title="Tablecloths" href="https://www.efavormart.com/collections/tablecloths">our tablecloths</a> as accents.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Measurements:</strong><span> </span>90" x 90", square</li>
+<li>Edges are Serged.</li>
+<li>This is a SEAMLESS design. 1 piece of fabric.</li>
+<li>Stain &amp; wrinkle resistant<br>
+</li>
+<li>
+<strong>Material</strong><span> </span>: Satin<br>
+</li>
+<li>Perfect to be used on top of our tablecloths as accents.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ateg-Sage Green Overlays &amp; Runners</s:tag>
+    <s:tag>Case-40</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Satin Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>categ-Satin Overlays</s:tag>
+    <s:tag>categ-Satin Table Overlay</s:tag>
+    <s:tag>color-sage-green</s:tag>
+    <s:tag>material-satin</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-90&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay90_stn</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9801842898</id>
+      <title>Pack of 1 Overlay</title>
+      <s:price currency="USD">5.68</s:price>
+      <s:sku>LAY90_STN_SAGE</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9801842898</id>
+      <title>Case of 40 Overlays</title>
+      <s:price currency="USD">209.02</s:price>
+      <s:sku>LAY90_STN_SAGE_CASE</s:sku>
+      <s:grams>11249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/9801769490</id>
+    <published>2021-08-02T09:15:07-07:00</published>
+    <updated>2021-08-02T09:15:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/85-x-85-black-pintuck-square-overlay"/>
+    <title>85&quot; x 85&quot; Black Pintuck Square Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY85_PTK_BLK.jpg?v=1571439076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            9.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Taffeta Pintuck</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Black</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>85" x 85"</td>
+</tr>
+<tr>
+<td>
+<strong>Each Square Measures:</strong> 3" x 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Edges: </strong>Serged</td>
+</tr>
+<tr>
+<td>
+<b>How to Care: </b>Hand wash only. Hang dry, Don't use a dryer.</td>
+</tr>
+<tr>
+<td>Perfect to be used on top of <a href="https://www.efavormart.com/collections/tablecloths" title="Tablecloths">our tablecloths</a> as accents.</td>
+</tr>
+<tr>
+<td>Can be used for weddings, banquets, or any type of celebration.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Pintuck is actually a fold of fabric that is stitched intricately to hold it in a place, very much like a pleat. These lovely pleats impart a decorative effect to the fabric by fashioning a visual line at a chosen point. They effortlessly bridge vintage and contemporary styles to create a majestic new classic look. If you do not want your celebration to blend in with other weddings, birthdays, and anniversaries, try our premium quality pintuck overlays that contain everything you need to lend your event the look and aura that it deserves. Celebrate your special day with our splendid square pintuck style table cloths spread elegantly atop your plain and ordinary table covers. Be the show stopper by designing some awesome bows and other accents with pintuck patterns and style. Create an inviting ambiance for your guests by throwing a pintuck theme ambiance containing squared pattern napkins, sashes, runners, and linens.</p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Measurements:</strong> 85" x 85" Square</li>
+<li>
+<strong>How to Care:</strong> Hand wash only. Hang dry, don't use dryer.</li>
+<li>
+<strong>Material:</strong> Taffeta Pintuck.  Edges are Serged.</li>
+<li>
+<strong>Each square measures:</strong> 3"x3".</li>
+<li>Perfect to be used on top of our tablecloths as accents.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size-85&quot; x 85&quot;</s:tag>
+    <s:tag>size:length-85&quot;</s:tag>
+    <s:tag>size:width-85&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-pintuck</s:tag>
+    <s:tag>styletype-Modern</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay85_ptk</s:tag>
+    <s:tag>variantsizev-LAY_PTK_BLK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9801769490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.88</s:price>
+      <s:sku>LAY85_PTK_BLK</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6647549427758</id>
+    <published>2021-07-28T19:01:02-07:00</published>
+    <updated>2021-07-28T19:01:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/20-pcs-cupcake-beverage-cocktail-napkins-disposable-paper-napkins-11x9"/>
+    <title>20 PCS | Cupcake Beverage Cocktail Napkins, Disposable Paper Napkins - 11&quot;x9&quot;</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_5470</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_BEV04_CAKE_D03.jpg?v=1627573318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5470<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>﻿[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 20 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Paper</td>
+</tr>
+<tr>
+<td>
+<strong>Napkin Color:</strong> White | Orange | Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Cupcake Style Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Shape</strong>: Cupcake</td>
+</tr>
+<tr>
+<td>
+<strong>Unfolded Size:</strong> 11"L x 9.25"W</td>
+</tr>
+<tr>
+<td>
+<strong>Bi-Folded Size:</strong> 4.75"L x 5.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Bio-Degradable</strong>: Yes</td>
+</tr>
+<tr>
+<td>
+<strong>Eco-Friendly</strong>: Yes</td>
+</tr>
+<tr>
+<td><b data-stringify-type="bold">All sizes are approximate measurements</b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information</strong>:</p>
+<ul>
+<li>Perfect for wiping up spills or protecting party tables from water rings while serving drinks</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub1_Paper Napkins</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Paper Napkins</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Paper Napkins</s:tag>
+    <s:tag>categ-Party Decors</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>color-orange</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-paper</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>single-unit-count_20</s:tag>
+    <s:tag>size:length-11&quot;</s:tag>
+    <s:tag>size:width-9&quot;</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_BEV04_</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6647549427758</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>NAP_BEV04_CAKE</s:sku>
+      <s:grams>336</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6647588192302</id>
+    <published>2021-07-28T19:00:35-07:00</published>
+    <updated>2021-07-28T19:00:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/20-pack-strawberry-beverage-cocktail-napkins-disposable-paper-napkins-11x9"/>
+    <title>20 Pack | Strawberry Beverage Cocktail Napkins, Disposable Paper Napkins - 11&quot;x9&quot;</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_5470</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_BEV04_STRW_D03.jpg?v=1627573339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5470<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>﻿[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 20 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Paper</td>
+</tr>
+<tr>
+<td>
+<strong>Napkin Color:</strong> Red | Green</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong>  Strawberry Style Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Shape</strong>: Strawberry</td>
+</tr>
+<tr>
+<td>
+<strong>Unfolded Size:</strong> 11"L x 9.25"W</td>
+</tr>
+<tr>
+<td>
+<strong>Bi-Folded Size:</strong> 4.75"L x 5.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Bio-Degradable</strong>: Yes</td>
+</tr>
+<tr>
+<td>
+<strong>Eco-Friendly</strong>: Yes</td>
+</tr>
+<tr>
+<td><b data-stringify-type="bold">All sizes are approximate measurements</b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information</strong>:</p>
+<ul>
+<li>Perfect for wiping up spills or protecting party tables from water rings while serving drinks</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub1_Paper Napkins</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Paper Napkins</s:tag>
+    <s:tag>cat-top_Disposable Plates</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Paper Napkins</s:tag>
+    <s:tag>categ-Party Decors</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>material-paper</s:tag>
+    <s:tag>shape-strawberry</s:tag>
+    <s:tag>single-unit-count_20</s:tag>
+    <s:tag>size:length-11&quot;</s:tag>
+    <s:tag>size:width-9&quot;</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_BEV04_</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6647588192302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>NAP_BEV04_STRW</s:sku>
+      <s:grams>336</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6565690605614</id>
+    <published>2021-07-21T11:54:23-07:00</published>
+    <updated>2021-07-21T11:54:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/70-square-buffalo-plaid-polyester-overlay-checkered-gingham-overlay-white-coral"/>
+    <title>70&quot; Square Buffalo Plaid Polyester Overlay | Checkered Gingham Overlay - White/Coral</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_CHK7070_032__01.jpg?v=1621903740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            8.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Square Overlay</td>
+</tr>
+<tr>
+<td>
+<b>Material</b>: Polyester</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White | Coral</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 70" x 70"</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness: </strong>165 GSM</td>
+</tr>
+<tr>
+<td>
+<strong></strong>Seamless Design<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong></strong>Hemmed edges for an exquisite look<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong></strong>Stain &amp; Wrinkle Resistant<br>
+</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care:</strong> Warm water wash, bleach safe. Low temp dry. Can be reused again and again, easily over 100 times.</li>
+<li>Item for Overlay only, Decorations not included</li>
+<li>
+<strong>Uses:</strong> Wedding, Birthday, Party, Event, Banquet, Restaurant Decoration</li>
+</ul>
+<p><strong><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Polyester Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Polyester Overlays</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Picnic Checkered Collection</s:tag>
+    <s:tag>color-coral</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-70&quot;</s:tag>
+    <s:tag>size:width-70&quot;</s:tag>
+    <s:tag>style-checkered</s:tag>
+    <s:tag>style-gingham</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-tab_chk7070_lay</s:tag>
+    <s:tag>variantsizev-TAB_CHKSQR_032_LAY</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6565690605614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.58</s:price>
+      <s:sku>TAB_CHK7070_032</s:sku>
+      <s:grams>517</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581973266</id>
+    <published>2021-07-20T16:21:30-07:00</published>
+    <updated>2021-07-20T16:21:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-pack-20x-20-gold-crinkle-crushed-taffeta-napkins"/>
+    <title>5 Pack 20&quot;x 20&quot; Gold Crinkle Crushed Taffeta Napkins</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_CRNK_GOLD__01_dd8121e3-71f7-4c63-81a9-0d298e9e1a36.jpg?v=1571438779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.08 - 283.36
+            <a href="https://www.efavormart.com/products/5-pack-20x-20-gold-crinkle-crushed-taffeta-napkins">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 5 Napkins<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: 100% Taffeta Fabric w/ Metallic Shine.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Gold<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Style</strong>: Crinkle Crushed<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 20"x20" (unfolded)<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Napkins are seamless, 1pc design<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Napkins have hemmed edges<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>How to</strong> <strong>Care</strong>: Hand wash, hang dry<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Combining the glossy shine of taffeta with the modish appeal of crinkles, we present to you these deluxe napkins that are sure to add a WOW factor to your tablescapes. Let these exquisite napkins enchant the entire ambiance of your special event with their seamless luster and upscale look. Blending the modern flair with traditional sophistication, this magnum opus is simply magnificent. Place these Taffeta Crinkle napkins atop your dreary tables or plain, lackluster table covers to achieve the excellence of class and vibrancy. The lovely crinkles accented all over the surface coupled with the impeccable metallic glint of lustrous taffeta will impart an imperial sublimity to your wedding or banquet tables. Fold these in stylish designs and leave your guests in a complete awe on being presented with such regal luxuries.<br><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>5 Napkins</li>
+<li>
+<strong>Material:</strong><span> </span>100% Taffeta Fabric w/ Metallic Shine.</li>
+<li>
+<strong>Color:</strong> Gold</li>
+<li>
+<strong>Style:</strong><span> </span>Crinkle Crushed</li>
+<li>
+<strong>Size:</strong><span> </span>20"x20" (unfolded)</li>
+<li>Napkins are seamless, 1pc design</li>
+<li>Napkins have hemmed edges</li>
+<li><span><strong>How to Care</strong>: Hand wash, hang dry</span></li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquest, Restaurant Tableware <br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>case_calc-500</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Christmas Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>Collection-Crinkle Collection</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-nap_crnk</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581973266</id>
+      <title>Pack of 5 Napkins</title>
+      <s:price currency="USD">3.08</s:price>
+      <s:sku>NAP_CRNK_GOLD</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581973266</id>
+      <title>Case of 100 Packs(500 Napkins Total)</title>
+      <s:price currency="USD">283.36</s:price>
+      <s:sku>NAP_CRNK_GOLD_CASE</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8569705234</id>
+    <published>2021-07-19T09:26:25-07:00</published>
+    <updated>2021-07-19T09:26:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x-60-navy-blue-pintuck-square-overlay"/>
+    <title>60&quot;x 60&quot; Navy Blue Pintuck Square Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY60_PTK_NAVY.jpg?v=1623693594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            7.68 - 353.29
+            <a href="https://www.efavormart.com/products/60x-60-navy-blue-pintuck-square-overlay">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Measurements</strong>: 60" x 60" Square<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta Pintuck<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are Serged<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Each square measures: 3"x3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Perfect to be used on top of our tablecloths as accents<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can be used for weddings, banquets, or any types of celebrations<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Celebrate your special day with our splendid square pintuck style table cloths spread elegantly atop your plain and ordinary table covers. Be the show stopper by designing some awesome bows and other accents with pintuck patterns and style. Create an inviting ambiance for your guests by throwing a pintuck theme ambiance containing squared pattern napkins, sashes, runners, and linens. <br><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Measurements:</strong> 60" x 60" Square</li>
+<li>
+<strong>Material:</strong> Taffeta Pintuck</li>
+<li>Edges are Serged</li>
+<li>
+<strong>Each square measures:</strong> 3"x3"</li>
+<li>Perfect to be used on top of our tablecloths as accents</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-50</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Pintuck Collection</s:tag>
+    <s:tag>color-navy-blue</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size-60&quot; x 60&quot;</s:tag>
+    <s:tag>size:length-60&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-pintuck</s:tag>
+    <s:tag>styletype-Modern</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay60_ptk</s:tag>
+    <s:tag>variantsizev-LAY_PTK_NAVY</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569705234</id>
+      <title>Pack of 1 Overlay</title>
+      <s:price currency="USD">7.68</s:price>
+      <s:sku>LAY60_PTK_NAVY</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569705234</id>
+      <title>Case of 50 Overlays</title>
+      <s:price currency="USD">353.29</s:price>
+      <s:sku>LAY60_PTK_NAVY_CASE</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6564710711342</id>
+    <published>2021-07-12T10:42:22-07:00</published>
+    <updated>2021-07-12T10:42:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-dusty-blue-square-polyester-table-overlay"/>
+    <title>54&quot; Dusty Blue Square Polyester Table Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_SQUR_54_086_POLY_D07_04eafe41-7a71-47e9-8cdb-7b810527053e.jpg?v=1621630525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            3.99 - 352.40
+            <a href="https://www.efavormart.com/products/54-dusty-blue-square-polyester-table-overlay">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Square Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: 100% Polyester</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Dusty Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 54" x 54"</td>
+</tr>
+<tr>
+<td>Stain &amp; wrinkle resistant, machine washable</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look.</td>
+</tr>
+<tr>
+<td><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>How to Care</strong>: Overlays are machine washable. Use warm water wash, low temp dry.</li>
+<li>For Overlays only, decorations not included</li>
+<li>
+<strong data-mce-fragment="1">Uses</strong> : Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><br><strong><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></strong></p>
+<p><a href="https://cdn.shopify.com/s/files/1/1552/7691/files/sizechart-square.png?297590" target="_blank"><strong>Size Chart</strong></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-96</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Polyester Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Polyester Overlays</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-Dusty Blue</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-54&quot;</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-tab_polylay_54</s:tag>
+    <s:tag>variantsizev-TAB_LAY_086</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6564710711342</id>
+      <title>Pack of 1 Overlay</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>TAB_SQUR_54_086_POLY</s:sku>
+      <s:grams>259</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6564710711342</id>
+      <title>Case of 96 Overlays</title>
+      <s:price currency="USD">352.40</s:price>
+      <s:sku>TAB_SQUR_54_086_POLY_CASE</s:sku>
+      <s:grams>24821</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8569704210</id>
+    <published>2021-07-12T00:57:30-07:00</published>
+    <updated>2021-07-12T00:57:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x-60-apple-green-pintuck-square-overlay"/>
+    <title>60&quot;x 60&quot; Apple Green Pintuck Square Overlay</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY60_PTK_004__01.jpg?v=1623687480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            7.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Measurements</strong>: 60" x 60" Square<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta Pintuck<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are Serged<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Each square measures: 3"x3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Perfect to be used on top of our tablecloths as accents<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can be used for weddings, banquets, or any types of celebrations<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Celebrate your special day with our splendid square pintuck style table cloths spread elegantly atop your plain and ordinary table covers. Be the show stopper by designing some awesome bows and other accents with pintuck patterns and style. Create an inviting ambiance for your guests by throwing a pintuck theme ambiance containing squared pattern napkins, sashes, runners, and linens.<br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Measurements:</strong> 60" x 60" Square</li>
+<li>
+<strong>Material:</strong> Taffeta Pintuck.</li>
+<li>Edges are Serged</li>
+<li>
+<strong>Each square measures:</strong> 3"x3"</li>
+<li>Perfect to be used on top of our tablecloths as accents</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>Collection-Pintuck Collection</s:tag>
+    <s:tag>color-apple-green</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size-60&quot; x 60&quot;</s:tag>
+    <s:tag>size:length-60&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-pintuck</s:tag>
+    <s:tag>styletype-Modern</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-lay60_ptk</s:tag>
+    <s:tag>variantsizev-LAY_PTK_APPL</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8569704210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.68</s:price>
+      <s:sku>LAY60_PTK_APPL</s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6620598206510</id>
+    <published>2021-07-05T09:00:10-07:00</published>
+    <updated>2021-07-05T09:00:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x90-accordion-crinkle-taffeta-table-overlay-pink"/>
+    <title>90&quot;x90&quot; Accordion Crinkle Taffeta Table Overlay - Pink</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY90_ACRNK_PINK_D02.jpg?v=1626194109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Crinkle Taffeta</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Pink</td>
+</tr>
+<tr>
+<td>
+<strong>Size:</strong> 90"x 90" square</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness:</strong> 80 GSM</td>
+</tr>
+<tr>
+<td>1 Piece, Seamless Design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>The Textured look of Crushed or Crinkle Taffeta will definitely help make a stylish statement.</li>
+<li>
+<strong>How to Care:</strong> Hand wash and Hang dry only</li>
+<li>For Overlays only, decorations not included</li>
+<li>
+<strong data-mce-fragment="1">Uses</strong>: Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>color-pink</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-90&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-Accordion Crinkle</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-LAY90_ACRNK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6620598206510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>LAY90_ACRNK_PINK</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617116639278</id>
+    <published>2021-07-02T20:01:28-07:00</published>
+    <updated>2021-07-02T20:01:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-white"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - White</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_WHT__01.jpg?v=1625274940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> White</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617116639278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_WHT</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617111658542</id>
+    <published>2021-07-02T20:01:27-07:00</published>
+    <updated>2021-07-02T20:01:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-silver"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Silver</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_SILV__01.jpg?v=1625532539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617111658542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_SILV</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617106022446</id>
+    <published>2021-07-02T20:01:26-07:00</published>
+    <updated>2021-07-02T20:01:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-pink"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Pink</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_PINK__01.jpg?v=1627080745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Pink</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-pink</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617106022446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_PINK</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617100681262</id>
+    <published>2021-07-02T20:01:25-07:00</published>
+    <updated>2021-07-02T20:01:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-navy-blue"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Navy Blue</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_NAVY__01.jpg?v=1625273866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Navy Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-navy-blue</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617100681262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_NAVY</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617095405614</id>
+    <published>2021-07-02T20:01:24-07:00</published>
+    <updated>2021-07-02T20:01:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-ivory"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Ivory</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_IVR_D10_e0a61f47-270f-4a19-872a-1e6e82536430.jpg?v=1626740985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Ivory</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617095405614</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_IVR</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617087868974</id>
+    <published>2021-07-02T20:01:23-07:00</published>
+    <updated>2021-07-02T20:01:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-burgundy"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Burgundy</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_BURG__01.jpg?v=1626141709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Burgundy</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-burgundy</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617087868974</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_BURG</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617080692782</id>
+    <published>2021-07-02T20:01:22-07:00</published>
+    <updated>2021-07-02T20:01:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-black"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Black</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_BLK__01.jpg?v=1625272578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Black</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617080692782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_BLK</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6617071124526</id>
+    <published>2021-07-02T20:01:21-07:00</published>
+    <updated>2021-07-02T20:01:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-beige"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Beige</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_081__01.jpg?v=1625530366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Beige</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6617071124526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_081</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6615210164270</id>
+    <published>2021-07-02T20:01:20-07:00</published>
+    <updated>2021-07-02T20:01:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-5-20x-20-accordion-crinkle-taffeta-napkins-gold"/>
+    <title>Pack of 5 | 20&quot;x 20&quot; Accordion Crinkle Taffeta Napkins - Gold</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_ACRNK_GOLD__01.jpg?v=1625608358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2210<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 5 Napkins</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Taffeta Fabric w/ Metallic Shine.</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Size: </strong>20"x20" (unfolded)</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Accordion Crinkle</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 80</td>
+</tr>
+<tr>
+<td>Napkins are seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>How to Care</strong>: Hand wash, hang dry</li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquet, Restaurant Tableware</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-20 x 20 Taffeta Crinkle Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linens</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>single-unit-count_5</s:tag>
+    <s:tag>size:length-20&quot;</s:tag>
+    <s:tag>size:width-20&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-linen</s:tag>
+    <s:tag>type-napkin</s:tag>
+    <s:tag>variant-NAP_ACRNK_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6615210164270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.29</s:price>
+      <s:sku>NAP_ACRNK_GOLD</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6602539368494</id>
+    <published>2021-07-02T18:01:32-07:00</published>
+    <updated>2021-07-02T18:01:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x90-accordion-crinkle-taffeta-table-overlay-white"/>
+    <title>90&quot;x90&quot; Accordion Crinkle Taffeta Table Overlay - White</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY90_ACRNK_WHT_D02.jpg?v=1625587815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Crinkle Taffeta</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> White</td>
+</tr>
+<tr>
+<td>
+<strong>Size:</strong> 90"x 90" square</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness:</strong> <span data-mce-fragment="1">80 </span>GSM</td>
+</tr>
+<tr>
+<td>1 Piece, Seamless Design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>The Textured look of Crushed or Crinkle Taffeta will definitely help make a stylish statement.</li>
+<li>
+<strong>How to Care:</strong> Hand wash and Hang dry only</li>
+<li>For Overlays only, decorations not included</li>
+<li>
+<strong data-mce-fragment="1">Uses</strong>: Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linens</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-90&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-LAY90_ACRNK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6602539368494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>LAY90_ACRNK_WHT</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6602526883886</id>
+    <published>2021-07-02T18:01:31-07:00</published>
+    <updated>2021-07-02T18:01:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x90-accordion-crinkle-taffeta-table-overlay-silver"/>
+    <title>90&quot;x90&quot; Accordion Crinkle Taffeta Table Overlay - Silver</title>
+    <s:type>Overlays</s:type>
+    <s:vendor>HIER_2220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LAY90_ACRNK_SILV_D02.jpg?v=1625587828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2220<br>
+        <strong>Type: </strong>Overlays<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Table Overlay</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Crinkle Taffeta</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size:</strong> 90"x 90" square</td>
+</tr>
+<tr>
+<td>
+<strong>Thickness:</strong> <span data-mce-fragment="1">80 </span>GSM</td>
+</tr>
+<tr>
+<td>1 Piece, Seamless Design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>The Textured look of Crushed or Crinkle Taffeta will definitely help make a stylish statement.</li>
+<li>
+<strong>How to Care:</strong> Hand wash and Hang dry only</li>
+<li>For Overlays only, decorations not included</li>
+<li>
+<strong data-mce-fragment="1">Uses</strong>: Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub1_Premium Overlays</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linens</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Premium Overlays</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>shape-square</s:tag>
+    <s:tag>size:length-90&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-crinkle</s:tag>
+    <s:tag>type-overlay</s:tag>
+    <s:tag>variant-LAY90_ACRNK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6602526883886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>LAY90_ACRNK_SILV</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+</feed>

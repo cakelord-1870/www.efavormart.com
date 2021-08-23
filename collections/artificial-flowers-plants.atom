@@ -1,0 +1,3239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/artificial-flowers-plants.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-08-17T13:11:57-07:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/8584720018</id>
+    <published>2021-08-17T13:11:57-07:00</published>
+    <updated>2021-08-17T13:11:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/6-bush-144-pcs-white-amaryllis-artificial-silk-flowers"/>
+    <title>6 Bush 144 Pcs White Amaryllis Artificial Silk Flowers</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_1924_WHT__01.jpg?v=1610419714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1100<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            23.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Silk Flowers</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1 Qty:</strong> 6 Bushes (Total 144 Flowers)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Bush:</strong> 24 Flowers</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Length with Stem:</strong> 14"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Length:</strong> 2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Width:</strong> 3"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Length:</strong> 12"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Waterproof:</strong> Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Also known as Belladonna Lily, lovely Amaryllis blooms symbolize the true meaning of unsurpassed beauty. Our silk replicas of fresh Amaryllis flowers are crafted with finest artistry to mimic the sheer elegance and cheerful radiance of real flowers. Unlike fresh flowers that not only cost a fortune, but also wither very soon, these fabric imitations will continue blooming forever, oozing perpetual radiance and conveying the true meaning of “ endless” splendid beauty. Use these attractive faux flowers to decorate your home space, party venue, tabletops, vases, centerpieces, backdrops, and bouquets.</p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong> High Quality Silk Flowers</li>
+<li>
+<strong>1 Qty:</strong> 6 Bushes (Total 144 Flowers)</li>
+<li>
+<strong>Each Bush:</strong> 24 Flowers</li>
+<li>
+<strong>Flower Length with Stem:</strong> 14"</li>
+<li>
+<strong>Flower Length:</strong> 2" </li>
+<li>
+<strong>Flower Width:</strong> 3"</li>
+<li>
+<strong>Stem Length:</strong> 12"</li>
+<li>
+<strong>Waterproof:</strong> Yes</li>
+<li>
+<strong>Uses:</strong> Table Decoration, Wedding, Party, Event, Banquet, Centerpieces, Vases, Stage Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Silk Flower &amp; Petals</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>flowertype-amaryllis</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>single-unit-count_144</s:tag>
+    <s:tag>size:height-14&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-arti_1924</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584720018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.28</s:price>
+      <s:sku>ARTI_1924_WHT</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584782098</id>
+    <published>2021-08-17T09:13:28-07:00</published>
+    <updated>2021-08-17T09:13:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-bush-168-pcs-red-artificial-bloom-roses-flowers"/>
+    <title>24 Bush 168 Pcs Red Artificial Bloom Roses Flowers</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_OPN168_RED__01.jpg?v=1571438982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1100<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Polyester</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1 Qty:</strong> 24 Bushes (Total 168 Roses)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Bush:</strong> 7 Roses</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Rose Height:</strong> 2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Rose Width:</strong> 3"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Height:</strong> 13"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Removable Flower Head: </strong>Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can be used as a single individual rose or in bunches</td>
+</tr>
+<tr></tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p>Soft, smooth, and silky polyester roses are intricately handcrafted with amazing details and finest artistry to facilitate you lavishly in making the wonderful accents to any event,  DIY or home crafting projects. These lovely faux roses are crafted with high quality polyester and are rolled in an enchanting manner. The life-like appearance and vibrant shades of these flowers will add an eye-catching refreshing impact to your tabletops, backdrops, bouquets, vases, centerpieces and floral arrangements. Our high quality polyester buds are reusable, durable, and affordable. Unlike the fresh roses, that not only cost the fortune, but also wither in short time, these polyester roses will stay blooming and thriving forever. For extra glitz and glam, add some of our lustrous pearl sprays, ornate picks, glittered stem and ribbons to achieve that super chic look for prom corsages or wedding accessories and bouquets. If you are seeking something delicate but enchanting for your DIY project, these artificial polyester roses are just the solution.<span> </span><br><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span><span>High Quality Polyester</span>
+</li>
+<li>
+<strong>1 Qty:</strong> 24 Bushes (Total 168 Roses)</li>
+<li>
+<strong>Each Bush:</strong> 7 Roses</li>
+<li>
+<strong>Each Rose Height:</strong> 2"</li>
+<li>
+<strong>Each Rose Width:</strong> 3"</li>
+<li>
+<strong>Stem Height:</strong> 13"</li>
+<li>
+<strong>Removable Flower Head:</strong> Yes</li>
+<li>Can be used as a single individual rose or in bunches</li>
+<li>These are artificial, not fresh flowers</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub2_Rose Bushes</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Rose Bushes</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>flowertype-roses</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_168</s:tag>
+    <s:tag>size:length-15&quot;</s:tag>
+    <s:tag>size:width-10&quot;</s:tag>
+    <s:tag>style-artificial</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-arti_opn168</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584782098</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>ARTI_OPN168_RED</s:sku>
+      <s:grams>1367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584737746</id>
+    <published>2021-08-17T09:11:55-07:00</published>
+    <updated>2021-08-17T09:11:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-pack-7-red-flower-ball-silk-rose-pomander-kissing-ball"/>
+    <title>2 Pack | 7&quot; Red Flower Ball Silk Rose Pomander Kissing Ball</title>
+    <s:type>Silk Flowers</s:type>
+    <s:vendor>HIER_1500</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_BALL_RS01_7_RED_D10.jpg?v=1598549274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1500<br>
+        <strong>Type: </strong>Silk Flowers<br>
+        <strong>Price: </strong>
+            11.99 - 18.48
+            <a href="https://www.efavormart.com/products/2-pack-7-red-flower-ball-silk-rose-pomander-kissing-ball">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 2 Kissing Flower Balls</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: High Quality Silk</td>
+</tr>
+<tr>
+<td>
+<strong>Flower Type</strong>: Artificial Rose</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Red</td>
+</tr>
+<tr>
+<td>
+<strong>Ball Diameter</strong>: 7"</td>
+</tr>
+<tr>
+<td>
+<strong>Rose Diameter</strong>: 3.5"</td>
+</tr>
+<tr>
+<td>Organza Ribbon for easy hanging</td>
+</tr>
+<tr>
+<td>
+<strong>Hanging Ribbon Length</strong>: 5.5"</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>
+<b data-stringify-type="bold">Organza Diameter</b>: 4"</li>
+<li>
+<strong>Uses</strong>: Weddings,Birthday Parties,Garden Parties,Baby Shower,Engagement,Home Decoration, Anniversaries, Centerpiece Decoration, Hanging Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-1</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Hanging Party Decor</s:tag>
+    <s:tag>cat-sub2_Kissing Balls</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Hanging Party Decor</s:tag>
+    <s:tag>categ-Kissing Balls</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>etsy-artificialflowers</s:tag>
+    <s:tag>flowertype-roses</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-7&quot;</s:tag>
+    <s:tag>type-kissing-balls</s:tag>
+    <s:tag>variant-ARTI_BALL_RS01_7</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584737746</id>
+      <title>Pack of 2 Kissing Balls</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>ARTI_BALL_RS01_7_RED</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584737746</id>
+      <title>Pack of 4 Kissing Balls</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>ARTI_2811_REDx4</s:sku>
+      <s:grams>382</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584731538</id>
+    <published>2021-08-17T09:03:36-07:00</published>
+    <updated>2021-08-17T09:03:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/4-bush-96-pcs-yellow-artificial-giant-silk-open-rose-flowers"/>
+    <title>4 Bush 96 Pcs Yellow Artificial Giant Silk Open Rose Flowers</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_2401_YELx4__01.jpg?v=1571438962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1100<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            44.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Silk</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1 Qty:</strong> 4 Bushes (Total 96 Flowers)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Bush:</strong> 24 Roses</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Height of Flower with Stem:</strong> 25"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Rose Height:</strong> 2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Rose Diameter:</strong> 4-5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Waterproof:</strong> Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can be used single individual roses or in bunches</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Wire stem can be used to wrap around Favor/Gift boxes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<span>These large size open silk roses brim with radiant festivity and splendid beauty. Immortalizing the charming appeal and charismatic colors of fresh roses, these handcrafted and hand rolled silk roses will give you an eternal glee to cherish and rejoice for the years to come. Present heart-warming bouquets to the loved ones, expressing your powerful passion of love, create enticing tabletop presentations, vase decorations, centerpieces, corsages, or simply bring a floral burst of color and vigor into your home decorations.</span><br>
+<ul>
+<li>Material : High Quality Silk</li>
+<li>1 Qty: 4 Bushes (Total 96 Flowers)</li>
+<li>Each Bush: 24 Roses</li>
+<li>Total Height of Flower with Stem: 25"</li>
+<li>Rose Height: 2''</li>
+<li>Rose Diameter: 4-5"</li>
+<li>Waterproof : Yes</li>
+<li>Can be used single individual roses or in bunches</li>
+<li>Wire stem can be used to wrap around Favor/Gift boxes</li>
+<li>These are artificial, not fresh flowers</li>
+<li>The wire allows you to bend the flowers to any angles and make them the shape that you like</li>
+<li>Uses - Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>color-yellow</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>flowertype-roses</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>single-unit-count_96</s:tag>
+    <s:tag>size:height-25&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-arti_2401</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584731538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">44.78</s:price>
+      <s:sku>ARTI_2401_YELx4</s:sku>
+      <s:grams>998</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584752658</id>
+    <published>2021-08-13T00:27:30-07:00</published>
+    <updated>2021-08-13T00:27:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-bushes-25-pcs-19-turquoise-large-burlap-calla-lily-flowers"/>
+    <title>5 Bushes | 25 Pcs | 19&quot; Turquoise Large Burlap Calla Lily Flowers</title>
+    <s:type>Craft Flowers</s:type>
+    <s:vendor>HIER_1100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_6744_TURQ__01XL.jpg?v=1620863875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1100<br>
+        <strong>Type: </strong>Craft Flowers<br>
+        <strong>Price: </strong>
+            26.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table data-mce-fragment="1" data-mce-selected="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<b data-mce-fragment="1">Quantity</b>: 5 Bushes</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<strong data-mce-fragment="1">Material</strong>: Burlap Fabric</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<strong data-mce-fragment="1">Color</strong>: Turquoise</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<strong data-mce-fragment="1">Total Length</strong>: 19"</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<strong data-mce-fragment="1">Each Lily Bulb Dimension</strong>: 6" L x 3.5" W</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">
+<strong data-mce-fragment="1">Total Calla Lily Stems</strong>: 25</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">Each bunch/bush has 5 stems</strong></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">All flowers are easily separable</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">Bushes are bound together with floral tape</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1">Wire stems per flower can be bent to hold shape and form</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">All sizes are approximate measurements</strong></td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1" data-mce-selected="1"><strong data-mce-fragment="1">Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<br>
+<h4>
+<br>[Information]</h4>
+<p>Crafted with high quality burlap material and intricately handcrafted with master craftsmanship, these delicate Burlap floral decorations look simply outstanding. This uncommon beauty will surely outshine the swankiest of decorations with its rustic look and unsurpassed charm, letting you create most magnificent of masterpieces ever!</p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>5 Bushes</li>
+<li>
+<strong>Material:</strong><span> </span>Burlap Fabric</li>
+<li>
+<strong>Color:</strong><span> Turquoise</span>
+</li>
+<li>
+<strong>Total Length:</strong><span> </span>19"</li>
+<li>
+<strong>Each Lily Bulb Dimension</strong>: 6" L x 3.5" W</li>
+<li>
+<strong>Total Calla Lily Stems:</strong><span> </span>25</li>
+<li>Each bunch/bush has 5 stems</li>
+<li>All flowers are easily separable</li>
+<li>Bushes are bound together with floral tape</li>
+<li>Wire stems per flower can be bent to hold shape and form</li>
+<li>
+<strong>Uses</strong>: Table Decoration, Wedding, Party, Event, Banquet, Centerpieces, Vases, Stage Decoration</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Craft Flowers</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Craft Flowers</s:tag>
+    <s:tag>color-turquoise</s:tag>
+    <s:tag>flowertype-lily</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>single-unit-count_25</s:tag>
+    <s:tag>size:height-19&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-natural</s:tag>
+    <s:tag>type-craft-flowers</s:tag>
+    <s:tag>variant-arti_6744</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584752658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">26.88</s:price>
+      <s:sku>ARTI_6744_TURQ</s:sku>
+      <s:grams>268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6662254526510</id>
+    <published>2021-08-06T16:50:23-07:00</published>
+    <updated>2021-08-06T16:50:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/7ft-artificial-green-ivy-leaf-garland-vine-with-led-battery-operated-fairy-string-lights-warm-white"/>
+    <title>7FT | Artificial Green Ivy Leaf Garland Vine with LED Battery Operated Fairy String Lights - Warm White</title>
+    <s:type>LED</s:type>
+    <s:vendor>HIER_3720</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LEDSTR_ARTI_007_CLR__01.jpg?v=1628294979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3720<br>
+        <strong>Type: </strong>LED<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Ivy LED Garland<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Ivy Material:</strong> Silk</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>LED Color:</strong> Warm White</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Color:</strong> Green</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Style:</strong> Ivy Leaves with LED Garland</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Garland Length:</strong> 7FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total LEDs:</strong> 20</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Size:</strong> 1.5"L x 1.5"W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Power source:</strong> 2x CR2032 (Replaceable)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Battery Included:</strong> Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>Battery lasts about 24 Hours</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Waterproof:</strong> No</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Additional Information:</strong></p>
+<ul>
+<li>Battery Operated<br>
+</li>
+<li>Uses: Wedding Decor, Along the Bridal Party table, Around the cake table, Garden Party, Nursery or Kids room, String them along your fence, Christmas Tree Decorations, Night Lights and more.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Battery-Powered LED</s:tag>
+    <s:tag>cat-sub1_Hanging String Lights</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub2_Garlands | Vines</s:tag>
+    <s:tag>cat-sub2_Vines</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Decorative Lighting</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>size:length-7 Ft</s:tag>
+    <s:tag>style-LED</s:tag>
+    <s:tag>type-battery-powered-led</s:tag>
+    <s:tag>type-hanging-lights</s:tag>
+    <s:tag>type-LED</s:tag>
+    <s:tag>Type-String Lights</s:tag>
+    <s:tag>variant-LEDSTR_ARTI_</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6662254526510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>LEDSTR_ARTI_007_CLR</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6624224280622</id>
+    <published>2021-08-06T16:41:17-07:00</published>
+    <updated>2021-08-06T16:41:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/32ft-100-led-clear-fairy-string-lights-with-clips-decorative-led-lights-with-pegs-warm-white"/>
+    <title>32FT | 100 LED Clear Fairy String Lights with Clips, Decorative LED Lights with Pegs - Warm White</title>
+    <s:type>LED</s:type>
+    <s:vendor>HIER_3720</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LEDSTR14_32_CLR_D03.jpg?v=1628525875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3720<br>
+        <strong>Type: </strong>LED<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Photo Clip String Light</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Plastic</td>
+</tr>
+<tr>
+<td>
+<b>Style</b>: LED Light with Photo Clips</td>
+</tr>
+<tr>
+<td>
+<strong>Total Length</strong>: 32FT<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>LED Color</strong>: Warm White</td>
+</tr>
+<tr>
+<td>
+<strong>LED Count</strong>: 100</td>
+</tr>
+<tr>
+<td>
+<b>Total Clips</b>: 50</td>
+</tr>
+<tr>
+<td>
+<strong>Clip Size</strong>: 1.5"L x 0.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Power source</strong>: 3x AA Batteries (Not included)</td>
+</tr>
+<tr>
+<td>
+<strong>Working Hours:</strong> 24 hrs (Approx.)</td>
+</tr>
+<tr>
+<td>
+<strong>Waterproof: </strong>No</td>
+</tr>
+<tr>
+<td>
+<b>Note</b>: Need to put clips on separately</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Battery Operated String Light. Batteries are not included.</li>
+<li>
+<strong>Uses</strong>: Wedding Decor, Around the Bridal Party Table, Around the Cake Table, Garden Party, Nursery or Kids room, String them along your fence, Christmas Tree Decorations, Night Lights and more.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Battery-Powered LED</s:tag>
+    <s:tag>cat-sub1_Ceiling Drapes</s:tag>
+    <s:tag>cat-sub1_Hanging String Lights</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Professional LED</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Decorative Lighting</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Wall &amp; Ceiling Decor</s:tag>
+    <s:tag>color-warm white</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>size:length-32FT</s:tag>
+    <s:tag>style-photo clips</s:tag>
+    <s:tag>type-battery-powered-led</s:tag>
+    <s:tag>type-hanging-lights</s:tag>
+    <s:tag>Type-String Lights</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6624224280622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>LEDSTR14_32_CLR</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6662091178030</id>
+    <published>2021-08-04T17:54:31-07:00</published>
+    <updated>2021-08-04T17:54:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/7ft-20-led-blush-rose-gold-artificial-rose-flower-garland-warm-white-battery-operated-fairy-string-lights"/>
+    <title>7FT | 20 LED Blush/Rose Gold Artificial Rose Flower Garland, Warm White Battery Operated Fairy String Lights</title>
+    <s:type>LED</s:type>
+    <s:vendor>eFavormart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/LEDSTR_ARTI_006_046_D01_b7ecd4f5-ae6a-4c3c-b93b-e6323313effd.jpg?v=1628184897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eFavormart<br>
+        <strong>Type: </strong>LED<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 LED Rose Garland<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> Silk &amp; Plastic</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Style:</strong> LED Rose and Leaves Garland</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Rose Color:</strong> Rose Gold | Blush</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>LED Color:</strong> Warm White</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Garland Length:</strong> 7FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>LED Count:</strong> 20</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Rose Size: </strong>1.5"H x 2.5" Dia.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Roses: </strong>17</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Size</strong>: 1.5-1.75"L x 1"W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Batteries Included</strong>: Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>No. of Batteries</strong>: 2x CR2032 (Replaceable)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Working Hours:</strong> 24 hours (approx.)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><br></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Waterproof:</strong> No</li>
+<li>
+<strong>Uses:</strong> Wedding Decor, Along the Bridal Party table, Around the cake table, Garden Party, Nursery or Kids room, String them along your fence, Christmas Tree Decorations, Night Lights and more.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Battery-Powered LED</s:tag>
+    <s:tag>cat-sub1_Garlands | Vines</s:tag>
+    <s:tag>cat-sub1_Hanging String Lights</s:tag>
+    <s:tag>cat-sub1_Party Decors</s:tag>
+    <s:tag>cat-sub1_Professional LED</s:tag>
+    <s:tag>cat-sub2_Garlands | Vines</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Decorative Lighting</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat_sub1_Professional LED</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>size:length-7 Ft</s:tag>
+    <s:tag>style-LED</s:tag>
+    <s:tag>type-battery-powered-led</s:tag>
+    <s:tag>type-hanging-lights</s:tag>
+    <s:tag>type-LED</s:tag>
+    <s:tag>Type-String Lights</s:tag>
+    <s:tag>variant-LEDSTR_ARTI_</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6662091178030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>LEDSTR_ARTI_006_046</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6612497170478</id>
+    <published>2021-08-04T12:21:57-07:00</published>
+    <updated>2021-08-04T12:21:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/15-artificial-seeded-eucalyptus-leaves-stems-ivory-silk-roses-wedding-greenery-bouquet-floral-arrangement"/>
+    <title>15&quot; Artificial Seeded Eucalyptus Leaves Stems, Ivory Silk Roses Wedding Greenery Bouquet Floral Arrangement</title>
+    <s:type>Flower Bouquets</s:type>
+    <s:vendor>HIER_1300</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_GRN_10_IVR__01.jpg?v=1628104328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1300<br>
+        <strong>Type: </strong>Flower Bouquets<br>
+        <strong>Price: </strong>
+            8.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Bouquet</td>
+</tr>
+<tr>
+<td>
+<p><strong>Bouquet Includes</strong>:<br></p>
+<li>12 Seeded Eucalyptus Stems</li>
+<li>4 Single Stem Roses</li>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Silk &amp; Plastic<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Flower Type</strong>: Rose<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type</strong>: Eucalyptus</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Green Eucalyptus Leaves with Ivory Roses</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 15"H x 12"W</td>
+</tr>
+<tr>
+<td>
+<strong>Rose Material</strong>: High Quality Silk</td>
+</tr>
+<tr>
+<td>
+<strong>Rose Size:</strong> 2"H x 2.25" Dia.<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Eucalyptus Leaf Size</strong>: 2"L x 2.25"W<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material:</strong> Silk</td>
+</tr>
+<tr>
+<td>
+<strong>Seed Size</strong>: 1-3mm Dia.</td>
+</tr>
+<tr>
+<td>
+<strong>Seed Material</strong>: Plastic</td>
+</tr>
+<tr>
+<td>Plastic Stem w/ inside wire makes it bendable</td>
+</tr>
+<tr>
+<td>The seeds are inserted on the brown stems</td>
+</tr>
+<tr>
+<td>
+<strong>Feature:</strong> Natural, Lifelike &amp; Durable<br>
+</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br><strong> Additional Information:</strong></p>
+<ul>
+<li>Enjoy each rose as an individual piece or as decorative additions with your eucalyptus stems.<br>
+</li>
+<li>
+<strong>Uses:</strong> Arches, Backdrops, Hallways, DIY Event Centerpieces, Office, Wedding, Home, Garden, Party, Shop </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bouquets</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-sub2_Rose Bushes</s:tag>
+    <s:tag>cat-sub2_Rose Stems</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Craft Supplies</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>flowertype-eucalyptus leaves</s:tag>
+    <s:tag>flowertype-roses</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>NEWARRIVALS-2108</s:tag>
+    <s:tag>size:height-15&quot;</s:tag>
+    <s:tag>size:height-16&quot;</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>type-bouquet</s:tag>
+    <s:tag>type-Floral Supply</s:tag>
+    <s:tag>variant-ARTI_GRN_IVR</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:tag>variantsizev-ARTI_GRN01_01</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6612497170478</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.69</s:price>
+      <s:sku>ARTI_GRN_10_IVR</s:sku>
+      <s:grams>398</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8584781842</id>
+    <published>2021-08-02T09:27:06-07:00</published>
+    <updated>2021-08-02T09:27:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/24-bush-168-pcs-orange-artificial-bloom-roses-flowers"/>
+    <title>24 Bush 168 Pcs Orange Artificial Bloom Roses Flowers</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1100</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_OPN168_ORNG__01.jpg?v=1623456716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1100<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            32.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Polyester</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1 Qty:</strong> 24 Bushes (Total 168 Roses)</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Bush:</strong> 7 Roses</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Rose Height:</strong> 2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Each Rose Width:</strong> 3"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Height:</strong> 13"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Removable Flower Head: </strong>Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Can be used as a single individual rose or in bunches</td>
+</tr>
+<tr></tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p>Soft, smooth, and silky polyester roses are intricately handcrafted with amazing details and finest artistry to facilitate you lavishly in making the wonderful accents to any event,  DIY or home crafting projects. These lovely faux roses are crafted with high quality polyester and are rolled in an enchanting manner. The life-like appearance and vibrant shades of these flowers will add an eye-catching refreshing impact to your tabletops, backdrops, bouquets, vases, centerpieces and floral arrangements. Our high quality polyester buds are reusable, durable, and affordable. Unlike the fresh roses, that not only cost the fortune, but also wither in short time, these polyester roses will stay blooming and thriving forever. For extra glitz and glam, add some of our lustrous pearl sprays, ornate picks, glittered stem and ribbons to achieve that super chic look for prom corsages or wedding accessories and bouquets. If you are seeking something delicate but enchanting for your DIY project, these artificial polyester roses are just the solution.<span> </span><br><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>High Quality Polyester</li>
+<li>
+<strong>1 Qty:</strong><span> </span>24 Bushes (Total 168 Roses)</li>
+<li>
+<strong>Each Bush:</strong><span> </span>7 Roses</li>
+<li>
+<strong>Each Rose Height:</strong><span> </span>2"</li>
+<li>
+<strong>Each Rose Width:</strong><span> </span>3"</li>
+<li>
+<strong>Stem Height:</strong><span> </span>13"</li>
+<li>
+<strong>Removable Flower Head:</strong><span> </span>Yes</li>
+<li>Can be used as a single individual rose or in bunches</li>
+<li>These are artificial, not fresh flowers</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub2_Rose Bushes</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Rose Bushes</s:tag>
+    <s:tag>color-orange</s:tag>
+    <s:tag>flowertype-roses</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>occasion-birthday</s:tag>
+    <s:tag>single-unit-count_168</s:tag>
+    <s:tag>size:length-15&quot;</s:tag>
+    <s:tag>size:width-10&quot;</s:tag>
+    <s:tag>style-artificial</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-arti_opn168</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8584781842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.18</s:price>
+      <s:sku>ARTI_OPN168_ORNG</s:sku>
+      <s:grams>1365</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1619977994286</id>
+    <published>2021-08-02T09:25:25-07:00</published>
+    <updated>2021-08-02T09:25:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-pack-31-metallic-champagne-artificial-palm-leaf-display-filler-floral-decoration"/>
+    <title>2 Pack | 31&quot; Metallic Champagne Artificial Palm Leaf Display Filler Floral Decoration</title>
+    <s:type>Flower Stems</s:type>
+    <s:vendor>HIER_5120</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC02_CHMP_D03.jpg?v=1571439171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5120<br>
+        <strong>Type: </strong>Flower Stems<br>
+        <strong>Price: </strong>
+            6.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Soft Plastic<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 2 Bushes / Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Overall Height</strong>: 31" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Overall Width</strong>: 8"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Height</strong>: 18"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Color</strong>: Brown<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Bendable Wire Stem</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fronds Count</strong>: 36 Fronds / Bush<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Frond (leaves) Height</strong>: 14" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">No bendable wire inside the Fronds.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Fronds are flexible but not sturdy enough to stay bent.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Fronds are spray painted with metallic paint.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Great for indoor use. Dry dust for easy care and cleaning.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Bursting with sparkle and style, these glamorous floral picks are made to WOW the beholders! Their charismatic combination of nature and craft inspiration makes them an ethereal addition to your tabletops, centerpieces, Christmas tree decorations, and floral arrangements. Enriching your surrounding with surreal shimmer and providing your décor with a touch of glittery elegance, our metallic tone frond picks are great to use in weddings, parties, holiday functions, and home accenting. From your coffee table to your mantle, place these anywhere in your home for exuding monochromatic beauty. Perfect to use on their own, these stems create a whimsical look when combined with other picks, arrangements, floral stems, and bouquets. Bend the wiry branches to create that stunner look! Bring a bit of fancy and pizazz by placing these in our tall vases or let them lie flat oozing mystic beauty to your tables, cabinets, shelves, and aisle. Available in a range of classy shades, get the one that matches your theme to add that perfect finishing touch to your decorative flower arrangement, swag or welcoming wreath.</span><br><br> <strong>Additional Information:</strong></p>
+<ul>
+<li><span><strong>Material</strong>: Soft Plastic</span></li>
+<li><span><strong>Qty</strong>: 2 Bushes / Order</span></li>
+<li><span><strong>Overall Height</strong>:<span> </span>31" </span></li>
+<li><span><strong>Overall Width</strong>:<span> </span>8"</span></li>
+<li><span><strong>Stem Height</strong>:<span> </span>18" </span></li>
+<li><span><strong>Stem Color</strong>: Brown</span></li>
+<li><span><strong>Bendable Wire Stem</strong>: Yes</span></li>
+<li><span>Fronds<span> </span>Count: 36 Fronds / Bush</span></li>
+<li><span><strong>Frond (leaves) Height</strong>:<span> </span>14" </span></li>
+<li><span><strong>Individual Frond size</strong>: 2.5" smallest | 5.5" largest</span></li>
+<li><span><strong>Frond Thickness</strong>: Less than 1/2" </span></li>
+<li><span>No bendable wire inside the<span> </span>Fronds.</span></li>
+<li><span>Fronds are flexible but not sturdy enough to stay bent.</span></li>
+<li><span>Fronds are spray painted with metallic paint.</span></li>
+<li>Great for indoor use. Dry dust for easy care and cleaning.</li>
+</ul>
+<p><strong>Note: </strong><span>Petals are spray painted with metallic paint. May have some blemishes. Can get wet but don't recommend. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Stems</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Stems</s:tag>
+    <s:tag>color-champagne</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>material-soft plastic</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-31&quot;</s:tag>
+    <s:tag>type-glitter-stem</s:tag>
+    <s:tag>type-Stem</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1619977994286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.78</s:price>
+      <s:sku>ARTI_METLIC02_CHMP</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6644922941486</id>
+    <published>2021-07-29T18:25:45-07:00</published>
+    <updated>2021-07-29T18:25:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-32-metallic-gold-artificial-fern-leaf-spray-tropical-leaves-vase-filler-floral-decoration"/>
+    <title>Pack of 2 | 32&quot; Metallic Gold Artificial Fern Leaf Spray, Tropical Leaves Vase Filler Floral Decoration</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC07_GOLD_02.jpg?v=1627660001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1400<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            7.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 2 Artificial Leaf Stem</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type:</strong> Fern Leaf</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material: </strong>Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Metallic Leaf Branch</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 32.5"L x 3.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Length:</strong> 16.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness:</strong> 0.5cm</td>
+</tr>
+<tr>
+<td>
+<strong>Flexible Plastic Stem:</strong> Inside wire makes it easy to bend and arrange to your liking</td>
+</tr>
+<tr>
+<td>Match with other Tropical Plants, Hawaiian leis or Hibiscus Flowers to create Tropical Island atmosphere</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>The perfect accent and filler to complement your other flowers and greenery for a neutral yet exotic centerpiece.<br>
+</li>
+<li>
+<strong>Uses</strong>: These Leaves are Ideal for Hawaiian Party, Tropical Party Decorations, Tropical Island, Jungle Party Supplies, Palm Leaves Pool party, Wedding Palm Leaves Decorations, Restaurant Décor, Craft Supplies, Concession Stands, Juice bars, Fast Food Shop, Birthday Party, Baby Shower Decorations.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Stems</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-Stems</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>flowertype-fern leaves</s:tag>
+    <s:tag>flowertype-Leaves</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:length-32&quot;</s:tag>
+    <s:tag>size:width-3&quot;</s:tag>
+    <s:tag>variant-ARTI_METLIC_GOLD</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6644922941486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.79</s:price>
+      <s:sku>ARTI_METLIC07_GOLD</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6644878180398</id>
+    <published>2021-07-29T18:25:44-07:00</published>
+    <updated>2021-07-29T18:25:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-34-metallic-gold-artificial-eucalyptus-leaf-spray-tropical-leaves-vase-filler-floral-decoration"/>
+    <title>Pack of 2 | 34&quot; Metallic Gold Artificial Eucalyptus Leaf Spray, Tropical Leaves Vase Filler Floral Decoration</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC06_GOLD__01.jpg?v=1627923038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1400<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            8.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 2 Artificial Leaf Stem</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type:</strong> Eucalyptus Leaf</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material: </strong>Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Metallic Leaf Branch</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 34"L x 7"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Length:</strong> 14.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness:</strong> 0.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Flexible Plastic Stem:</strong> Inside wire makes it easy to bend and arrange to your liking</td>
+</tr>
+<tr>
+<td>Match with other Tropical Plants, Hawaiian leis or Hibiscus Flowers to create Tropical Island atmosphere</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>The perfect accent and filler to complement your other flowers and greenery for a neutral yet exotic centerpiece.<br>
+</li>
+<li>
+<strong>Uses</strong>: These Leaves are Ideal for Hawaiian Party, Tropical Party Decorations, Tropical Island, Jungle Party Supplies, Palm Leaves Pool party, Wedding Palm Leaves Decorations, Restaurant Décor, Craft Supplies, Concession Stands, Juice bars, Fast Food Shop, Birthday Party, Baby Shower Decorations.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Stems</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-Stems</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>flowertype-eucalyptus leaves</s:tag>
+    <s:tag>flowertype-Leaves</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:length-34&quot;</s:tag>
+    <s:tag>size:width-7&quot;</s:tag>
+    <s:tag>variant-ARTI_METLIC_GOLD</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6644878180398</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.79</s:price>
+      <s:sku>ARTI_METLIC06_GOLD</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6644826570798</id>
+    <published>2021-07-29T18:25:43-07:00</published>
+    <updated>2021-07-29T18:25:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-27-metallic-gold-artificial-fern-frond-leaf-spray-tropical-leaves-vase-filler-floral-decoration"/>
+    <title>Pack of 2 | 27&quot; Metallic Gold Artificial Fern Frond Leaf Spray, Tropical Leaves Vase Filler Floral Decoration</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC05_GOLD_D07.jpg?v=1628534121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1400<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            7.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 2 Artificial Leaf Stem</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type:</strong> Fern Frond Leaf</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material: </strong>Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Metallic Leaf Branch</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 27"L x 2.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Length:</strong> 7.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness:</strong> 0.5cm</td>
+</tr>
+<tr>
+<td>
+<strong>Flexible Plastic Stem:</strong> Inside wire makes it easy to bend and arrange to your liking</td>
+</tr>
+<tr>
+<td>Match with other Tropical Plants, Hawaiian leis or Hibiscus Flowers to create Tropical Island atmosphere</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>The perfect accent and filler to complement your other flowers and greenery for a neutral yet exotic centerpiece.<br>
+</li>
+<li>
+<strong>Uses</strong>: These Leaves are Ideal for Hawaiian Party, Tropical Party Decorations, Tropical Island, Jungle Party Supplies, Palm Leaves Pool party, Wedding Palm Leaves Decorations, Restaurant Décor, Craft Supplies, Concession Stands, Juice bars, Fast Food Shop, Birthday Party, Baby Shower Decorations.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Stems</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-Stems</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>flowertype-fern leaves</s:tag>
+    <s:tag>flowertype-Leaves</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:length-27&quot;</s:tag>
+    <s:tag>size:width-2&quot;</s:tag>
+    <s:tag>style-wave</s:tag>
+    <s:tag>variant-ARTI_METLIC_GOLD</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6644826570798</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.79</s:price>
+      <s:sku>ARTI_METLIC05_GOLD</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6633011216430</id>
+    <published>2021-07-29T18:25:42-07:00</published>
+    <updated>2021-07-29T18:25:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/pack-of-2-32-metallic-gold-artificial-palm-leaf-spray-tropical-leaves-vase-filler-floral-decoration"/>
+    <title>Pack of 2 | 32&quot; Metallic Gold Artificial Palm Leaf Spray, Tropical Leaves Vase Filler Floral Decoration</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC04_GOLD__01.jpg?v=1627664405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1400<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            7.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 2 Artificial Leaf Stem</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type:</strong> Palm Leaf</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material: </strong>Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Metallic Leaf Branch</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 32.5"L x 9.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Length:</strong> 12.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness:</strong> 0.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Flexible Plastic Stem:</strong> Inside wire makes it easy to bend and arrange to your liking</td>
+</tr>
+<tr>
+<td>Match with other Tropical Plants, Hawaiian leis or Hibiscus Flowers to create Tropical Island atmosphere</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>The perfect accent and filler to complement your other flowers and greenery for a neutral yet exotic centerpiece.<br>
+</li>
+<li>
+<strong>Uses</strong>: These Leaves are Ideal for Hawaiian Party, Tropical Party Decorations, Tropical Island, Jungle Party Supplies, Palm Leaves Pool party, Wedding Palm Leaves Decorations, Restaurant Décor, Craft Supplies, Concession Stands, Juice bars, Fast Food Shop, Birthday Party, Baby Shower Decorations.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Stems</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-Stems</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>flowertype-Leaves</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:length-32&quot;</s:tag>
+    <s:tag>size:width-10&quot;</s:tag>
+    <s:tag>variant-ARTI_METLIC_GOLD</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6633011216430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.79</s:price>
+      <s:sku>ARTI_METLIC04_GOLD</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6645926297646</id>
+    <published>2021-07-29T18:19:45-07:00</published>
+    <updated>2021-07-29T18:19:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/56-metallic-gold-artificial-eucalyptus-leaf-garland-tropical-leaves-garland-wedding-floral-decoration"/>
+    <title>56&quot; Metallic Gold Artificial Eucalyptus Leaf Garland, Tropical Leaves Garland Wedding Floral Decoration</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_METLIC08_GOLD_D04.jpg?v=1627664252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1400<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            7.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Eucalyptus Garland</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Type:</strong> Eucalyptus Leaf</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Material: </strong>Plastic</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style:</strong> Waterfall Eucalyptus Garland</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 56"L x 5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Length:</strong> 3.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness:</strong> 0.5cm</td>
+</tr>
+<tr>
+<td>
+<strong>Flexible Plastic Stem:</strong> Inside wire makes it easy to bend and arrange to your liking</td>
+</tr>
+<tr>
+<td>Match with other Tropical Plants, Hawaiian leis or Hibiscus Flowers to create Tropical Island atmosphere</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>The perfect accent and filler to complement your other flowers and greenery for a neutral yet exotic centerpiece.<br>
+</li>
+<li>
+<strong>Uses</strong>: These Leaves are Ideal for Hawaiian Party, Tropical Party Decorations, Tropical Island, Jungle Party Supplies, Palm Leaves Pool party, Wedding Palm Leaves Decorations, Restaurant Décor, Craft Supplies, Concession Stands, Juice bars, Fast Food Shop, Birthday Party, Baby Shower Decorations.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Garlands | Vines</s:tag>
+    <s:tag>cat-sub1_TableTopDecor</s:tag>
+    <s:tag>cat-sub2_Garlands | Vines</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-sub2_Vines</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-TableTopDecor</s:tag>
+    <s:tag>categ-Vines</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>flowertype-eucalyptus leaves</s:tag>
+    <s:tag>flowertype-Leaves</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>size:length-56&quot;</s:tag>
+    <s:tag>size:width-5&quot;</s:tag>
+    <s:tag>style-garland</s:tag>
+    <s:tag>type-Leaf Vines</s:tag>
+    <s:tag>variant-ARTI_METLIC_GOLD</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6645926297646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.79</s:price>
+      <s:sku>ARTI_METLIC08_GOLD</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6646123167790</id>
+    <published>2021-07-26T16:47:49-07:00</published>
+    <updated>2021-07-26T16:47:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-2-matte-white-pentagon-geometric-flower-vases-glass-candle-holders-5-8"/>
+    <title>Set of 2 | Matte White Pentagon Geometric Flower Vases, Glass Candle Holders - 5&quot; | 8&quot;</title>
+    <s:type>Vases</s:type>
+    <s:vendor>HIER_4810</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A54_SET_WHT__01.jpg?v=1627337165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4810<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<b>Quantity:</b> 2 Glass Vases (Different Size)</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Glass</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Matte White</td>
+</tr>
+<tr>
+<td>
+<strong>Style: </strong>Matte Finish Geometric Glass Vases</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Size: </strong>5.5"H x 6.25"W</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Size</strong>: 7.75"H x 5.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Glass Thickness</strong>: 5mm</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Top Opening:</strong> 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Base:</strong> 3.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Depth:</strong> 4.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Top Opening:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Base:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Depth: </strong>7.5" </td>
+</tr>
+<tr>
+<td>Base of both vases are clear / see-through</td>
+</tr>
+<tr>
+<td>Small Vase has Top and Base shaped as a Pentagon</td>
+</tr>
+<tr>
+<td>Large Vase has Top and Base shaped as a Hexagon</td>
+</tr>
+<tr>
+<td>Perfect for floral and candle displays</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Small size ideal for placement on shelf, windowsill, desk, and tabletop surfaces</li>
+<li>Unique geometric design complements modern decors<br>
+</li>
+<li>Item is for Vases Only. Flowers and other decorative accessories not included.</li>
+<li>Great for everyday decor or for use as decorative centerpieces for weddings and special events</li>
+</ul>
+<div class="p-rich_text_section">
+<b data-stringify-type="bold">How to Care:</b><br>
+</div>
+<ul data-indent="0" class="p-rich_text_list p-rich_text_list__bullet" data-stringify-type="unordered-list">
+<li>Prior to first use, glass pieces should be hand washed individually in warm soapy water, rinsed thoroughly and dried with a lint free cloth.</li>
+<li>For optimal finish &amp; clarity, clean with a 50/50 solution of vinegar and water, let stand for a few hours then rinse well and dry with a lint free cloth.</li>
+<li>Our glass is produced overseas in extremely large quantities for our wholesale customers, due to transit and mass storage, all vases should be cleaned before use to remove any accumulated dust/dirt.</li>
+<li>Glass pieces should not be cleaned in a dish washer. Do not use products in microwaves or conventional ovens.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Geometric Decors</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Glass Geometric Vases</s:tag>
+    <s:tag>cat-sub2_Glass Vases</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Planters</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Geometric Decors</s:tag>
+    <s:tag>categ-Glass Geometric Vases</s:tag>
+    <s:tag>categ-Planters</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>categ-Unique Vases</s:tag>
+    <s:tag>categ-Vases</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-glass</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-Vases</s:tag>
+    <s:tag>variant-VASE_A54_SET_</s:tag>
+    <s:tag>variantstylev-VASE_A5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6646123167790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VASE_A54_SET_WHT</s:sku>
+      <s:grams>1878</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6646108061742</id>
+    <published>2021-07-26T16:47:48-07:00</published>
+    <updated>2021-07-26T16:47:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-2-matte-gold-pentagon-geometric-flower-vases-glass-candle-holders-5-8"/>
+    <title>Set of 2 | Matte Gold Pentagon Geometric Flower Vases, Glass Candle Holders - 5&quot; | 8&quot;</title>
+    <s:type>Vases</s:type>
+    <s:vendor>HIER_4810</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A54_SET_GOLD__01.jpg?v=1627336985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4810<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<b>Quantity:</b> 2 Glass Vases (Different Size)</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Glass</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Matte Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Style: </strong>Matte Finish Geometric Glass Vases</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Size: </strong>5.5"H x 6.25"W</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Size</strong>: 7.75"H x 5.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Glass Thickness</strong>: 5mm</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Top Opening:</strong> 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Base:</strong> 3.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Depth:</strong> 4.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Top Opening:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Base:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Depth: </strong>7.5" </td>
+</tr>
+<tr>
+<td>Base of both vases are clear / see-through</td>
+</tr>
+<tr>
+<td>Small Vase has Top and Base shaped as a Pentagon</td>
+</tr>
+<tr>
+<td>Large Vase has Top and Base shaped as a Hexagon</td>
+</tr>
+<tr>
+<td>Perfect for floral and candle displays</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Small size ideal for placement on shelf, windowsill, desk, and tabletop surfaces</li>
+<li>Unique geometric design complements modern decors<br>
+</li>
+<li>Item is for Vases Only. Flowers and other decorative accessories not included.</li>
+<li>Great for everyday decor or for use as decorative centerpieces for weddings and special events</li>
+</ul>
+<div class="p-rich_text_section">
+<b data-stringify-type="bold">How to Care:</b><br>
+</div>
+<ul data-stringify-type="unordered-list" class="p-rich_text_list p-rich_text_list__bullet" data-indent="0">
+<li>Prior to first use, glass pieces should be hand washed individually in warm soapy water, rinsed thoroughly and dried with a lint free cloth.</li>
+<li>For optimal finish &amp; clarity, clean with a 50/50 solution of vinegar and water, let stand for a few hours then rinse well and dry with a lint free cloth.</li>
+<li>Our glass is produced overseas in extremely large quantities for our wholesale customers, due to transit and mass storage, all vases should be cleaned before use to remove any accumulated dust/dirt.</li>
+<li>Glass pieces should not be cleaned in a dish washer. Do not use products in microwaves or conventional ovens.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Geometric Decors</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Glass Geometric Vases</s:tag>
+    <s:tag>cat-sub2_Glass Vases</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Planters</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Geometric Decors</s:tag>
+    <s:tag>categ-Glass Geometric Vases</s:tag>
+    <s:tag>categ-Planters</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>categ-Unique Vases</s:tag>
+    <s:tag>categ-Vases</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-glass</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-Vases</s:tag>
+    <s:tag>variant-VASE_A54_SET_</s:tag>
+    <s:tag>variantstylev-VASE_A5</s:tag>
+    <s:tag>vstylev-Glass</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6646108061742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VASE_A54_SET_GOLD</s:sku>
+      <s:grams>1878</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6646006939694</id>
+    <published>2021-07-26T16:47:47-07:00</published>
+    <updated>2021-07-26T16:47:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-2-matte-black-pentagon-geometric-flower-vases-glass-candle-holders-5-8"/>
+    <title>Set of 2 | Matte Black Pentagon Geometric Flower Vases, Glass Candle Holders - 5&quot; | 8&quot;</title>
+    <s:type>Vases</s:type>
+    <s:vendor>HIER_4810</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/VASE_A54_SET_BLK_D03.jpg?v=1627345061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_4810<br>
+        <strong>Type: </strong>Vases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<b>Quantity:</b> 2 Glass Vases (Different Size)</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Glass</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Matte Black</td>
+</tr>
+<tr>
+<td>
+<strong>Style: </strong>Matte Finish Geometric Glass Vases</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Size: </strong>5.5"H x 6.25"W</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Size</strong>: 7.75"H x 5.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Glass Thickness</strong>: 5mm</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Top Opening:</strong> 3"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Base:</strong> 3.5"</td>
+</tr>
+<tr>
+<td>
+<strong>Small Vase Depth:</strong> 4.75"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Top Opening:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Base:</strong> 4.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Large Vase Depth: </strong>7.5" </td>
+</tr>
+<tr>
+<td>Base of both vases are clear / see-through</td>
+</tr>
+<tr>
+<td>Small Vase has Top and Base shaped as a Pentagon</td>
+</tr>
+<tr>
+<td>Large Vase has Top and Base shaped as a Hexagon</td>
+</tr>
+<tr>
+<td>Perfect for floral and candle displays</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Small size ideal for placement on shelf, windowsill, desk, and tabletop surfaces</li>
+<li>Unique geometric design complements modern decors<br>
+</li>
+<li>Item is for Vases Only. Flowers and other decorative accessories not included.</li>
+<li>Great for everyday decor or for use as decorative centerpieces for weddings and special events</li>
+</ul>
+<div class="p-rich_text_section">
+<b data-stringify-type="bold">How to Care:</b><br>
+</div>
+<ul data-stringify-type="unordered-list" class="p-rich_text_list p-rich_text_list__bullet" data-indent="0">
+<li>Prior to first use, glass pieces should be hand washed individually in warm soapy water, rinsed thoroughly and dried with a lint free cloth.</li>
+<li>For optimal finish &amp; clarity, clean with a 50/50 solution of vinegar and water, let stand for a few hours then rinse well and dry with a lint free cloth.</li>
+<li>Our glass is produced overseas in extremely large quantities for our wholesale customers, due to transit and mass storage, all vases should be cleaned before use to remove any accumulated dust/dirt.</li>
+<li>Glass pieces should not be cleaned in a dish washer. Do not use products in microwaves or conventional ovens.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Geometric Decors</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>cat-sub1_Vases</s:tag>
+    <s:tag>cat-sub2_Glass Geometric Vases</s:tag>
+    <s:tag>cat-sub2_Glass Vases</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Planters</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Table Centerpieces</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Geometric Decors</s:tag>
+    <s:tag>categ-Glass Geometric Vases</s:tag>
+    <s:tag>categ-Planters</s:tag>
+    <s:tag>categ-Table &amp; Centerpiece Decor</s:tag>
+    <s:tag>categ-Unique Vases</s:tag>
+    <s:tag>categ-Vases</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>material-glass</s:tag>
+    <s:tag>single-unit-count_2</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-candle-holder</s:tag>
+    <s:tag>type-Vases</s:tag>
+    <s:tag>variant-VASE_A54_SET_</s:tag>
+    <s:tag>variantstylev-VASE_A5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6646006939694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VASE_A54_SET_BLK</s:sku>
+      <s:grams>1878</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6572420071470</id>
+    <published>2021-07-22T16:48:58-07:00</published>
+    <updated>2021-07-22T16:48:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/16-artificial-boxwood-topiary-ball-tree-in-white-planter-pot-indoor-green-decorative-planter"/>
+    <title>16&quot; Artificial Boxwood Topiary Ball Tree in White Planter Pot, Indoor Green Decorative Planter</title>
+    <s:type>Decorations</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_POT_001_M_WGRN_D02.jpg?v=1627076181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Decorations<br>
+        <strong>Price: </strong>
+            19.39 - 69.79
+            <a href="https://www.efavormart.com/products/16-artificial-boxwood-topiary-ball-tree-in-white-planter-pot-indoor-green-decorative-planter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Artificial Potted Plant</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Plastic, Wood and Preserved Moss</td>
+</tr>
+<tr>
+<td>
+<strong>Plant Type:</strong> Boxwood Plant</td>
+</tr>
+<tr>
+<td>
+<strong>Leaves Color:</strong> Green</td>
+</tr>
+<tr>
+<td>
+<strong>Pot Color: </strong>White</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Size:</strong> 16"H x 5.5"W</td>
+</tr>
+<tr>
+<td>
+<strong>Pot Size:</strong> 4"H x 4"L x 4"W</td>
+</tr>
+<tr>
+<td>
+<strong>Pot Thickness:</strong> 3mm</td>
+</tr>
+<tr>
+<td>Plastic pot topped with preserved moss</td>
+</tr>
+<tr>
+<td>The Branch is made of natural wood</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Lifelike and Lightweight, makes it easy to move and carry</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Moss is glued to look like greens/grass</li>
+<li>Boxwood Leaves are also on top part of the pot</li>
+<li>NO MAINTENANCE NEEDED: Maintenance is minimal as there is no need to water or trim. The perfect choice for people who don't have a green thumb. You can enjoy a beautifully decorated space with minimal effort.</li>
+<li data-stringify-indent="0">PERFECT GIFT: A wonderful addition to your office and home decor. This statue decoration is also fun for gift giving for your family and friends as a Father's Day, birthdays, housewarming, weddings and Christmas gift.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-4</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Home Decor Plants</s:tag>
+    <s:tag>categ-Home Decors</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-moss</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>material-wood</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>size:height-16&quot;</s:tag>
+    <s:tag>size:width-6&quot;</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6572420071470</id>
+      <title>Pack of 1 Boxwood Topiary</title>
+      <s:price currency="USD">19.39</s:price>
+      <s:sku>ARTI_POT_001_M_WGRN</s:sku>
+      <s:grams>853</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6572420071470</id>
+      <title>Case of 4 Boxwood Topiaries</title>
+      <s:price currency="USD">69.79</s:price>
+      <s:sku>ARTI_POT_001_M_WGRN_CASE</s:sku>
+      <s:grams>3411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6623787286574</id>
+    <published>2021-07-20T18:03:58-07:00</published>
+    <updated>2021-07-20T18:03:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/3-tier-44-white-plant-stand-wooden-display-shelf-x-shaped-plant-pot-rack"/>
+    <title>3-Tier | 44&quot; White Plant Stand, Wooden Display Shelf X-Shaped Plant Pot Rack</title>
+    <s:type>Planter Stand</s:type>
+    <s:vendor>HIER_1731</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FURN_WOD_RCK003_WHT__01.jpg?v=1626813937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1731<br>
+        <strong>Type: </strong>Planter Stand<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Quantity: </strong>1 Wooden Shelf (Unassembled) + Bag of Tools</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Material:</strong> Wood</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Color:</strong> White</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Style:</strong> 3-Tier Plant Stand</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Overall Size (Assembled):</strong> 44"H x 23.5"L x 13.75"W</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Total Panels: </strong>3</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Panel Thickness: </strong>0.5"</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Total Legs:</strong> 4</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Each Leg Size</strong>: 47.5"L x 2.75"W x 1" Thick</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Small Wood Panel Size:</strong> 15.75"L x 11.75"W</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Medium Wood Panel Size:</strong> 19.75"L x 11.75"W</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Large Wood Panel Size:</strong> 23.5"L x 11.75"W</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">
+<strong>Multi Purpose:</strong> Can be used as Display Stand, Storage Shelf, Bookcase, Plant Pot Rack</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">Triangular X-shaped support acts to enhance stability</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;">Easy to assemble, you can assemble it in a short time</td>
+</tr>
+<tr style="height: 18px;" data-mce-style="height: 18px;">
+<td style="height: 18px;" data-mce-style="height: 18px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr style="height: 38px;" data-mce-style="height: 38px;">
+<td style="height: 38px;" data-mce-style="height: 38px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Bag of Tools contents</strong>:</li>
+<ul>
+<li>13x (1x Extra) Screws</li>
+<ul>
+<li><span>Screw Length: 1.5"</span></li>
+<li><span> Screw Top/Bottom (Neck) Diameter: 0.5" | 0.5cm</span></li>
+<li><span>Screw uses Screw Driver Insert (X)</span></li>
+<ul>
+<ul></ul>
+</ul>
+</ul>
+<li>12x Screw Metal Inserts</li>
+<ul>
+<li><span>Metal Insert Length: 0.5"</span></li>
+<li><span>Metal Insert Top/Bottom Diameter: 1cm</span></li>
+<li><span>Metal Screw Insert Diameter: 6mm</span></li>
+</ul>
+<li>6x White Sticker Hole Covers</li>
+<ul>
+<li><span>Hole Cover Size: 0.75"</span></li>
+</ul>
+</ul>
+<li><span>Instructions not included. Easy Assembly.</span></li>
+<li><span><strong>Uses</strong>: Can be placed in a reading room, home office, balcony, garage, garden, patio, porch or flower shop to bring a natural aesthetic style to your space.</span></li>
+</ul>
+<ul>
+<ul></ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Planters</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Home Decor Plants</s:tag>
+    <s:tag>categ-Home Decors</s:tag>
+    <s:tag>categ-Planters</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>etsy-hangingplanters</s:tag>
+    <s:tag>material-wood</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>size:height-44&quot;</s:tag>
+    <s:tag>type-planter stand</s:tag>
+    <s:tag>variant-FURN_WOD_</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6623787286574</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.99</s:price>
+      <s:sku>FURN_WOD_RCK003_WHT</s:sku>
+      <s:grams>10165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1620074627118</id>
+    <published>2021-07-20T15:51:33-07:00</published>
+    <updated>2021-07-20T15:51:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/6-pack-periwinkle-turquoise-giant-paper-flowers-peony-assorted-sizes-12-16-20"/>
+    <title>6 Pack Aqua Blue &amp; Turquoise Giant Paper Flowers Peony Assorted Sizes -  12&quot; | 16&quot; | 20&quot;</title>
+    <s:type>Paper Flowers</s:type>
+    <s:vendor>HIER_3400</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/POM_FLO03_1220_050__01_0ea38016-c180-4b8c-b292-d06bcbf5cd59.jpg?v=1609970200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_3400<br>
+        <strong>Type: </strong>Paper Flowers<br>
+        <strong>Price: </strong>
+            15.99 - 90.99
+            <a href="https://www.efavormart.com/products/6-pack-periwinkle-turquoise-giant-paper-flowers-peony-assorted-sizes-12-16-20">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Paper<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Type</strong>: Peony<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1</strong> <strong>Qty</strong>: 6 Flowers <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Sizes</strong>: 12", 16" &amp; 20" (2 pcs each)<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Colors</strong>: 2 Colors (Periwinkle &amp; Turquoise)<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Video Tutorial Included on web page . For access, click on the YouTube icon.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>With their delicate beauty and cheerful colors, flowers have always been the top rank decoration for designers, decorators, and event planners. And with our intricately handcrafted Paper Peony Giant Flowers, you can now give an everlasting radiant color to your Party Tables, Centerpieces, Garden Décor, Backdrops, Photo Booths, etc. Imitating the strikingly natural construction of real Peonies, these giant 3D paper peony blossoms feature gorgeous layers of fluffed petals and fully detailed pistil center. With the sturdy backing, these giant flowers have the ability to hang on walls or curtains, or for a long lasting setup, use with our Glue Dots to stick strongly on backgrounds, walls, tables, arches, aisle, trees, ceiling, and any other space that deserves a boost of colorful magic. </span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong> <span>Tissue Paper</span>
+</li>
+<li>
+<strong>Type</strong>: Peony</li>
+<li>
+<strong>1 Qty:</strong> 6 Flowers </li>
+<li>
+<strong>Sizes:</strong> 12", 16" &amp; 20" (2 pcs each)</li>
+<li>
+<strong>Colors:</strong> 2 Colors (Periwinkle &amp; Turquoise)</li>
+<li>
+<strong>Note:</strong> Video Tutorial Included on web page . For access, click on the YouTube icon.</li>
+<li>
+<strong>Uses:</strong> Home decor, Wedding Decoration Backdrop Flower, DIY Art Flower Crafts, Dinner party, Baby Bridal showers.</li>
+</ul>
+<ul>
+<ul></ul>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-36</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Hanging &amp; Wall Decor</s:tag>
+    <s:tag>cat-sub1_Paper Flower</s:tag>
+    <s:tag>cat-sub1_Wall Flowers</s:tag>
+    <s:tag>cat-sub2_Paper Flower</s:tag>
+    <s:tag>cat-sub2_Paper Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Craft Supplies</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Paper Flower</s:tag>
+    <s:tag>categ-Paper Flowers</s:tag>
+    <s:tag>categ-Wall Flowers</s:tag>
+    <s:tag>color-periwinkle</s:tag>
+    <s:tag>color-turquoise</s:tag>
+    <s:tag>flowertype-peony</s:tag>
+    <s:tag>material-paper</s:tag>
+    <s:tag>single-unit-count-6</s:tag>
+    <s:tag>size-12&quot;</s:tag>
+    <s:tag>size-16&quot;</s:tag>
+    <s:tag>size-20&quot;</s:tag>
+    <s:tag>type-Giant Size Flowers</s:tag>
+    <s:tag>variant-POM_FLO03_1220_</s:tag>
+    <s:tag>variantsizev-POM_FLO03_050</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1620074627118</id>
+      <title>Pack Of 6 Flowers</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>POM_FLO03_1220_050</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1620074627118</id>
+      <title>Case of 6 Packs (Total 36 Flowers)</title>
+      <s:price currency="USD">90.99</s:price>
+      <s:sku>POM_FLO03_1220_050_CASE</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6581182038062</id>
+    <published>2021-07-19T14:50:31-07:00</published>
+    <updated>2021-07-19T14:50:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/3-bushes-11-silk-peonies-artificial-peony-flower-bouquet-for-vase-floral-arrangement-rose-gold-blush"/>
+    <title>3 Bushes | 11&quot; Silk Peonies, Artificial Peony Flower Bouquet For Vase Floral Arrangement - Rose Gold | Blush</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_BOUQ_PEO11_046__01.jpg?v=1626725044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1220<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 3 Peony Bushes</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: High Quality Silk</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Rose Gold | Blush</td>
+</tr>
+<tr>
+<td>
+<strong>Flower Type</strong>: Peony<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Bush Size</strong>: 11.5"L x 8"W</td>
+</tr>
+<tr>
+<td>
+<strong>Peony Size</strong>: 1.25"H x 2.5" Dia.</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Size</strong>: 2.75"L x 1.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Size</strong>: 3.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness</strong>: 5mm</td>
+</tr>
+<tr>
+<td>
+<strong>Feature</strong>: Lifelike, Natural, Full Bloom, Bendable, DIY</td>
+</tr>
+<tr>
+<td>Flower stem has wire embedded in the plastic. Easy to bent or cut.</td>
+</tr>
+<tr>
+<td>Can be used as a single individual flower or in bunches</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Perfect use as single individual flowers or in bunches</li>
+<li>Suitable for Home, Wedding, Office, Party, Garden, Shop, Backdrops, Ceilings, Hanging Decor, DIY.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bouquets</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bouquets</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Home Decors</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>flowertype-peony</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-11&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-ARTI_BOUQ_PEO11</s:tag>
+    <s:tag>variantsizev-ARTI_BOUQ_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6581182038062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.69</s:price>
+      <s:sku>ARTI_BOUQ_PEO11_046</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6581227159598</id>
+    <published>2021-07-19T14:47:13-07:00</published>
+    <updated>2021-07-19T14:47:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/3-bushes-11-silk-peonies-artificial-peony-flower-bouquet-for-vase-floral-arrangement-cream"/>
+    <title>3 Bushes | 11&quot; Silk Peonies, Artificial Peony Flower Bouquet For Vase Floral Arrangement - Cream</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_BOUQ_PEO11_CRM__01.jpg?v=1626724715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1220<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 3 Peony Bushes</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: High Quality Silk</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Cream</td>
+</tr>
+<tr>
+<td>
+<strong>Flower Type</strong>: Peony<br>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Bush Size</strong>: 11.5"L x 8"W</td>
+</tr>
+<tr>
+<td>
+<strong>Peony Size</strong>: 1.25"H x 2.5" Dia.</td>
+</tr>
+<tr>
+<td>
+<strong>Leaf Size</strong>: 2.75"L x 1.75"W</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Size</strong>: 3.25"</td>
+</tr>
+<tr>
+<td>
+<strong>Stem Thickness</strong>: 5mm</td>
+</tr>
+<tr>
+<td>
+<strong>Feature</strong>: Lifelike, Natural, Full Bloom, Bendable, DIY</td>
+</tr>
+<tr>
+<td>Flower stem has wire embedded in the plastic. Easy to bent or cut.</td>
+</tr>
+<tr>
+<td>Can be used as a single individual flower or in bunches</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><br><strong> Additional Information:</strong></p>
+<ul>
+<li>Perfect use as single individual flowers or in bunches</li>
+<li>Suitable for Home, Wedding, Office, Party, Garden, Shop, Backdrops, Ceilings, Hanging Decor, DIY.<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Flower Bouquets</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Flower Bouquets</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Home Decors</s:tag>
+    <s:tag>color-cream</s:tag>
+    <s:tag>flowertype-peony</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-11&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variant-ARTI_BOUQ_PEO11</s:tag>
+    <s:tag>variantsizev-ARTI_BOUQ_CRM</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6581227159598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.69</s:price>
+      <s:sku>ARTI_BOUQ_PEO11_CRM</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/6581369077806</id>
+    <published>2021-07-19T12:22:34-07:00</published>
+    <updated>2021-07-19T12:22:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/6ft-artificial-silk-maple-fall-leaf-garland-fall-decor-burgundy"/>
+    <title>6FT Artificial Silk Maple Fall Leaf Garland, Fall Decor - Burgundy</title>
+    <s:type>Vines</s:type>
+    <s:vendor>HIER_1220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_GRLD_MAPL01_BURG__01.jpg?v=1623282524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1220<br>
+        <strong>Type: </strong>Vines<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Leaf Garland</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Garland Type</strong>: Maple Leaves</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Material:</strong> Silk</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Material</strong>: Plastic</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Color:</strong> Burgundy</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length:</strong> 70" </td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width: </strong>9.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Size:</strong> 3"-4.5"L x 3"-5"W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features</strong>: Vibrant Colors, Durable and Lifelike, Doesn't wither or fade.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">The stem is flexible, can be shaped freely to meet any space of decorations</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">Perfect for Fall Harvest Decorations &amp; Thanksgiving!</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Use multiple garlands together to get the length you need.<br>
+</li>
+<li>
+<strong>Multipurpose</strong>: This fall maple leaf garland is not only perfect for thanksgiving, as a kind of hanging plants, our thanksgiving leaf garland is also good for daily indoor and outdoor decoration, autumn, wedding, door, fireplace, Festival, and Dinner Party.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-sub1_Garlands | Vines</s:tag>
+    <s:tag>cat-sub1_Home Decors</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub2_Garlands | Vines</s:tag>
+    <s:tag>cat-sub2_Vines</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers &amp; Garlands</s:tag>
+    <s:tag>categ-Garlands | Vines</s:tag>
+    <s:tag>categ-Home Decors</s:tag>
+    <s:tag>categ-naturals</s:tag>
+    <s:tag>categ-Vines</s:tag>
+    <s:tag>color-burgundy</s:tag>
+    <s:tag>etsy-artificialflowers</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>NEWARRIVALS-2107</s:tag>
+    <s:tag>size:length-70&quot;</s:tag>
+    <s:tag>size:width-9&quot;</s:tag>
+    <s:tag>type-Leaf Vines</s:tag>
+    <s:tag>variant-ARTI_GRLD_MAPL01</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/6581369077806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.69</s:price>
+      <s:sku>ARTI_GRLD_MAPL01_BURG</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+</feed>

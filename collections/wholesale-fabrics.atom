@@ -1,0 +1,2914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/wholesale-fabrics.atom"/>
+  <title>efavormart.com</title>
+  <updated>2020-11-20T18:29:58-08:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/8563056402</id>
+    <published>2020-11-20T18:29:58-08:00</published>
+    <updated>2020-11-20T18:29:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/12-x-10-yards-taffeta-fabric-roll-zebra-print-fabric-by-the-yard-zebra-fabric-animal-print-chocolate"/>
+    <title>12&quot; x 10 Yards | Taffeta Fabric Roll | Zebra Print Fabric by the Yard | Zebra Fabric Animal Print - Chocolate</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ZEB_1210_CHOC_CHOC__01XL.jpg?v=1620165113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta Flocking</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width of Fabric</strong>: 12" Wide</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length of Fabric</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Chocolate/Chocolate</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>QTY</strong>: 1 Bolt/Order</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Great for decoration, making your own sashes or custom size runners.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Perfect for Jungle Theme Party Decoration</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong> Taffeta Flocking</li>
+<li>
+<strong>Width of Fabric:</strong> 12" Wide</li>
+<li>
+<strong>Length of Fabric:</strong> 10 Yards</li>
+<li>
+<strong>Color:</strong> Chocolate/Chocolate</li>
+<li>
+<strong>Qty:</strong> 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>Great for decoration, making your own sashes or custom size runners.</li>
+<li>
+<strong>Uses </strong> Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Animal Print Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Animal Print Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-chocolate</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-animal</s:tag>
+    <s:tag>style-printed</s:tag>
+    <s:tag>style-Zebra</s:tag>
+    <s:tag>variant-zeb_1210</s:tag>
+    <s:tag>variantsizev-ZEB_CHOC_CHOC</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8563056402</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.49</s:price>
+      <s:sku>ZEB_1210_CHOC_CHOC</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562884946</id>
+    <published>2020-10-21T16:35:14-07:00</published>
+    <updated>2020-10-21T16:35:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4-yards-silver-embroidered-lace-fabric-by-the-yard"/>
+    <title>54&quot; x 4 Yards Silver Embroidered Lace Fabric By The Yard</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5445_WHT__01.jpg?v=1620164473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            36.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Embroidered Tulle with Interlaced Threads<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 4 Yards<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Pattern</strong>: Floral<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>This royal piece is meant to inspire and ooze the oodles of eminency that is reserved for the elites only. This strikingly exclusive fabric has specially been designed by our experts to fit the regal essentials of the swanky aristocrats. This luxurious embroidered fabric is fashioned brilliantly with interlaced thread embroidery atop glamorous sheer tulle netting. Design ritzy apparels and see the world bowing at your elevated elegance or decorate your events ambiance with elitism, transforming it into an exalted affair.<br><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Embroidered Tulle with Interlaced Threads</li>
+<li>
+<strong>Width</strong>: 54" </li>
+<li>
+<strong>Length</strong>: 4 Yards </li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>Edges are not finished</li>
+<li>
+<strong>Pattern</strong>: Floral</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Lace Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Lace Fabric Bolts</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Embroidered Collection</s:tag>
+    <s:tag>Collection-Lace Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-embellished</s:tag>
+    <s:tag>style-embroidered</s:tag>
+    <s:tag>variant-fab_5445</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562884946</id>
+      <title>Default Title</title>
+      <s:price currency="USD">36.89</s:price>
+      <s:sku>FAB_5445_WHT</s:sku>
+      <s:grams>812</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581937490</id>
+    <published>2020-06-30T15:27:37-07:00</published>
+    <updated>2020-06-30T15:27:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/chiffon-fabric-bolt-12-x-10yards-ivory"/>
+    <title>12&quot;x10 Yards | Ivory Chiffon Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHIF_1210_IVR__01.jpg?v=1571438744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Chiffon</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Ivory</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 12" </td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td>
+<strong>Design</strong>: Edges are not finished</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information] </h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Roll<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Chiffon<br>
+</li>
+<li>
+<strong>Color:</strong><span> Ivory</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>12"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>10 Yards<br>
+</li>
+<li>
+<strong>Design:</strong><span> </span>Edges are not finished<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Ceilings, Dress Making, Prom Dresses, Runners, Hanging Decor, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Modern Aisle Decors</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>material-chiffon</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-chif_1210</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581937490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>CHIF_1210_IVR</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562855570</id>
+    <published>2020-05-14T16:23:23-07:00</published>
+    <updated>2020-05-14T16:23:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4-yards-silver-premium-sequin-fabric-bolt"/>
+    <title>54&quot; x 4Yards Silver Premium Sequin Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>eFavormart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5402_SILV__01XL.jpg?v=1624300517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eFavormart<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            28.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Sequin Fabric Bolt</td>
+</tr>
+<tr>
+<td>
+<b>Material: </b>Shiny Sequin Beads atop Tulle Net Fabric</td>
+</tr>
+<tr>
+<td>
+<strong>Color: </strong>Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Width: </strong>54"</td>
+</tr>
+<tr>
+<td>
+<b>Length:</b> 4Yards</td>
+</tr>
+<tr>
+<td>
+<b>Edges:</b> Not Finished</td>
+</tr>
+<tr>
+<td>
+<b>Sequin Size</b>: 3mm</td>
+</tr>
+<tr>
+<td>Great for Draping tables, Ceilings, Walls, and can also be used to fuel your own creativity.</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>This elegantly shimmering piece with 54" x 4Yards Iridescent Premium Sequin Fabric Bolt comprises of shiny sequin beads crafted atop tulle netting with the utmost perfection. The seamless glitz and glam will add heaps of royal sheen and glamorous appeal to whatever this extravagant masterpiece will embrace.</p>
+<p><span data-mce-fragment="1">This particularly dazzling fabric is a perfect choice for crafting something elegant, graceful, and fit for royalty. The very design of this glittering fabric exudes joie de vivre and radiance. Style your dresses or embellish your decor brightly, boldly and beautifully with this truly breathtaking masterpiece.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Shimmering sequins have been laced throughout with iridescent thread to augment its vivacity and sparkle. Like its name, this shimmering piece showcases your prestige, status, and beguiling charisma. Indulge your creativity with this charming material and drape your dreary arches, tables, chairs, and aisle with the lustrous glimmer and alluring elegance of this extravagant material.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Sequin Fabric Bolt<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Shiny Sequin Beads atop Tulle Net Fabric<br>
+</li>
+<li>
+<strong>Color:</strong><span> Silver</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>54"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>4Yards<br>
+</li>
+<li>
+<strong>Edges:</strong><span> </span>Not Finished<br>
+</li>
+<li>
+<strong>Sequin Size:</strong><span> </span>3mm<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-glitz</s:tag>
+    <s:tag>variant-fab_5402</s:tag>
+    <s:tag>variantstylev-FAB_54_SILV</s:tag>
+    <s:tag>vstylev-Sequin</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562855570</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.49</s:price>
+      <s:sku>FAB_5402_SILV</s:sku>
+      <s:grams>916</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581938386</id>
+    <published>2020-01-29T11:23:09-08:00</published>
+    <updated>2020-01-29T11:23:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/chiffon-fabric-bolt-12-x-10yards-white"/>
+    <title>12&quot;x10 Yards | White Chiffon Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHIF_1210_WHT__01.jpg?v=1571438744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Chiffon</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 12" </td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td>
+<strong>Design</strong>: Edges are not finished</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information] </h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Roll<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Chiffon<br>
+</li>
+<li>
+<strong>Color:</strong><span> White</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>12"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>10 Yards<br>
+</li>
+<li>
+<strong>Design:</strong><span> </span>Edges are not finished<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Ceilings, Dress Making, Prom Dresses, Runners, Hanging Decor, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Props &amp; Columns</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Modern Aisle Decors</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Large Scale Events</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Modern Aisle Decors</s:tag>
+    <s:tag>categ-Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-chiffon</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-chif_1210</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581938386</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>CHIF_1210_WHT</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562881938</id>
+    <published>2019-12-26T10:01:48-08:00</published>
+    <updated>2019-12-26T10:01:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4-yards-silver-psychedelic-design-beaded-sequin-fabric-bolt"/>
+    <title>54&quot; x 4 Yards Silver Psychedelic Design Beaded Sequin Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5437_SILV__01.jpg?v=1571438643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            50.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Chemical Style Sequin Beads on top of Tulle Netting<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 4 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>This gorgeously designed Psychedelic Chemical Sequin Style fabric is a sure way to spruce up any dreary decoration and ambiance. The astonishing embellishing elements of embroider, sequins and tulle netting have intricately been fused together to give this empyrean masterpiece. Enlivening interlocking web look has been created by embroidering in a spectacular manner. To glam up the visual appeal of this exquisite piece, our designers thought of studding it with shimmering beaded sequin fabric. The impeccable sheen and glamorous look of this superb sequin fabric bolt is heightened when you exhibit it with glinting LED effect or underneath the natural sunshine. Design swanky outfits for brides, bridesmaids, or flower girls to add an ethereal touch to your dressing line, or decorate your walls, ceilings, aisle, arches, and furniture with this classy material. The glitz and glam of your appearance and decor will surely impress your guests manifold who will be flabbergasted by the sublime aura of the event.</p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: Chemical Style Sequin Beads on top of Tulle Netting</li>
+<li>
+<strong>Width</strong>: 54" </li>
+<li>
+<strong>Length</strong>: 4 Yards </li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Lace Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Lace Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Chemical Sequin Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-Tulle</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-glitz</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562881938</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.69</s:price>
+      <s:sku>FAB_5437_SILV</s:sku>
+      <s:grams>1016</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4286173020206</id>
+    <published>2019-10-18T14:49:10-07:00</published>
+    <updated>2019-10-18T14:49:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4yards-silver-payette-sequin-fabric-roll-with-mesh-fabric-base"/>
+    <title>54&quot; x 4Yards - Silver Payette Sequin Fabric Roll with Mesh Fabric Base</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5471_SILV__01.jpg?v=1620164479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Fabric Bolt</td>
+</tr>
+<tr>
+<td>
+<b>Material</b>: Sequin on Mesh Base</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Width: </strong>54"</td>
+</tr>
+<tr>
+<td>
+<b>Length</b>: 4 Yards</td>
+</tr>
+<tr>
+<td>
+<b>Sequin Size: </b>18mm</td>
+</tr>
+<tr>
+<td>
+<b><strong>Edges: </strong></b>Not Finished</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>Great for Draping tables, Ceilings, Walls, and can also be used to fuel your own creativity.</li>
+<li>
+<b><strong>How to Care: </strong></b>Do not dry clean or machine wash. Wipe with a soft damp cloth.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Boy&apos;s Theme Decorations</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Decorations</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Boy&apos;s Theme Decorations</s:tag>
+    <s:tag>categ-Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Decorations</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Big Payette Sequin Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-payette</s:tag>
+    <s:tag>variant-FAB_5471</s:tag>
+    <s:tag>variantstylev-FAB_54_SILV</s:tag>
+    <s:tag>vstylev-Big Payette Sequin</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4286173020206</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>FAB_5471_SILV</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4286171316270</id>
+    <published>2019-10-18T14:49:09-07:00</published>
+    <updated>2019-10-18T14:49:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4yards-gold-payette-sequin-fabric-roll-with-mesh-fabric-base"/>
+    <title>54&quot; x 4Yards - Gold Payette Sequin Fabric Roll with Mesh Fabric Base</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5471_GOLD__01.jpg?v=1620164478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Fabric Bolt</td>
+</tr>
+<tr>
+<td>
+<b>Material</b>: Sequin on Mesh Base</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Width: </strong>54"</td>
+</tr>
+<tr>
+<td>
+<b>Length</b>: 4 Yards</td>
+</tr>
+<tr>
+<td>
+<b>Sequin Size: </b>18mm</td>
+</tr>
+<tr>
+<td>
+<b><strong>Edges: </strong></b>Not Finished</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>Great for Draping tables, Ceilings, Walls, and can also be used to fuel your own creativity.</li>
+<li>
+<b><strong>How to Care: </strong></b>Do not dry clean or machine wash. Wipe with a soft damp cloth.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Big Payette Sequin Collection</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-payette</s:tag>
+    <s:tag>variant-FAB_5471</s:tag>
+    <s:tag>variantstylev-FAB_54_GOLD</s:tag>
+    <s:tag>vstylev-Big Payette Sequin</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4286171316270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>FAB_5471_GOLD</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4286170136622</id>
+    <published>2019-10-18T14:49:09-07:00</published>
+    <updated>2019-10-18T14:49:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4yards-champagne-payette-sequin-fabric-roll-with-mesh-fabric-base"/>
+    <title>54&quot; x 4Yards - Champagne Payette Sequin Fabric Roll with Mesh Fabric Base</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5471_CHMP__01.jpg?v=1620164478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Fabric Bolt</td>
+</tr>
+<tr>
+<td>
+<b>Material</b>: Sequin on Mesh Base</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Champagne</td>
+</tr>
+<tr>
+<td>
+<strong>Width: </strong>54"</td>
+</tr>
+<tr>
+<td>
+<b>Length</b>: 4 Yards</td>
+</tr>
+<tr>
+<td>
+<b>Sequin Size: </b>18mm</td>
+</tr>
+<tr>
+<td>
+<b><strong>Edges: </strong></b>Not Finished</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>Great for Draping tables, Ceilings, Walls, and can also be used to fuel your own creativity.</li>
+<li>
+<b><strong>How to Care: </strong></b>Do not dry clean or machine wash. Wipe with a soft damp cloth.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Big Payette Sequin Collection</s:tag>
+    <s:tag>color-champagne</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-payette</s:tag>
+    <s:tag>variant-FAB_5471</s:tag>
+    <s:tag>variantstylev-FAB_54_CHMP</s:tag>
+    <s:tag>vstylev-Big Payette Sequin</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4286170136622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>FAB_5471_CHMP</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4286083924014</id>
+    <published>2019-10-18T14:49:08-07:00</published>
+    <updated>2019-10-18T14:49:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4yards-blush-rose-gold-payette-sequin-fabric-roll-with-mesh-fabric-base"/>
+    <title>54&quot; x 4Yards - Blush - Rose Gold Payette Sequin Fabric Roll with Mesh Fabric Base</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5471_046__01.jpg?v=1620164477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Quantity</b>: 1 Fabric Bolt</td>
+</tr>
+<tr>
+<td>
+<b>Material</b>: Sequin on Mesh Base</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush/Rose Gold </td>
+</tr>
+<tr>
+<td>
+<strong>Width: </strong>54"</td>
+</tr>
+<tr>
+<td>
+<b>Length</b>: 4 Yards</td>
+</tr>
+<tr>
+<td>
+<b>Sequin Size: </b>18mm</td>
+</tr>
+<tr>
+<td>
+<b><strong>Edges: </strong></b>Not Finished</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>Great for Draping tables, Ceilings, Walls, and can also be used to fuel your own creativity.</li>
+<li>
+<b><strong>How to Care: </strong></b>Do not dry clean or machine wash. Wipe with a soft damp cloth.</li>
+<li>
+<strong>Uses</strong>: Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Dazzling Sequined Fabric Bolts</s:tag>
+    <s:tag>categ-Girl&apos;s Theme Decorations</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Big Payette Sequin Collection</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>style-payette</s:tag>
+    <s:tag>variant-FAB_5471</s:tag>
+    <s:tag>variantstylev-FAB_54_046</s:tag>
+    <s:tag>vstylev-Big Payette Sequin</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4286083924014</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>FAB_5471_046</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581937938</id>
+    <published>2019-09-13T10:18:38-07:00</published>
+    <updated>2019-09-13T10:18:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/chiffon-fabric-bolt-12-x-10yards-red"/>
+    <title>12&quot;x10 Yards | Red Chiffon Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHIF_1210_RED__01.jpg?v=1571438744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Chiffon</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Red</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 12" </td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td>
+<strong>Design</strong>: Edges are not finished</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information] </h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Roll<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Chiffon<br>
+</li>
+<li>
+<strong>Color:</strong><span> Red</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>12"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>10 Yards<br>
+</li>
+<li>
+<strong>Design:</strong><span> </span>Edges are not finished<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Ceilings, Dress Making, Prom Dresses, Runners, Hanging Decor, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-red</s:tag>
+    <s:tag>material-chiffon</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-chif_1210</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581937938</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>CHIF_1210_RED</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581937554</id>
+    <published>2019-08-27T15:11:37-07:00</published>
+    <updated>2019-08-27T15:11:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/chiffon-fabric-bolt-12-x-10yards-lavender"/>
+    <title>12&quot;x10 Yards | Lavender Chiffon Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHIF_1210_LAV__01.jpg?v=1571438744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Chiffon</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Lavender</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 12" </td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td>
+<strong>Design</strong>: Edges are not finished</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information] </h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Roll<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Chiffon<br>
+</li>
+<li>
+<strong>Color:</strong><span> Lavender</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>12"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>10 Yards<br>
+</li>
+<li>
+<strong>Design:</strong><span> </span>Edges are not finished<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Ceilings, Dress Making, Prom Dresses, Runners, Hanging Decor, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-lavender</s:tag>
+    <s:tag>Doorbuster-Cyber-Monday-2019</s:tag>
+    <s:tag>material-chiffon</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-chif_1210</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581937554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>CHIF_1210_LAV</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1901638975534</id>
+    <published>2019-07-19T15:32:46-07:00</published>
+    <updated>2019-07-19T15:32:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/5-yards-royal-blue-velvet-fabric-bolt-65-wide-fabric-roll"/>
+    <title>5 Yards | Royal Blue | Velvet Fabric Bolt | 65&quot; Wide  Fabric Roll</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_VEL_65X5_ROY__01_f8ea4df3-e438-4663-9cb0-949f4fbf8016.jpg?v=1571439224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty:</strong> 1 Roll/Order</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Roll Length:</strong> 5 yards</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Roll Width:</strong> 65"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> Velvet</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Edges:</strong> Serged</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 Pcs Seamless Design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Feature:</strong> Soft, textured feel with sheen finish</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instructions:</strong> Hand wash in cold water, line dry. Do not bleach/iron.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong> Qty:</strong> 1 Roll/Order<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Roll Length:</strong> 5 yards</li>
+<li>
+<strong>Roll Width:</strong> 65"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Edges:</strong> Serged<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Material:</strong> 100% Velvet<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Maintenance:</strong> Gently hand wash, spills immediately. Refrain from rubbing the fabric. Gently brush out dried substances. Turn inside out when ironing or steaming. When ironing, move in the direction of the pile. Keep away from direct sunlight to avoid fading.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Velvet Fabric Bolt</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Velvet Collection</s:tag>
+    <s:tag>categ-Velvet Fabric Bolt</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-royal-blue</s:tag>
+    <s:tag>material-velvet</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-65&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-FAB_VEL_65X5</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1901638975534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>FAB_VEL_65X5_ROY</s:sku>
+      <s:grams>1542</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562892626</id>
+    <published>2019-03-22T11:46:56-07:00</published>
+    <updated>2019-03-22T11:46:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-5-yards-eggplant-petal-taffeta-fabric-by-the-bolt"/>
+    <title>54&quot; x 5 Yards | Eggplant Petal Taffeta Fabric By The Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_54FORR_EGG__01.jpg?v=1620164479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" Wide <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 5 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Eggplant<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Our nature inspired beguiling Forest Taffeta Fabric by the Bolt is specially been crafted to caress your wearisome minds and souls with peace by harmonizing them with the enchanted tranquility of natural atmosphere.</p>
+<p>For those who value nature, we've crafted this remarkable piece with life-like leaf accents to fit perfectly in with any nature-themed celebration whether its out-door or indoor.</p>
+<p>This paradise forest Leaf Taffeta Fabric will make a perfect backdrop for photography and large scale events, or use it to make custom size cake table linens, draperies and many more wild creative ideas that cross your mind!</p>
+<p><strong>Additional</strong> <strong>Information</strong>:</p>
+<ul>
+<li>
+<strong>Material</strong>: Taffeta</li>
+<li>
+<strong>Width</strong>: 54" Wide </li>
+<li>
+<strong>Length</strong>: 5 Yards </li>
+<li>
+<strong>Color</strong>: Eggplant</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: DIY, Wedding, Party, Birthday, Favor, Gift, Craft, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Bienvenue Taffeta Collection</s:tag>
+    <s:tag>Collection-Paradise Forest Collection</s:tag>
+    <s:tag>color-eggplant</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-petals</s:tag>
+    <s:tag>variant-fab_54forr</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562892626</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>FAB_54FORR_EGG</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562892498</id>
+    <published>2019-03-22T11:46:54-07:00</published>
+    <updated>2019-03-22T11:46:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-5-yards-apple-green-petal-taffeta-fabric-by-the-bolt"/>
+    <title>54&quot; x 5 Yards | Apple Green Petal Taffeta Fabric By The Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_54FORR_APPL__01.jpg?v=1620164478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" Wide <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 5 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Apple Green<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Our nature inspired beguiling Forest Taffeta Fabric by the Bolt is specially been crafted to caress your wearisome minds and souls with peace by harmonizing them with the enchanted tranquility of natural atmosphere.</p>
+<p>For those who value nature, we've crafted this remarkable piece with life-like leaf accents to fit perfectly in with any nature-themed celebration whether its out-door or indoor.</p>
+<p>This paradise forest Leaf Taffeta Fabric will make a perfect backdrop for photography and large scale events, or use it to make custom size cake table linens, draperies and many more wild creative ideas that cross your mind!</p>
+<p><strong>Additional</strong> <strong>Information</strong>:</p>
+<ul>
+<li>
+<strong>Material</strong>: Taffeta</li>
+<li>
+<strong>Width</strong>: 54" Wide </li>
+<li>
+<strong>Length</strong>: 5 Yards </li>
+<li>
+<strong>Color</strong>: Apple Green</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: DIY, Wedding, Party, Birthday, Favor, Gift, Craft, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Bienvenue Taffeta Collection</s:tag>
+    <s:tag>Collection-Paradise Forest Collection</s:tag>
+    <s:tag>color-apple-green</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-petals</s:tag>
+    <s:tag>variant-fab_54forr</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562892498</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>FAB_54FORR_APPL</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562893650</id>
+    <published>2019-03-22T11:46:51-07:00</published>
+    <updated>2019-03-22T11:46:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-5-yards-silver-petal-taffeta-fabric-by-the-bolt"/>
+    <title>54&quot; x 5 Yards | Silver Petal Taffeta Fabric By The Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_54FORR_SILV__01.jpg?v=1620164481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" Wide <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 5 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Our nature inspired beguiling Forest Taffeta Fabric by the Bolt is specially been crafted to caress your wearisome minds and souls with peace by harmonizing them with the enchanted tranquility of natural atmosphere.</p>
+<p>For those who value nature, we've crafted this remarkable piece with life-like leaf accents to fit perfectly in with any nature-themed celebration whether its out-door or indoor.</p>
+<p>This paradise forest Leaf Taffeta Fabric will make a perfect backdrop for photography and large scale events, or use it to make custom size cake table linens, draperies and many more wild creative ideas that cross your mind!</p>
+<p><strong>Additional</strong> <strong>Information</strong>:</p>
+<ul>
+<li>
+<strong>Material</strong>: Taffeta</li>
+<li>
+<strong>Width</strong>: 54" Wide </li>
+<li>
+<strong>Length</strong>: 5 Yards </li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: DIY, Wedding, Party, Birthday, Favor, Gift, Craft, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Bienvenue Taffeta Collection</s:tag>
+    <s:tag>Collection-Paradise Forest Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-petals</s:tag>
+    <s:tag>variant-fab_54forr</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562893650</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>FAB_54FORR_SILV</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562892562</id>
+    <published>2019-03-22T11:46:51-07:00</published>
+    <updated>2019-03-22T11:46:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-5-yards-black-petal-taffeta-fabric-by-the-bolt"/>
+    <title>54&quot; x 5 Yards | Black Petal Taffeta Fabric By The Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_54FORR_BLK__01.jpg?v=1620164479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" Wide <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 5 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Black<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Our nature inspired beguiling Forest Taffeta Fabric by the Bolt is specially been crafted to caress your wearisome minds and souls with peace by harmonizing them with the enchanted tranquility of natural atmosphere.</p>
+<p>For those who value nature, we've crafted this remarkable piece with life-like leaf accents to fit perfectly in with any nature-themed celebration whether its out-door or indoor.</p>
+<p>This paradise forest Leaf Taffeta Fabric will make a perfect backdrop for photography and large scale events, or use it to make custom size cake table linens, draperies and many more wild creative ideas that cross your mind!</p>
+<p><strong>Additional</strong> <strong>Information</strong>:</p>
+<ul>
+<li>
+<strong>Material</strong>: Taffeta</li>
+<li>
+<strong>Width</strong>: 54" Wide </li>
+<li>
+<strong>Length</strong>: 5 Yards </li>
+<li>
+<strong>Color</strong>: Black</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: DIY, Wedding, Party, Birthday, Favor, Gift, Craft, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Bienvenue Taffeta Collection</s:tag>
+    <s:tag>Collection-Paradise Forest Collection</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-petals</s:tag>
+    <s:tag>variant-fab_54forr</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562892562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>FAB_54FORR_BLK</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562893010</id>
+    <published>2018-08-06T11:54:43-07:00</published>
+    <updated>2018-08-06T11:54:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/forest-taffeta-fabric-by-the-bolt-54-x-5-yards-lavender-1-bolt-leaf-taffeta-fabric"/>
+    <title>Forest Taffeta Fabric by the Bolt | 54&quot; x 5 Yards | Lavender | 1 Bolt | Leaf Taffeta Fabric</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_54FORR_LAV__01.jpg?v=1620164481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            32.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Taffeta<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width</strong>: 54" Wide <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length</strong>: 5 Yards <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Lavender<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: 1 Bolt/Order<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Edges are not finished<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Our nature inspired beguiling Forest Taffeta Fabric by the Bolt is specially been crafted to caress your wearisome minds and souls with peace by harmonizing them with the enchanted tranquility of natural atmosphere.</p>
+<p>For those who value nature, we've crafted this remarkable piece with life-like leaf accents to fit perfectly in with any nature-themed celebration whether its out-door or indoor.</p>
+<p>This paradise forest Leaf Taffeta Fabric will make a perfect backdrop for photography and large scale events, or use it to make custom size cake table linens, draperies and many more wild creative ideas that cross your mind!</p>
+<p><strong>Additional</strong> <strong>Information</strong>:</p>
+<ul>
+<li>
+<strong>Material</strong>: Taffeta</li>
+<li>
+<strong>Width</strong>: 54" Wide </li>
+<li>
+<strong>Length</strong>: 5 Yards </li>
+<li>
+<strong>Color</strong>: Lavender</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>Edges are not finished</li>
+<li>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</li>
+<li>
+<strong>Uses</strong>: DIY, Wedding, Party, Birthday, Favor, Gift, Craft, Decoration</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Taffeta &amp; Taffeta Prints Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Paradise Forest Collection</s:tag>
+    <s:tag>color-lavender</s:tag>
+    <s:tag>material-taffeta</s:tag>
+    <s:tag>size:length-5 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-petals</s:tag>
+    <s:tag>variant-fab_54forr</s:tag>
+    <s:tag>yard-5</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562893010</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.29</s:price>
+      <s:sku>FAB_54FORR_LAV</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562906322</id>
+    <published>2018-04-03T18:53:13-07:00</published>
+    <updated>2018-04-03T18:53:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4-yards-chocolate-ivory-eco-friendly-woven-upholstery-raffia-fabric-by-the-bolt"/>
+    <title>54&quot; x 4 Yards Chocolate/Ivory Eco-Friendly Woven Upholstery Raffia Fabric By the Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_JUTE_10_D01.jpg?v=1620164490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            27.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Raffia</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width of Fabric:</strong> 54" Wide</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length of Fabric:</strong> 4 Yards</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color:</strong>Chocolate/Ivory</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty:</strong> 1 Bolt/Order</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric Quality:</strong> Soft and Durable</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Bio-Degradable:</strong> Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Edges:</strong> Not Finished</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img height="136" width="160" alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/2_de18dfb2-ad50-4fdf-a2b4-7f919ee2642c_large.jpg?v=1557442717"></td>
+<td>
+<h3 class="item-header">Biodegradable</h3>
+<p>Capable of being decomposed by bacteria or other living organisms.</p>
+</td>
+<td style="text-align: center;"><img height="119" width="138" alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/1_2392f90f-6060-426d-a8cd-12b4c5499298_large.jpg?v=1557442743"></td>
+<td>
+<h3 class="item-header">Eco-Friendly</h3>
+<p>This item is not harmful to the environment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img height="250" width="250" src="https://cdn.shopify.com/s/files/1/1832/6341/products/FAB_JUTE_10-2_1000x.jpg?v=1556054726"></td>
+<td>
+<h3 class="item-header">Raffia Fabric</h3>
+<p>The sturdy jute material gives a liberty to use them with ease in the rough outdoor events, hillside picnics and an afternoon by the lake-side with Eco-Friendly Woven Upholstery Raffia Fabric By the Bolt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Chic Checkered Design</h3>
+<p>The chic checkered design looks so pleasing to the eyes and will look totally enticing in photos. So, go ahead, grab that selfie stick, and bring the whole family in the canvas with our stunning checkered BBQ Time raffia in the background. </p>
+</td>
+<td style="text-align: center;"><img height="251" width="250" src="https://cdn.shopify.com/s/files/1/1832/6341/products/FAB_JUTE_10_D01_grande_3686fd1f-6a9b-45a8-b773-57f103d37bf7_1000x.jpg?v=1525994018"></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img height="274" width="274" alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collage_1_large.jpg?v=1557443860"></td>
+<td>
+<h3 class="item-header">Durable</h3>
+<p>Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: High Quality Raffia</li>
+<li>
+<strong>Width of</strong> <strong>Fabric</strong>: 54" Wide </li>
+<li>
+<strong>Length of</strong> <strong>Fabric</strong>: 4 Yards </li>
+<li>
+<strong>Color</strong>: Chocolate/Ivory</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>
+<strong>Fabric</strong> <strong>Quality</strong>: Soft and Durable</li>
+<li>
+<strong>Bio-Degradable</strong>: Yes</li>
+<li>
+<strong>Edges</strong>: Not Finished</li>
+<li>Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</li>
+<li>
+<strong>Uses</strong>: Picnic, Outdoor, Backdrops, Runners, Draping Tables and Ceilings</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Vacation-Style Raffia Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Vacation-Style Raffia Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-chocolate</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>material-raffia</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>variant-fab_jute</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562906322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.69</s:price>
+      <s:sku>FAB_JUTE_10</s:sku>
+      <s:grams>1311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562906962</id>
+    <published>2018-04-03T18:47:47-07:00</published>
+    <updated>2018-04-03T18:47:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-4-yards-black-eco-friendly-woven-upholstery-raffia-fabric-by-the-bolt"/>
+    <title>54&quot; x 4 Yards Black Eco-Friendly Woven Upholstery Raffia Fabric By the Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_JUTE_7_D01.jpg?v=1620164490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            27.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material:</strong> High Quality Raffia</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Width of Fabric:</strong> 54" Wide</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Length of Fabric:</strong> 4 Yards</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color: </strong>Black</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty:</strong> 1 Bolt/Order</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric Quality:</strong> Soft and Durable</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Bio-Degradable:</strong> Yes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Edges:</strong> Not Finished</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/2_de18dfb2-ad50-4fdf-a2b4-7f919ee2642c_large.jpg?v=1557442717" alt="" width="160" height="136"></td>
+<td>
+<h3 class="item-header">Biodegradable</h3>
+<p>Capable of being decomposed by bacteria or other living organisms.</p>
+</td>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/1_2392f90f-6060-426d-a8cd-12b4c5499298_large.jpg?v=1557442743" alt="" width="138" height="119"></td>
+<td>
+<h3 class="item-header">Eco-Friendly</h3>
+<p>This item is not harmful to the environment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/FAB_JUTE_7-2_1000x_1db2aa38-e233-432a-96f9-e3d8024c2f86_large.jpg?v=1557444025" alt="" width="252" height="252"></td>
+<td>
+<h3 class="item-header">Raffia Fabric</h3>
+<p>The sturdy jute material gives a liberty to use them with ease in the rough outdoor events, hillside picnics and an afternoon by the lake-side with Eco-Friendly Woven Upholstery Raffia Fabric By the Bolt.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Chic Checkered Desig</h3>
+<p>The chic checkered design looks so pleasing to the eyes and will look totally enticing in photos. So, go ahead, grab that selfie stick, and bring the whole family in the canvas with our stunning checkered BBQ Time raffia in the background. </p>
+</td>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/FAB_JUTE_7_D01_grande_1000x_14ed32cd-6e81-4905-acbd-8cd2bab0a21f_large.jpg?v=1557444067" alt="" width="252" height="253"></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collage_1_large.jpg?v=1557443860" alt="" width="274" height="274"></td>
+<td>
+<h3 class="item-header">Durable</h3>
+<p>Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material</strong>: High Quality Raffia</li>
+<li>
+<strong>Width of</strong> <strong>Fabric</strong>: 54" Wide </li>
+<li>
+<strong>Length of</strong> <strong>Fabric</strong>: 4 Yards </li>
+<li>
+<strong>Color</strong>: Black</li>
+<li>
+<strong>Qty</strong>: 1 Bolt/Order</li>
+<li>
+<strong>Fabric</strong> <strong>Quality</strong>: Soft and Durable</li>
+<li>
+<strong>Bio-Degradable</strong>: Yes</li>
+<li>
+<strong>Edges</strong>: Not Finished</li>
+<li>Raffia fabric is the perfect choice for upholstery, wall coverings, and accessories. Raffia fabric is great for indoor or outdoor use and provides a natural look for your decorating projects.</li>
+<li>
+<strong>Uses</strong>: Picnic, Outdoor, Backdrops, Runners, Draping Tables and Ceilings</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Vacation-Style Raffia Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Vacation-Style Raffia Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>material-raffia</s:tag>
+    <s:tag>size:length-4 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>variant-fab_jute</s:tag>
+    <s:tag>yard-4</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562906962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.69</s:price>
+      <s:sku>FAB_JUTE_7</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562856658</id>
+    <published>2017-12-18T17:37:30-08:00</published>
+    <updated>2017-12-18T17:37:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-10-yards-yellow-glossy-polyester-fabric-roll"/>
+    <title>54&quot; x 10 Yards Yellow Glossy Polyester Fabric Roll</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5406_YEL_D01_36b7e64f-4468-4057-b1ea-88b62ca3a935.jpg?v=1620253444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            28.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Qty</strong>: 1 Fabric Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Shiny Polyester</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Yellow</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 54" Wide x 10 Yards</td>
+</tr>
+<tr>
+<td>Edges are not finished</td>
+</tr>
+<tr>
+<td>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>
+<br>[Information]</h4>
+<p>For those exquisite accessories that need to be divulged only at the perfect moment, this splendid fabric has been crafted by expert designers keeping the attribute of covering, inviting, and displaying only little of the charm in mind. Vistos, Ballroom Rosette, Duchess Sequin, and other extravagant fabrics deserve to be covered and protected prior to being exhibited to the whole world to gasp and gape at their charisma.</p>
+<p>Once the moment comes, with limelight on, flowers arranged and luminaries arrived, then take this fabric off to reveal the mesmeric beauty of your core decoration. This iridescent polyester fabric has a lovely see-through quality that is so eye-catching. Drape tables, walls, ceilings, or make the chair sashes in hue that compliments your events decor, the possibilities of embellishing with this fabric are endless!</p>
+<p><strong>Additional Information</strong>:</p>
+<ul>
+<li>1 Fabric bolt measuring 54" wide x 10 yards length</li>
+<li>
+<strong>Material:</strong> Shiny Polyester</li>
+<li>
+<strong>Color:</strong> Yellow</li>
+<li>Edges are not finished</li>
+<li>
+<strong>Uses:</strong> Backdrops, Dress Making, Prom Dresses, Runners, Hanging Decor, Draping Tables and Ceilings, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Polyester Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Polyester Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-yellow</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-fabric bolt</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562856658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.59</s:price>
+      <s:sku>FAB_5406_YEL</s:sku>
+      <s:grams>295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562878930</id>
+    <published>2017-12-18T17:37:29-08:00</published>
+    <updated>2017-12-18T17:37:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-10-yards-royal-blue-white-printed-satin-zig-zag-pattern-chevron-fabric-by-the-yard"/>
+    <title>54&quot; x 10 Yards Royal Blue/White Printed Satin Zig Zag Pattern Chevron Fabric by the Yard</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5428_ROY__01.jpg?v=1620164468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            23.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Material</b>: Satin</td>
+</tr>
+<tr>
+<td>
+<b>Width of Fabric: </b>54" Wide </td>
+</tr>
+<tr>
+<td>
+<b>Length of Fabric: </b>10 Yards </td>
+</tr>
+<tr>
+<td>
+<b>Color: </b>Royal Blue/White</td>
+</tr>
+<tr>
+<td>
+<b>Qty:</b>1 Bolt/Order</td>
+</tr>
+<tr>
+<td>
+<b>Edges:</b> Not Finished</td>
+</tr>
+<tr>
+<td>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>The Satin Zig Zag Pattern Chevron Fabric by the Yard simply brings that energy into any room or event! The up and down motion symbolizes waves, lively music,<span> </span>an upbeat<span> </span>mood. pretty much all things positive. Not to mention, the combination of two lovely colors definitely doesn't fail to please the eyes and make people keep snapping photos or your chevron inspiration! Remember, there's always room to Jazz things up!<span> </span><br><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Material</strong>: Satin</span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Width of Fabric</strong>: 54" Wide </span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Length of</strong> <strong>Fabric</strong>: 10 Yards </span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Color</strong>: Royal Blue/White</span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Qty</strong>: 1 Bolt/Order</span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'><strong>Edges</strong>: Not Finished</span></li>
+<li><span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}'>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Sleek Satin Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Sleek Satin Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Satin Collection</s:tag>
+    <s:tag>color-royal-blue</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-satin</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-chevron</s:tag>
+    <s:tag>variant-fab_5428</s:tag>
+    <s:tag>White Fabric Bolts</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562878930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>FAB_5428_ROY</s:sku>
+      <s:grams>757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/10317904018</id>
+    <published>2017-08-09T17:23:57-07:00</published>
+    <updated>2017-08-09T17:23:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x156-natural-tone-chambury-casa-rustic-burlap-rectangle-tablecloth"/>
+    <title>90x156&quot; Natural Tone Chambury Casa Rustic Burlap Rectangle Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE_90156_NAT__01_a85e9ceb-2592-4b76-ac36-7e84a63a2de7.jpg?v=1610070424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2250<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Rectangle Tablecloth</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Burlap</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Natural</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" x 156"</td>
+</tr>
+<tr>
+<td>Burlap material has an unique smell and is unavoidable. This is not a defect, and is actually indication that this is 100% authentic burlap material.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Augment the harmony of nature and pleasure by using our premium quality CHAMBURY CASA Fine Rustic Burlap Tablecloth in a truly natural tone. This sturdy fabric will efficiently handle the roughness and coarseness of natural surroundings. This simple, yet classy jute tablecloth can be accentuated with fabrics with more contemporary and earthly tones or pure white fabric and fine china.<br></p>
+<p> </p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong> Quantity:</strong> 1 Rectangle Tablecloth<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Material:</strong> Burlap<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Color:</strong> Natural<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Size:</strong> 90" x 156"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration<br data-mce-fragment="1">
+</li>
+<li>
+<strong>How to Care:</strong> Dry Clean Only<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Note:</strong> The smell can dissipate some by leaving in open air, but may still be noticeable. Please keep this in mind when ordering.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Flocking &amp; Jute Burlap Tablecloths</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Flocking &amp; Jute Burlap Tablecloths</s:tag>
+    <s:tag>categ-naturals</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Rustic Burlap Collection</s:tag>
+    <s:tag>color-natural</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>etsy-burlaptablecloth</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-156&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-natural</s:tag>
+    <s:tag>styletype-Rustic</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variantsizev-TAB_JUTE_RECT_NAT</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/10317904018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>TAB_JUTE_90156_NAT</s:sku>
+      <s:grams>2145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562878994</id>
+    <published>2017-06-22T15:36:40-07:00</published>
+    <updated>2017-06-22T15:36:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/54-x-10-yards-silver-white-printed-satin-zig-zag-pattern-chevron-fabric-by-the-yard"/>
+    <title>54&quot; x 10 Yards Silver/White Printed Satin Zig Zag Pattern Chevron Fabric by the Yard</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5210</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FAB_5428_SILV__01.jpg?v=1620164469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5210<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            23.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<b>Material</b>: Satin</td>
+</tr>
+<tr>
+<td>
+<b>Width of Fabric: </b>54" Wide </td>
+</tr>
+<tr>
+<td>
+<b>Length of Fabric: </b>10 Yards </td>
+</tr>
+<tr>
+<td>
+<b>Color: </b>Silver/White</td>
+</tr>
+<tr>
+<td>
+<b>Qty:</b>1 Bolt/Order</td>
+</tr>
+<tr>
+<td>
+<b>Edges:</b> Not Finished</td>
+</tr>
+<tr>
+<td>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</td>
+</tr>
+<tr>
+<td><b><strong>All sizes are approximate measurements</strong></b></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>The Satin Zig Zag Pattern Chevron Fabric by the Yard simply brings that energy into any room or event! The up and down motion symbolizes waves, lively music,<span> </span>an upbeat<span> </span>mood.pretty much all things positive. Not to mention, the combination of two lovely colors definitely doesn't fail to please the eyes and make people keep snapping photos or your chevron inspiration! Remember, there's always room to Jazz things up!<span> </span><br><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><strong>Material</strong>: Satin</span></li>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><strong>Width of</strong> <strong>Fabric</strong>: 54" Wide </span></li>
+<li>
+<strong>Length of Fabric</strong>: 10 Yards </li>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><strong>Color</strong>: Silver/White</span></li>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><strong>Qty</strong>: 1 Bolt/Order</span></li>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'><strong>Edges</strong>: Not Finished</span></li>
+<li><span data-sheets-value='{"1":2,"2":"\"Material: Satin\nWidth of Fabric: 54\"\" Wide (Approx:)\nLength of Fabric: 4 Yards (Approx:)\nColor: XXXX\nQty: 1 Bolt/Order\nEdges: Not Finished\nThese fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.\""}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>These fabric bolts are perfect for draping tables, ceilings, walls, and can also be used to fuel your own creativity.</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Sleek Satin Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Sleek Satin Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>Collection-Satin Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-satin</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-54&quot;</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-chevron</s:tag>
+    <s:tag>variant-fab_5428</s:tag>
+    <s:tag>White Fabric Bolts</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562878994</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.09</s:price>
+      <s:sku>FAB_5428_SILV</s:sku>
+      <s:grams>757</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581937746</id>
+    <published>2017-06-22T15:35:44-07:00</published>
+    <updated>2017-06-22T15:35:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/chiffon-fabric-bolt-12-x-10yards-pink"/>
+    <title>12&quot;x10 Yards | Pink Chiffon Fabric Bolt</title>
+    <s:type>Fabrics</s:type>
+    <s:vendor>HIER_5220</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHIF_1210_PINK__01.jpg?v=1571438744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_5220<br>
+        <strong>Type: </strong>Fabrics<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Roll</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Chiffon</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Pink</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>: 12"</td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>: 10 Yards</td>
+</tr>
+<tr>
+<td>
+<strong>Design</strong>: Edges are not finished</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.<br></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Roll<br>
+</li>
+<li>
+<strong>Material:</strong><span> </span>Chiffon<br>
+</li>
+<li>
+<strong>Color:</strong><span> Pink</span><br>
+</li>
+<li>
+<strong>Width:</strong><span> </span>12"<br>
+</li>
+<li>
+<strong>Length:</strong><span> </span>10 Yards<br>
+</li>
+<li>
+<strong>Design:</strong><span> </span>Edges are not finished<br>
+</li>
+<li>
+<strong>Uses:</strong><span> </span>Backdrops, Ceilings, Dress Making, Prom Dresses, Runners, Hanging Decor, DIY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>cat-sub1_Wholesale Fabrics</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Organza and Chiffon Fabric Bolts</s:tag>
+    <s:tag>categ-Tulle &amp; Fabric Bolts</s:tag>
+    <s:tag>categ-Wholesale Fabrics</s:tag>
+    <s:tag>color-pink</s:tag>
+    <s:tag>material-chiffon</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-10 Yards</s:tag>
+    <s:tag>size:width-12&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>variant-chif_1210</s:tag>
+    <s:tag>yard-10</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581937746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>CHIF_1210_PINK</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+</feed>

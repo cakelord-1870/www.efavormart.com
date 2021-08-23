@@ -1,0 +1,3469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/faux-linens.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-03-10T18:37:07-08:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/4715583766574</id>
+    <published>2021-03-10T18:37:07-08:00</published>
+    <updated>2021-03-10T18:37:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x156-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x156&quot; Beige Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>eFavormart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_081_D09_66cd554d-1b56-4ec0-842b-9de450fac957.jpg?v=1622573223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eFavormart<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            23.99 - 275.99
+            <a href="https://www.efavormart.com/products/90x156-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Beige</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 156"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X96" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4><p><br></p><strong>Additional Information:</strong><br><ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Linens</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_New Arrivals</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-156&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90156</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_081</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4715583766574</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>TAB_JUTE02_90156_081</s:sku>
+      <s:grams>1470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4715583766574</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">275.99</s:price>
+      <s:sku>TAB_JUTE02_90156_081_CASE</s:sku>
+      <s:grams>17636</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4717513867310</id>
+    <published>2021-03-03T18:06:04-08:00</published>
+    <updated>2021-03-03T18:06:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x156-white-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x156&quot; White Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>eFavormart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_WHT_D09_0d8de931-878c-48af-b620-54a8e19aa98a.jpg?v=1616188970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eFavormart<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            23.99 - 275.99
+            <a href="https://www.efavormart.com/products/90x156-white-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 156"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X96" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4><a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a><p><br></p><strong>Additional Information:</strong><br><ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-faux linen</s:tag>
+    <s:tag>NEWARRIVALS-2103</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-156&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90156</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_WHT</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4717513867310</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>TAB_JUTE02_90156_WHT</s:sku>
+      <s:grams>1470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4717513867310</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">275.99</s:price>
+      <s:sku>TAB_JUTE02_90156_WHT_CASE</s:sku>
+      <s:grams>17636</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4715751538734</id>
+    <published>2021-03-03T18:03:41-08:00</published>
+    <updated>2021-03-03T18:03:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x156-taupe-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x156&quot; Taupe Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>eFavormart</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90156_063_D09.jpg?v=1622479490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eFavormart<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            23.99 - 275.99
+            <a href="https://www.efavormart.com/products/90x156-taupe-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Taupe</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 156"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X96" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information] </h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<div style="text-align: left;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90156_063_D04_240x240.jpg?v=1617831337" width="240x240" height="240x240" style="float: none;"></div>
+</td>
+<td>
+<h3 class="item-header">Faux Burlap<br>
+</h3>
+<p>Flaunting the rustic elegance of real jute and eye-catching sheen of smooth linen, our innovative Faux Burlap Tablecloth line will dress your party and banquet tables to the nines. Crafted from 100% pure polyester with a look that emulates pure burlap, these soft, smooth, yet highly sturdy tablecloths are an ideal choice for both indoor and outdoor events, weddings, picnics, birthdays, corporate events, rustic or country theme weddings, and south Western style events.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Seamless Finish &amp; Serged Edges<br>
+</h3>
+<p>With seamless finish and serged edges, these tablecloths will instantly add a ravishing rustic charm to your otherwise plain tabletops. With the enticing bucolic look and texture of real jute, our faux burlap linens can withstand extensive re-use and heavy duty events without losing their fresh look and luster.</p>
+</td>
+<td style="text-align: center;">
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90156_063_D07_f9fd91df-92ff-4edb-8397-3b5cae416bcc_240x240.jpg?v=1617831323"></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90156_063_99_ade95c60-a51b-44d4-8668-d34282bed270_240x240.jpg?v=1617831289"></div>
+</td>
+<td>
+<h3 class="item-header">Faux Jute Linen<br>
+</h3>
+<p>Blending sturdiness and softness together in a beautiful manner, these faux jute linens are completely odorless unlike their natural counterparts. Choose from the stunning range of classy colors and chic shapes, the one that matches perfectly with your theme and set most sophisticated tablescapes ever. For a completely coherent look and effect, pair these faux jute linens with our burlap table skirts, table overlays, chair covers and sashes, napkins and jute accented centerpieces.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-taupe</s:tag>
+    <s:tag>material-faux linen</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-156&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90156</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_063</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4715751538734</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>TAB_JUTE02_90156_063</s:sku>
+      <s:grams>1470</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4715751538734</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">275.99</s:price>
+      <s:sku>TAB_JUTE02_90156_063_CASE</s:sku>
+      <s:grams>17636</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4704288407598</id>
+    <published>2021-01-15T18:20:57-08:00</published>
+    <updated>2021-01-15T18:20:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold"/>
+    <title>90&quot;x132&quot; Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant - Blush | Rose Gold</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_046__01.jpg?v=1610763563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush | Rose Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> Blush/Rose Gold</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-faux linen</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4704288407598</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_046</s:sku>
+      <s:grams>1238</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4704288407598</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_046_CASE</s:sku>
+      <s:grams>14860</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4703653724206</id>
+    <published>2021-01-14T17:15:10-08:00</published>
+    <updated>2021-01-14T17:15:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/108-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth-blush-rose-gold"/>
+    <title>108&quot; Linen Round Tablecloth, Slubby Textured Wrinkle Resistant Tablecloth - Blush | Rose Gold</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_108_046__01.jpg?v=1610670204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            16.49 - 184.99
+            <a href="https://www.efavormart.com/products/108-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush | Rose Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 108" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 4 ft (48") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong><span><strong>:</strong> Faux Linen</span>
+</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.<br>
+</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_108&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-108&quot;Polyester Round</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-108&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_108</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703653724206</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>TAB_JUTE02_108_046</s:sku>
+      <s:grams>962</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703653724206</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">184.99</s:price>
+      <s:sku>TAB_JUTE02_108_046_CASE</s:sku>
+      <s:grams>11539</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4703706120238</id>
+    <published>2021-01-14T15:03:00-08:00</published>
+    <updated>2021-01-14T15:03:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold"/>
+    <title>60&quot;x126&quot; Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant - Blush | Rose Gold</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60126_046__01.jpg?v=1610661358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush | Rose Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 60" Wide X 126" Long</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>Serge Length:</strong> 0.5"</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4><p><br></p><strong>Additional Information:</strong><br><ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"<br>
+</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.<br>
+</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703706120238</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_046</s:sku>
+      <s:grams>821</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703706120238</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_046_CASE</s:sku>
+      <s:grams>19704</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4703677710382</id>
+    <published>2021-01-14T13:09:56-08:00</published>
+    <updated>2021-01-14T13:09:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/120-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold"/>
+    <title>120&quot; Round Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant - Blush | Rose Gold</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_120_046__01.jpg?v=1619050794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.49 - 233.99
+            <a href="https://www.efavormart.com/products/120-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush | Rose Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 120" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>Serge Length:</strong> 0.5"</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 5 ft (60") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.<br>
+</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_120&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-120&quot;Polyester Round</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-120&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_120</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703677710382</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.49</s:price>
+      <s:sku>TAB_JUTE02_120_046</s:sku>
+      <s:grams>1207</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4703677710382</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">233.99</s:price>
+      <s:sku>TAB_JUTE02_120_046_CASE</s:sku>
+      <s:grams>14479</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4699623653422</id>
+    <published>2021-01-12T17:09:47-08:00</published>
+    <updated>2021-01-12T17:09:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x102-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold"/>
+    <title>60&quot;x102&quot; Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant - Blush | Rose Gold</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60102_046__01.jpg?v=1610494193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            13.99 - 319.99
+            <a href="https://www.efavormart.com/products/60x102-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Rose Gold | Blush</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 60" Wide X 102" Long</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<b>GSM: </b>﻿160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong>Fabric:</strong> Faux Linen<br>
+</li>
+<li data-mce-fragment="1">
+<strong>Serge Length:</strong> 0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-102&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60102</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_046</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4699623653422</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>TAB_JUTE02_60102_046</s:sku>
+      <s:grams>662</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4699623653422</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">319.99</s:price>
+      <s:sku>TAB_JUTE02_60102_046_CASE</s:sku>
+      <s:grams>15894</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4651356651566</id>
+    <published>2020-09-22T19:02:19-07:00</published>
+    <updated>2020-09-22T19:02:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x126&quot; Blue Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60126_BLUE__01.jpg?v=1610492225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 60" Wide X 126" Long</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information] </h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_60126_BLUE_D01_240x240.jpg?v=1600823675"></td>
+<td>
+<h3 class="item-header">Faux Burlap<br>
+</h3>
+<p>Flaunting the rustic elegance of real jute and eye-catching sheen of smooth linen, our innovative Faux Burlap Tablecloth line will dress your party and banquet tables to the nines. Crafted from 100% pure polyester with a look that emulates pure burlap, these soft, smooth, yet highly sturdy tablecloths are an ideal choice for both indoor and outdoor events, weddings, picnics, birthdays, corporate events, rustic or country theme weddings, and south Western style events.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Seamless Finish &amp; Serged Edges<br>
+</h3>
+<p>With seamless finish and serged edges, these tablecloths will instantly add a ravishing rustic charm to your otherwise plain tabletops. With the enticing bucolic look and texture of real jute, our faux burlap linens can withstand extensive re-use and heavy duty events without losing their fresh look and luster.</p>
+</td>
+<td style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_60126_BLUE_D07_240x240.jpg?v=1600823852" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_60126_BLUE_D07_240x240.jpg?v=1600823852" data-mce-style="float: none;"></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_60126_BLUE__01_240x240.jpg?v=1600823992" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_60126_BLUE__01_240x240.jpg?v=1600823992" data-mce-style="float: none;"></td>
+<td>
+<h3 class="item-header">Faux Jute Linen<br>
+</h3>
+Blending sturdiness and softness together in a beautiful manner, these faux jute linens are completely odorless unlike their natural counterparts. Choose from the stunning range of classy colors and chic shapes, the one that matches perfectly with your theme and set most sophisticated tablescapes ever. For a completely coherent look and effect, pair these faux jute linens with our burlap table skirts, table overlays, chair covers and sashes, napkins and jute accented centerpieces.<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>Categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_BLUE</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4651356651566</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_BLUE</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4651356651566</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_BLUE_CASE</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4651343249454</id>
+    <published>2020-09-22T19:02:17-07:00</published>
+    <updated>2020-09-22T19:02:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-dusty-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x126&quot; Dusty Blue Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60126_086__01.jpg?v=1610492517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-dusty-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Dusty Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 60" Wide X 126" Long</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>Categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-Dusty Blue</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_086</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4651343249454</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_086</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4651343249454</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_086_CASE</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4648915664942</id>
+    <published>2020-09-21T19:14:22-07:00</published>
+    <updated>2020-09-21T19:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x126&quot; Beige Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE_60126_081_D05.jpg?v=1618508593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Beige</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 60" Wide X 126" Long</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong>: Faux Linen</li>
+<li>
+<strong>Serge Length</strong>: 0.5"<br>
+</li>
+<li>
+<strong>Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>Categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_081</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648915664942</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_081</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648915664942</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_081_CASE</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4648908554286</id>
+    <published>2020-09-21T19:13:50-07:00</published>
+    <updated>2020-09-21T19:13:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x102-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x102&quot; Silver Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60102_SILV_D03.jpg?v=1610491180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            13.99 - 319.99
+            <a href="https://www.efavormart.com/products/60x102-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 60" Wide X 102" Long</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<b>GSM: </b>﻿160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul data-mce-fragment="1"></ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-102&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60102</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648908554286</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>TAB_JUTE02_60102_SILV</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648908554286</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">319.99</s:price>
+      <s:sku>TAB_JUTE02_60102_SILV_CASE</s:sku>
+      <s:grams>17527</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4648903933998</id>
+    <published>2020-09-21T19:13:49-07:00</published>
+    <updated>2020-09-21T19:13:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x102-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x102&quot; Beige Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60102_081_D02.jpg?v=1610490792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            13.99 - 319.99
+            <a href="https://www.efavormart.com/products/60x102-beige-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Beige</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 60" Wide X 102" Long</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<b>GSM: </b>﻿160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-102&quot;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60102</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_081</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648903933998</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>TAB_JUTE02_60102_081</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4648903933998</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">319.99</s:price>
+      <s:sku>TAB_JUTE02_60102_081_CASE</s:sku>
+      <s:grams>17527</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4644839522350</id>
+    <published>2020-09-09T20:55:04-07:00</published>
+    <updated>2020-09-09T20:55:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x132&quot; Silver Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_SILV__02.jpg?v=1616189311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information] </h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV_D02_240x240.jpg?v=1599670005" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV_D02_240x240.jpg?v=1599670005"><br>
+</td>
+<td>
+<h3 class="item-header">Faux Burlap<br>
+</h3>
+<p>Flaunting the rustic elegance of real jute and eye-catching sheen of smooth linen, our innovative Faux Burlap Tablecloth line will dress your party and banquet tables to the nines. Crafted from 100% pure polyester with a look that emulates pure burlap, these soft, smooth, yet highly sturdy tablecloths are an ideal choice for both indoor and outdoor events, weddings, picnics, birthdays, corporate events, rustic or country theme weddings, and south Western style events.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Seamless Finish &amp; Serged Edges<br>
+</h3>
+<p>With seamless finish and serged edges, these tablecloths will instantly add a ravishing rustic charm to your otherwise plain tabletops. With the enticing bucolic look and texture of real jute, our faux burlap linens can withstand extensive re-use and heavy duty events without losing their fresh look and luster.</p>
+</td>
+<td style="text-align: center;">
+<img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV_D06_240x240.jpg?v=1599670050" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV_D06_240x240.jpg?v=1599670050"><br>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV__02_240x240.jpg?v=1599670038" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_90132_SILV__02_240x240.jpg?v=1599670038"><br>
+</td>
+<td>
+<h3 class="item-header">Faux Jute Linen<br>
+</h3>
+<p>Blending sturdiness and softness together in a beautiful manner, these faux jute linens are completely odorless unlike their natural counterparts. Choose from the stunning range of classy colors and chic shapes, the one that matches perfectly with your theme and set most sophisticated tablescapes ever. For a completely coherent look and effect, pair these faux jute linens with our burlap table skirts, table overlays, chair covers and sashes, napkins and jute accented centerpieces.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> Silver</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644839522350</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_SILV</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644839522350</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_SILV_CASE</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4642818097198</id>
+    <published>2020-09-09T20:55:03-07:00</published>
+    <updated>2020-09-09T20:55:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x132&quot; Blue Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_BLUE__01.jpg?v=1616189330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> Blue</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_BLUE</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642818097198</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_BLUE</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642818097198</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_BLUE_CASE</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4642816229422</id>
+    <published>2020-09-09T20:55:02-07:00</published>
+    <updated>2020-09-09T20:55:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-charcoal-gray-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x132&quot; Charcoal Gray Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_044__01.jpg?v=1616189256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-charcoal-gray-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Charcoal Gray</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> Charcoal Gray</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-Charcoal Gray</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_044</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642816229422</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_044</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642816229422</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_044_CASE</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4644827430958</id>
+    <published>2020-09-09T20:54:45-07:00</published>
+    <updated>2020-09-09T20:54:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x126&quot; Silver Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60126_SILV__02.jpg?v=1610492744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-silver-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 60" X 126"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM: </strong>﻿160</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>Categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644827430958</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_SILV</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644827430958</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_SILV_CASE</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4644815896622</id>
+    <published>2020-09-09T20:54:18-07:00</published>
+    <updated>2020-09-09T20:54:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/120-silver-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>120&quot; Silver Round Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_120_SILV__02.jpg?v=1602895891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.49 - 233.99
+            <a href="https://www.efavormart.com/products/120-silver-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 120" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 5 ft (60") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong>: Faux Linen</li>
+<li>
+<strong>Serge Length</strong>: 0.5"</li>
+<li>
+<strong>Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br>
+</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_120&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-120&quot;Polyester Round</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-120&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_120</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644815896622</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.49</s:price>
+      <s:sku>TAB_JUTE02_120_SILV</s:sku>
+      <s:grams>1329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644815896622</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">233.99</s:price>
+      <s:sku>TAB_JUTE02_120_SILV_CASE</s:sku>
+      <s:grams>15948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4642809741358</id>
+    <published>2020-09-09T20:54:17-07:00</published>
+    <updated>2020-09-09T20:54:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/120-blue-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>120&quot; Blue Round Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_120_BLUE__02.jpg?v=1602895005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.49 - 233.99
+            <a href="https://www.efavormart.com/products/120-blue-round-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 120" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 5 ft (60") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information] </h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_120_BLUE__02_240x240.jpg?v=1599244954"></td>
+<td>
+<h3 class="item-header">Faux Burlap<br>
+</h3>
+<p>Flaunting the rustic elegance of real jute and eye-catching sheen of smooth linen, our innovative Faux Burlap Tablecloth line will dress your party and banquet tables to the nines. Crafted from 100% pure polyester with a look that emulates pure burlap, these soft, smooth, yet highly sturdy tablecloths are an ideal choice for both indoor and outdoor events, weddings, picnics, birthdays, corporate events, rustic or country theme weddings, and south Western style events.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Seamless Finish &amp; Serged Edges<br>
+</h3>
+<p>With seamless finish and serged edges, these tablecloths will instantly add a ravishing rustic charm to your otherwise plain tabletops. With the enticing bucolic look and texture of real jute, our faux burlap linens can withstand extensive re-use and heavy duty events without losing their fresh look and luster.</p>
+</td>
+<td style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_120_BLUE_D17_35ecf8f7-6c64-4406-a814-a664c162a2e7_240x240.jpg?v=1599244993"></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/TAB_JUTE02_120_BLUE_D15_240x240.jpg?v=1599245028"></td>
+<td>
+<h3 class="item-header">Faux Jute Linen<br>
+</h3>
+Blending sturdiness and softness together in a beautiful manner, these faux jute linens are completely odorless unlike their natural counterparts. Choose from the stunning range of classy colors and chic shapes, the one that matches perfectly with your theme and set most sophisticated tablescapes ever. For a completely coherent look and effect, pair these faux jute linens with our burlap table skirts, table overlays, chair covers and sashes, napkins and jute accented centerpieces.<br>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric:</strong> Faux Linen</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.<br>
+</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_120&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-120&quot;Polyester Round</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-120&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_120</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_BLUE</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642809741358</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.49</s:price>
+      <s:sku>TAB_JUTE02_120_BLUE</s:sku>
+      <s:grams>1329</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642809741358</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">233.99</s:price>
+      <s:sku>TAB_JUTE02_120_BLUE_CASE</s:sku>
+      <s:grams>15948</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4644801675310</id>
+    <published>2020-09-09T20:53:58-07:00</published>
+    <updated>2020-09-09T20:53:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/108-silver-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth"/>
+    <title>108&quot; Silver Linen Round Tablecloth, Slubby Textured Wrinkle Resistant Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_108_SILV__01.jpg?v=1602897174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            16.49 - 184.99
+            <a href="https://www.efavormart.com/products/108-silver-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 108" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 4 ft (48") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong><span><strong>:</strong> Faux Linen</span>
+</li>
+<li>
+<strong>Serge Length:</strong> 0.5"</li>
+<li>
+<strong>Fabric Care:</strong> Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>﻿Cannot put in Dryer. Air Dry ONLY﻿</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_108&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-108&quot;Polyester Round</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-108&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_108</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644801675310</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>TAB_JUTE02_108_SILV</s:sku>
+      <s:grams>1057</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4644801675310</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">184.99</s:price>
+      <s:sku>TAB_JUTE02_108_SILV_CASE</s:sku>
+      <s:grams>12682</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4642803318830</id>
+    <published>2020-09-09T20:53:56-07:00</published>
+    <updated>2020-09-09T20:53:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/108-blue-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth"/>
+    <title>108&quot; Blue Linen Round Tablecloth, Slubby Textured Wrinkle Resistant Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_108_BLUE__02.jpg?v=1619456964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            16.49 - 184.99
+            <a href="https://www.efavormart.com/products/108-blue-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 108" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 4 ft (48") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong><span>: Faux Linen</span>
+</li>
+<li>
+<strong>Serge Length</strong>: 0.5"</li>
+<li>
+<strong>Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_108&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-108&quot;Polyester Round</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-blue</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-108&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_108</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_BLUE</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642803318830</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>TAB_JUTE02_108_BLUE</s:sku>
+      <s:grams>1057</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642803318830</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">184.99</s:price>
+      <s:sku>TAB_JUTE02_108_BLUE_CASE</s:sku>
+      <s:grams>12682</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4642800074798</id>
+    <published>2020-09-09T20:53:55-07:00</published>
+    <updated>2020-09-09T20:53:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/108-charcoal-faux-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth"/>
+    <title>108&quot; Charcoal Gray Linen Round Tablecloth, Slubby Textured Wrinkle Resistant Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2251</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_108_044__02.jpg?v=1602893629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2251<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            16.49 - 184.99
+            <a href="https://www.efavormart.com/products/108-charcoal-faux-linen-round-tablecloth-slubby-textured-wrinkle-resistant-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Charcoal Gray</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 108" Round</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 4 ft (48") table.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<strong>Additional Information:</strong><br>
+<ul>
+<li>
+<strong>Fabric</strong><span>: Faux Linen</span>
+</li>
+<li>
+<strong>Serge Length</strong>: 0.5"</li>
+<li>
+<strong>Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.</li>
+<li>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_108&quot;Polyester Round</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-108&quot;Polyester Round</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-Charcoal Gray</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-108&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_108</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_044</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642800074798</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">16.49</s:price>
+      <s:sku>TAB_JUTE02_108_044</s:sku>
+      <s:grams>1057</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4642800074798</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">184.99</s:price>
+      <s:sku>TAB_JUTE02_108_044_CASE</s:sku>
+      <s:grams>12682</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4640154353710</id>
+    <published>2020-08-31T18:36:56-07:00</published>
+    <updated>2020-08-31T18:36:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-white-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x132&quot; White Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_WHT__01.jpg?v=1610753522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-white-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: White</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> White</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_WHT</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640154353710</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_WHT</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640154353710</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_WHT_CASE</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4640151994414</id>
+    <published>2020-08-31T18:35:54-07:00</published>
+    <updated>2020-08-31T18:35:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x132-dusty-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>90&quot;x132&quot; Dusty Blue Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_90132_086__01.jpg?v=1616189271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            20.59 - 234.99
+            <a href="https://www.efavormart.com/products/90x132-dusty-blue-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<b>Fabric</b>: Faux Linen</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Dusty Blue</td>
+</tr>
+<tr>
+<td>
+<strong>Size</strong>: 90" X 132"</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td>
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td>These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td>
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td>Gives floor length hang on 30"X72" tables</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a>
+<p><br></p>
+<p><strong>Additional Information:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Quantity:</strong><span data-mce-fragment="1"> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric:</strong><span data-mce-fragment="1"> </span>Faux Linen<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Color:</strong><span data-mce-fragment="1"> Dusty Blue</span><br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Size:</strong><span data-mce-fragment="1"> </span>90" X 132"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">GSM:</strong><span data-mce-fragment="1"> </span>160<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length:</strong><span data-mce-fragment="1"> </span>0.5"<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Features:</strong><span data-mce-fragment="1"> </span>Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care:</strong><span data-mce-fragment="1"> </span>Machine wash with cold water with mild detergent. For best results air dry.<span data-mce-fragment="1"> </span>Cannot put in Dryer. Air Dry ONLY</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-12</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-90&quot;x132&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-Dusty Blue</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-132&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_90132</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_086</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640151994414</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">20.59</s:price>
+      <s:sku>TAB_JUTE02_90132_086</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640151994414</id>
+      <title>Case of 12 Tablecloths</title>
+      <s:price currency="USD">234.99</s:price>
+      <s:sku>TAB_JUTE02_90132_086_CASE</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4640145637422</id>
+    <published>2020-08-31T18:34:41-07:00</published>
+    <updated>2020-08-31T18:34:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-ivory-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant"/>
+    <title>60&quot;x126&quot; Ivory Rectangular Tablecloth, Linen Table Cloth With Slubby Textured, Wrinkle Resistant</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2252</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_JUTE02_60126_IVR_D06.jpg?v=1610492637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2252<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            15.99 - 369.99
+            <a href="https://www.efavormart.com/products/60x126-ivory-rectangular-tablecloth-linen-table-cloth-with-slubby-textured-wrinkle-resistant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Polyester_Collection-min.jpg"></a>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity: </strong>1 Tablecloth</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Fabric</strong>: Faux Linen</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Ivory</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 60" Wide X 126" Long</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Serged edges for an exquisite look</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM</strong>: 160</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">These High Quality tablecloths are made from fine polyester yarn with beautiful, textured weaves.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Features:</strong> Slubby Texture, Wrinkle Resistant, Anti-Shrink, Soft and supple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<ul></ul>
+<h4>[Information]</h4>
+<p><br></p>
+<strong data-mce-fragment="1">Additional Information:</strong><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Fabric</strong>: Faux Linen</span></li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Serge Length</strong>: 0.5"</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">Fabric Care</strong>: Machine wash with cold water with mild detergent. For best results air dry.<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Cannot put in Dryer. Air Dry ONLY</li>
+</ul>
+<br>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-24</s:tag>
+    <s:tag>cat-sub1_Faux Linens</s:tag>
+    <s:tag>cat-sub1_naturals</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-sub2_Burlap</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Faux Linens</s:tag>
+    <s:tag>Categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>etsy-fauxburlap</s:tag>
+    <s:tag>material-burlap</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-faux linen</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_JUTE02_60126</s:tag>
+    <s:tag>variantsizev-TAB_JUTE02_IVR</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640145637422</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>TAB_JUTE02_60126_IVR</s:sku>
+      <s:grams>903</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4640145637422</id>
+      <title>Case of 24 Tablecloths</title>
+      <s:price currency="USD">369.99</s:price>
+      <s:sku>TAB_JUTE02_60126_IVR_CASE</s:sku>
+      <s:grams>21664</s:grams>
+    </s:variant>
+  </entry>
+</feed>

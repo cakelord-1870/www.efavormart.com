@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/linens-sale.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-01-06T17:29:36-08:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/4700242804782</id>
+    <published>2021-01-06T17:29:36-08:00</published>
+    <updated>2021-01-06T17:29:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-blue"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Dusty Blue</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_086_D01.jpg?v=1611710785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity:</strong> 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color:</strong> Dusty Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction:</strong> Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Dusty Blue</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700242804782</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_086</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700242804782</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_086_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/9596719698</id>
+    <published>2017-12-18T17:37:43-08:00</published>
+    <updated>2017-12-18T17:37:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/90x156-silver-big-payette-sequin-rectangle-tablecloth-premium"/>
+    <title>90&quot;x156&quot; Silver Big Payette Sequin Rectangle Tablecloth Premium</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_71_90156_SILV__01.jpg?v=1618508792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2250<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            61.99 - 236.99
+            <a href="https://www.efavormart.com/products/90x156-silver-big-payette-sequin-rectangle-tablecloth-premium">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Tablecloth</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Sequin on Mesh Base</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Size:</strong> 90"x156"</td>
+</tr>
+<tr>
+<td>
+<strong>Sequin Size</strong>: 19mm</td>
+</tr>
+<tr>
+<td>Seamless, 1pc design</td>
+</tr>
+<tr>
+<td>Edges are Serged</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>1 Tablecloth<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Material:</strong><span> </span>Sequin on Mesh Base<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Color:</strong><span> Silver</span><br data-mce-fragment="1">
+</li>
+<li>
+<strong>Size:</strong><span> </span>90"x156"<br data-mce-fragment="1">
+</li>
+<li>
+<strong>Sequin Size:</strong><span> </span>19mm</li>
+<li>
+<strong>Drop:</strong> Tablecloth will touch the floor over an 8-foot rectangular table (30” standard height)</li>
+<li>
+<strong>How to Care: </strong> Do not dry clean or machine wash. Wipe with a soft damp cloth.</li>
+<li>For Tablecloth only, Decorations not included</li>
+<li>
+<strong data-mce-fragment="1">Uses</strong><span data-mce-fragment="1">:</span> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-4</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Duchess Sequin Tablecloths</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-sub2_Payette and Stripe Sequin Tablecloths</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Christmas Linens</s:tag>
+    <s:tag>categ-Duchess Sequin Tablecloths</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Payette and Stripe Sequin Tablecloths</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>Collection-Big Payette Sequin Collection</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-156&quot;</s:tag>
+    <s:tag>size:width-90&quot;</s:tag>
+    <s:tag>style-payette</s:tag>
+    <s:tag>styletype-Modern</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-TAB_71_90156</s:tag>
+    <s:tag>variantsizev-TAB_71_RECT_SILV</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9596719698</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">61.99</s:price>
+      <s:sku>TAB_71_90156_SILV</s:sku>
+      <s:grams>1946</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/9596719698</id>
+      <title>Case of 4 Tablecloths</title>
+      <s:price currency="USD">236.99</s:price>
+      <s:sku>TAB_71_90156_SILV_CASE</s:sku>
+      <s:grams>7784</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8581956178</id>
+    <published>2017-10-23T14:44:00-07:00</published>
+    <updated>2017-10-23T14:44:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-thick-chair-pad-seat-padded-sponge-cushion-with-poly-thread-soft-fabric-straps-and-removable-zippered-cover-black2-thick-chair-pad-seat-padded-sponge-cushion-with-poly-thread-soft-fabric-straps-and-removable-zippered-cover-black"/>
+    <title>2&quot; Thick Chair Pad | Seat Padded Sponge Cushion With Poly Thread Soft Fabric Straps and Removable Zippered Cover - Black</title>
+    <s:type>Cushions</s:type>
+    <s:vendor>HIER_2130</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FURN_CUSH01_003__01XL.jpg?v=1614134990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2130<br>
+        <strong>Type: </strong>Cushions<br>
+        <strong>Price: </strong>
+            7.99 - 259.99
+            <a href="https://www.efavormart.com/products/2-thick-chair-pad-seat-padded-sponge-cushion-with-poly-thread-soft-fabric-straps-and-removable-zippered-cover-black2-thick-chair-pad-seat-padded-sponge-cushion-with-poly-thread-soft-fabric-straps-and-removable-zippered-cover-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Quantity:</strong> 1 Microfiber Polyester Cover</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Color:</strong> Black</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Memory Foam Polyurethane Filling</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Tie Less Skid Proof Backing</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Length</b>: 15.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Maximum Width: </strong>15.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Minimum Width: </strong>9.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Thickness of Cushion: </strong>2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>All sizes are approximate measurements<br></strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;" data-mce-style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table><h4>[Information]</h4><p><strong>Additional Information:</strong></p><ul>
+<li>
+<strong></strong>Attachment straps with Velcro help hold the cushion in place</li>
+<li>Zippered back allows for padding to be removed</li>
+<li>Intended for use with crystal, resin, or wood Chiavari Chairs</li>
+<li>
+<strong data-mce-fragment="1">How to care: </strong><span data-mce-fragment="1">Machine wash cold, tumble dry with no heat. No bleach, no ironing</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-36</s:tag>
+    <s:tag>cat-sub1_Chair Cushions</s:tag>
+    <s:tag>cat-sub1_Chair Linens</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Chair Covers</s:tag>
+    <s:tag>categ-Chair Covers</s:tag>
+    <s:tag>categ-Chair Cushions</s:tag>
+    <s:tag>categ-Chair Linens</s:tag>
+    <s:tag>categ-etsychaircushions</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>chairtype-chiavari</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>DIM-WEIGHT</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:general-2&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-chair cushions</s:tag>
+    <s:tag>variant-furn_cush01</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581956178</id>
+      <title>Pack of 1 Cushion</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>FURN_CUSH01_003</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8581956178</id>
+      <title>Case of 36 Cushions</title>
+      <s:price currency="USD">259.99</s:price>
+      <s:sku>FURN_CUSH01_003_CASE</s:sku>
+      <s:grams>75131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8872300754</id>
+    <published>2017-04-18T10:34:47-07:00</published>
+    <updated>2017-04-18T10:34:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10-pack-silver-diamond-rhinestone-napkin-ring-with-velcro"/>
+    <title>10 Pack Silver Diamond Rhinestone Napkin Ring With Velcro</title>
+    <s:type>Napkins</s:type>
+    <s:vendor>HIER_2310</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/NAP_RING07_SILV__01.jpg?v=1623454299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2310<br>
+        <strong>Type: </strong>Napkins<br>
+        <strong>Price: </strong>
+            5.29 - 994.59
+            <a href="https://www.efavormart.com/products/10-pack-silver-diamond-rhinestone-napkin-ring-with-velcro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 10 Napkin Rings / Order</td>
+</tr>
+<tr>
+<td>
+<strong>Material</strong>: Rhinestones</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> Silver</td>
+</tr>
+<tr>
+<td>
+<strong>Width:</strong> 1-1/8" (1.125")</td>
+</tr>
+<tr>
+<td>
+<strong>Diameter:</strong> 1-1/4" (1.25")</td>
+</tr>
+<tr>
+<td>
+<strong>Overall Length (Unfolded)</strong>: 5"</td>
+</tr>
+<tr>
+<td>Perfectly goes with our wide selection of Napkins</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+<tr>
+<td><strong><a href="https://www.efavormart.com/collections/napkins" target="_blank">Click Here for our Napkin Collection</a></strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Wrapped around your napkins and sashes elegantly, these charming sparkles will impart a regal look and feel to your tablescape. The remarkable features of Velcro attachment and pliability make it so easy for you to effortlessly add additional glitz and glam to any table settings. Create a perfectly cohesive party ambiance by using these shimmering rings in conjunction with our endless diamond DIY centerpieces, candle holders, favor holders, crisp cotton napkins and tablecloths or add an exotic romantic feel by pairing these sparkling diamond rings with lustrous satin or sheer organza napkins, sashes, and silk rose petals scattered beautifully all around! These diamond-like clips give you an affordable and elegant way of enhancing the attraction of your napkins and sashes in any special event.<br><br><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>QTY</strong>: 10 Napkin Rings / Order</li>
+<li>
+<strong>Material</strong>: Rhinestones</li>
+<li>
+<strong>Color</strong>: Silver</li>
+<li>
+<strong>Product Width</strong>: 1-1/8" (1.125")</li>
+<li>
+<strong>Product Diameter</strong>: 1-1/4" (1.25")</li>
+<li><strong>All sizes are approximate measurements</strong></li>
+<li>
+<strong>Uses</strong>: Wedding, Birthday, Party, Event, Banquest, Restaurant Tableware</li>
+<li>Perfectly goes with our wide selection of Napkins</li>
+<li><a href="https://www.efavormart.com/collections/napkins" target="_blank"><strong>Click Here for our Napkin Collection</strong></a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-200</s:tag>
+    <s:tag>case_calc-2000</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub1_Napkins</s:tag>
+    <s:tag>cat-sub2_Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Table Top Décor</s:tag>
+    <s:tag>cat-sub2_Napkin Rings</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Overlays and Napkins</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-Best Sellers</s:tag>
+    <s:tag>categ-Boy&apos;s Theme Table Top Décor</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Table Top Décor</s:tag>
+    <s:tag>categ-Napkin Rings</s:tag>
+    <s:tag>categ-Napkins</s:tag>
+    <s:tag>categ-Overlays and Napkins</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Tabletop Decors</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-rhinestone</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>single-unit-count_10</s:tag>
+    <s:tag>size:height-1&quot;</s:tag>
+    <s:tag>type-napkin-ring</s:tag>
+    <s:tag>variant-nap_ring07</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8872300754</id>
+      <title>Pack of 10 Napkin Rings</title>
+      <s:price currency="USD">5.29</s:price>
+      <s:sku>NAP_RING07_SILV</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8872300754</id>
+      <title>Case of 200 Packs(2000 Napkin Rings Total)</title>
+      <s:price currency="USD">994.59</s:price>
+      <s:sku>NAP_RING07_SILV_CASE</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562991954</id>
+    <published>2016-12-06T11:09:30-08:00</published>
+    <updated>2016-12-06T11:09:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/21ft-white-iridescent-glitzy-sequin-table-skirts"/>
+    <title>21FT White Iridescent Glitzy Sequin Table Skirts</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2240</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/SKT_02_001_21__01.2_grande_2f4f52dd-58ba-4147-8ece-bc78d147ee35.jpg?v=1571438665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2240<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            61.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"></a>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: Top Layer: Glistening Round Sequins atop tulle netting.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Bottom</strong> <strong>Layer</strong>: Polyester<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Measurements</strong>: 21ft long x 29" tall<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>How to</strong> <strong>Care</strong>: Dry clean only.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">For 1 piece table skirt only. Tablecloth and decorations are not included.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">All table skirts come with velcro on top for attachment to clips. (CLIPS ARE SOLD SEPARATELY)<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>When the Duchess puts out an invite, she is sure to make her feast / celebration / announcement truly a feat of imagination. She transforms a plain table with her Luxury Sequin Tablecloth into a stunning beauty that is perfect for greeting Dignitaries, VIPs and Superstars. </span><span>W</span><span>ho wouldn't feel super honored and special once the have sat on such a lovely sparkling sequin table?</span></p>
+<p><span><strong>Additional Information:</strong></span></p>
+<ul>
+<li>
+<strong>Material Top Layer</strong> : Glistening Round Sequins atop tulle netting.</li>
+<li>
+<strong>Bottom Layer</strong> : Polyester</li>
+<li>
+<strong>Measurements</strong> : 21ft long x 29" tall</li>
+<li>
+<strong>How to Care</strong> : Dry clean only.</li>
+<li>For 1 piece table skirt only.  Tablecloth and decorations are not included.</li>
+<li>All table skirts come with velcro on top for attachment to clips. (CLIPS ARE SOLD SEPARATELY)</li>
+<li><span><strong>Uses</strong> : Wedding, Birthday, Party, Event, Banquet, Restaurant Decoration</span></li>
+</ul>
+<p data-mce-fragment="1" style="display: inline !important;" data-mce-style="display: inline !important;"><strong data-mce-fragment="1">Guideline to choosing the right size</strong>:</p>
+<p data-mce-fragment="1" style="display: inline !important;" data-mce-style="display: inline !important;"> <br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li>
+<strong data-mce-fragment="1">14ft Skirts<span data-mce-fragment="1"> </span></strong>: Covers 3 sides on a 6ft x 2 1/2ft banquet table ( similar to the ones you find in Costco) - 10 clips recommended</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">17ft Skirts<span data-mce-fragment="1"> </span></strong>: Covers 4 sides on a 6ft x 2 1/2ft banquet table ( similar to the ones you find in Costco) - 15 clips recommended, Covers 3 sides on a 8ft x 2 1/2ft banquet table</li>
+<li data-mce-fragment="1">
+<strong data-mce-fragment="1">21ft Skirts<span data-mce-fragment="1"> </span></strong>: Covers 4 sides on a 8ft x 2 1/2ft banquet table - 20 clips minimum needed - 24 clips recommended</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Table Skirts</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-sub2_Sequin Table Skirts</s:tag>
+    <s:tag>cat-sub2_Table Skirts</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Sequin Table Skirts</s:tag>
+    <s:tag>categ-Table Skirts</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-Iridescent</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-sequin</s:tag>
+    <s:tag>occasion-christmas</s:tag>
+    <s:tag>size:length-21 Ft</s:tag>
+    <s:tag>STAT-DISC</s:tag>
+    <s:tag>style-glitz</s:tag>
+    <s:tag>styletype-modern</s:tag>
+    <s:tag>type-table skirt</s:tag>
+    <s:tag>variant-skt_02_21</s:tag>
+    <s:tag>variantsizev-SKT_02_001_</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562991954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">61.78</s:price>
+      <s:sku>SKT_02_001_21</s:sku>
+      <s:grams>1180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8562822674</id>
+    <published>2016-12-06T10:20:00-08:00</published>
+    <updated>2016-12-06T10:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/ivory-polyester-banquet-chair-covers"/>
+    <title>Ivory Polyester Banquet Chair Covers</title>
+    <s:type>Chair Covers</s:type>
+    <s:vendor>HIER_2110</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/CHAIR_BANQ_IVR.2.jpg?v=1571438630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2110<br>
+        <strong>Type: </strong>Chair Covers<br>
+        <strong>Price: </strong>
+            1.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Chair Cover </td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> Polyester</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Ivory</td>
+</tr>
+<tr>
+<td>
+<strong>Top to Bottom Height:</strong> 38"</td>
+</tr>
+<tr>
+<td>
+<strong>Chair Back: </strong>22" height x 17" width</td>
+</tr>
+<tr>
+<td>
+<strong>Chair Seat: </strong>19" length x 18" width</td>
+</tr>
+<tr>
+<td>
+<strong>Chair Legs: </strong>18" height (from ground)</td>
+</tr>
+<tr>
+<td>
+<strong>Hem: </strong>Serged</td>
+</tr>
+<tr>
+<td>
+<strong>Feature: </strong>Stain and Wrinkle Resistant</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4>[Information]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHAIR_BANQ_IVR.2_1_240x240.jpg?v=1613589145"></td>
+<td>
+<h3 class="item-header">Polyester Chair Covers<br>
+</h3>
+<p>Swathe your party chairs using our gorgeous polyester chair covers. The stunning range of vibrant colors allows you to pick the perfect shade that matches with your party theme color.<br data-mce-fragment="1"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<h3 class="item-header">Premium Quality</h3>
+<p>Premium quality polyester chair covers with perfect fitting to accommodate all your indoor and outdoor chair decorating needs.  The top quality polyester material is sturdy and durable enough to withstand the heavy duty usage during outdoor carnivals, culinary events, weddings, as well as indoor tea parties, birthdays, and holiday dinners. </p>
+</td>
+<td style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHAIR_BANQ_IVR_D01_47b8cbfd-7ada-4b9d-938a-549c19cca382_240x240.jpg?v=1613589163"></td>
+</tr>
+</tbody>
+</table>
+<table width="100%">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<div style="text-align: center;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/1552/7691/files/CHAIR_BANQ_IVR_240x240.jpg?v=1614115728"></div>
+</td>
+<td>
+<h3 class="item-header">Multi-Use</h3>
+<p>Transform your plain and unattractive banquet and party chairs into elegant seats exuding style and sophistication with these premium quality polyester chair covers. From the extensive array of colors, you can pick the perfect hue to coordinate with your party theme color.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Fits:</strong> Round top and Crown top Banquet chairs</li>
+<li>
+<strong>Uses:</strong> Party Chair Covers, Banquet Chair Covers, Wedding Chair Covers, Dining Chair Covers</li>
+<li>
+<strong>How to Care:</strong> Warm water wash, bleach safe. Low temp dry. Can be reused again and again</li>
+</ul>
+<ul></ul>
+<p> </p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Banquet Chair Covers</s:tag>
+    <s:tag>cat-top_Chair Covers</s:tag>
+    <s:tag>categ-Banquet Chair Covers</s:tag>
+    <s:tag>categ-Chair Covers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>chairtype-banquet</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-chair cover</s:tag>
+    <s:tag>variant-chair_banq</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8562822674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.39</s:price>
+      <s:sku>CHAIR_BANQ_IVR</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8550767954</id>
+    <published>2016-12-02T17:07:25-08:00</published>
+    <updated>2016-12-02T17:07:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/12-pcs-1-5-to-2-adjustable-large-plastic-table-skirt-clips"/>
+    <title>12 PCS 1.5 to 2&quot; Adjustable Large Plastic Table Skirt Clips</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2240</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_PLST02_CLIP__01XL.jpg?v=1619466273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2240<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Plastic Table Skirt Clips: adjustable sizing<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Clips has Velcro on the back to attach on the table skirts easily. <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Sizes can fit 1.5 inch to 2 inch thickness tables.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Each order will contain a package of 12 clips.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Table skirting not only hides those ugly, dreary table legs, but also transforms an ordinary party table into an elegant tablescape. With tulle, organza, satin, taffeta, or polyester table skirts dressing your party tables up lavishly, your party decoration will surpass the most sophisticated of celebrations. Let these pretty table skirts be glamming your party ambiance up for longer hours and many more festivities by using our durable plastic table skirt clips. These premium quality plastic clips will hold your table skirts perfectly without any risk of breaking or cracking. The Velcro on the back of clips helps in easy attachment and excellent grip retention.</p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Plastic<span> </span>Table<span> </span>Skirt Clips:</strong><span> </span>adjustable sizing</li>
+<li>Clips has Velcro on the back to attach on the table skirts easily. </li>
+<li>Sizes can fit 1.5 inch to 2 inch thickness tables.</li>
+<li>Each order will contain a package of 12 clips.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Table Skirts</s:tag>
+    <s:tag>cat-sub1_Vinyl &amp; Plastic Tablecloths</s:tag>
+    <s:tag>cat-sub2_Plastic Table Skirts</s:tag>
+    <s:tag>cat-sub2_Skirt Clips</s:tag>
+    <s:tag>cat-sub2_Table Skirts</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-Plastic Table Skirts</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Skirt Clips</s:tag>
+    <s:tag>categ-Table Skirts</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>color-clear</s:tag>
+    <s:tag>material-plastic</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_12</s:tag>
+    <s:tag>size:general-2&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-clip</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8550767954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>TAB_PLST02_CLIP</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8550689618</id>
+    <published>2016-12-02T16:38:00-08:00</published>
+    <updated>2016-12-02T16:38:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/70-white-polyester-round-tablecloth"/>
+    <title>70&quot; White Polyester Round Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_70_WHT_POLY__01.jpg?v=1619211052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2250<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            6.99 - 637.49
+            <a href="https://www.efavormart.com/products/70-white-polyester-round-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"></a>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Tablecloth<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: 100% Polyester<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: White<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 70" Round<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Stain &amp; Wrinkle Resistant, Machine Washable<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Hemmed edges for an exquisite look.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>How to Care:</strong> Tablecloths are machine washable. Use warm water wash, low temp dry.</li>
+<li>For Tablecloth only, decorations not included</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><br><strong><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-96</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_108&quot;Polyester Round</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-70&quot; Polyester Round</s:tag>
+    <s:tag>categ-Memorial Day</s:tag>
+    <s:tag>categ-Memorial Day Tablecloths</s:tag>
+    <s:tag>categ-Polyester Round Tablecloths</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-70&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>Table Linens</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-tab_70</s:tag>
+    <s:tag>variantsizev-TAB_RND_WHT</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8550689618</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>TAB_70_WHT_POLY</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8550689618</id>
+      <title>Case of 96 Tablecloths</title>
+      <s:price currency="USD">637.49</s:price>
+      <s:sku>TAB_70_WHT_POLY_CASE</s:sku>
+      <s:grams>43584</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8550688978</id>
+    <published>2016-12-02T16:38:00-08:00</published>
+    <updated>2016-12-02T16:38:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/60x126-white-polyester-rectangular-tablecloth"/>
+    <title>60&quot;x126&quot; White Polyester Rectangular Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_60126_WHT__01.1.progressive_a07b1c2b-9780-4473-a4aa-e571a372b186.jpg?v=1621540162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2250<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            9.49 - 415.99
+            <a href="https://www.efavormart.com/products/60x126-white-polyester-rectangular-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<h4><a href="https://efavormart-new.myshopify.com/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"><br></a></h4>
+<table>
+<tbody>
+<tr>
+<td>
+<strong>Quantity:</strong> 1 Rectangular Tablecloth</td>
+</tr>
+<tr>
+<td>
+<strong>Material:</strong> 100% Polyester</td>
+</tr>
+<tr>
+<td>
+<strong>Color:</strong> White</td>
+</tr>
+<tr>
+<td>
+<strong>Size:</strong> 60"x126"</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 130GSM</td>
+</tr>
+<tr>
+<td>Stain &amp; wrinkle resistant, machine washable</td>
+</tr>
+<tr>
+<td>1 piece, seamless design</td>
+</tr>
+<tr>
+<td>Hemmed edges for an exquisite look.</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<br>
+<h4>[Information]</h4>
+<p><strong>Additional Information: </strong></p>
+<ul>
+<li>
+<strong>How to Care:</strong> Tablecloths are machine washable. Use warm water wash, low temp dry.</li>
+<li>For Tablecloth only, decorations not included</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><strong><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions<br></a><a href="https://cdn.shopify.com/s/files/1/1552/7691/files/sizechart-rectangle.png?16205967234917000880" target="_blank">Size Chart</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-48</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub1_Table Linens</s:tag>
+    <s:tag>cat-sub2_60&quot;x102&quot;Polyester Rectangle</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-60&quot;x126&quot; Polyester Rectangle</s:tag>
+    <s:tag>categ-Memorial Day</s:tag>
+    <s:tag>categ-Memorial Day Tablecloths</s:tag>
+    <s:tag>categ-Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Table Linens</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-126&apos;</s:tag>
+    <s:tag>size:width-60&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>Table Linens</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-tab_60126</s:tag>
+    <s:tag>variantsizev-TAB_WHT_POLY</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8550688978</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">9.49</s:price>
+      <s:sku>TAB_60126_WHT_POLY</s:sku>
+      <s:grams>649</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8550688978</id>
+      <title>Case of 48 Tablecloth</title>
+      <s:price currency="USD">415.99</s:price>
+      <s:sku>TAB_60126_WHT_POLY_CASE</s:sku>
+      <s:grams>31135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/8548364754</id>
+    <published>2016-12-01T19:04:00-08:00</published>
+    <updated>2016-12-01T19:04:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/132-black-polyester-round-tablecloth"/>
+    <title>132&quot; Black Polyester Round Tablecloth</title>
+    <s:type>Tablecloths</s:type>
+    <s:vendor>HIER_2250</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/TAB_136_BLK__01.jpg?v=1619206959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2250<br>
+        <strong>Type: </strong>Tablecloths<br>
+        <strong>Price: </strong>
+            12.49 - 569.99
+            <a href="https://www.efavormart.com/products/132-black-polyester-round-tablecloth">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<a href="/collections/Polyester-Collection" onclick="ga('send', 'event', { eventCategory: 'pdp_collection_click', eventAction: 'collection_linens', eventLabel: 'Polyester_Collection'});"><img src="https://cdn.shopify.com/s/files/1/1552/7691/files/Collection-Polyester_Collection-min.jpg"></a>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Round Tablecloth<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: 100% Polyester<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Black<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Size</strong>: 132" Round<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Thickness</strong>: 200 GSM<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Stain &amp; Wrinkle Resistant, Machine Washable<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">1 piece, seamless design<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Hemmed edges for an exquisite look.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Gives floor length hang on standard 6 ft (72") tables<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>How to Care:</strong> Tablecloths are machine washable. Use warm water wash, low temp dry.</li>
+<li>For Tablecloth only, decorations not included</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul>
+<p><br><strong><a href="https://www.efavormart.com/pages/care" target="_blank">Linen Care Instructions</a></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-48</s:tag>
+    <s:tag>cat-sub1_Polyester Rectangle Tablecloths</s:tag>
+    <s:tag>cat-sub2_132&quot; Polyester Round</s:tag>
+    <s:tag>cat-top_Tablecloths</s:tag>
+    <s:tag>categ-132&quot; Polyester Round</s:tag>
+    <s:tag>categ-Halloween Table Linens</s:tag>
+    <s:tag>categ-Polyester Round Tablecloths</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Tablecloths</s:tag>
+    <s:tag>categ-Thanksgiving Table Linens</s:tag>
+    <s:tag>Collection-Polyester Collection</s:tag>
+    <s:tag>color-black</s:tag>
+    <s:tag>Disc-No Sale</s:tag>
+    <s:tag>material-polyester</s:tag>
+    <s:tag>shape-round</s:tag>
+    <s:tag>size:diameter-132&quot;</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-tablecloth</s:tag>
+    <s:tag>variant-tab_136</s:tag>
+    <s:tag>variantsizev-TAB_RND_BLK</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8548364754</id>
+      <title>Pack of 1 Tablecloth</title>
+      <s:price currency="USD">12.49</s:price>
+      <s:sku>TAB_136_BLK_POLY</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/8548364754</id>
+      <title>Case of 48 Tablecloth</title>
+      <s:price currency="USD">569.99</s:price>
+      <s:sku>TAB_136_BLK_POLY_CASE</s:sku>
+      <s:grams>76223</s:grams>
+    </s:variant>
+  </entry>
+</feed>

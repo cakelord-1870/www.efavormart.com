@@ -1,0 +1,2335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/gauze-fabric-table-runner.atom"/>
+  <title>efavormart.com</title>
+  <updated>2021-01-06T17:30:00-08:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/4700253323310</id>
+    <published>2021-01-06T17:30:00-08:00</published>
+    <updated>2021-01-06T17:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-white"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - White</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_WHT_D01.jpg?v=1611712822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: White</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-white</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700253323310</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_WHT</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700253323310</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_WHT_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700252667950</id>
+    <published>2021-01-06T17:29:59-08:00</published>
+    <updated>2021-01-06T17:29:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-silver"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Silver</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_SILV_D01.jpg?v=1611713326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-silver">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Silver</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-silver</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700252667950</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_SILV</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700252667950</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_SILV_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700252012590</id>
+    <published>2021-01-06T17:29:57-08:00</published>
+    <updated>2021-01-06T17:29:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-purple"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Purple</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_PURP_D01.jpg?v=1611713678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-purple">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Purple</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-purple</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700252012590</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_PURP</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700252012590</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_PURP_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700250865710</id>
+    <published>2021-01-06T17:29:55-08:00</published>
+    <updated>2021-01-06T17:29:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-navy-blue"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Navy Blue</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_NAVY_D01.jpg?v=1611713930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-navy-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Navy Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-navy-blue</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700250865710</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_NAVY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700250865710</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_NAVY_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700249849902</id>
+    <published>2021-01-06T17:29:53-08:00</published>
+    <updated>2021-01-06T17:29:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-natural"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Natural</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_NAT_D01.jpg?v=1611706705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-natural">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Natural</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-natural</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700249849902</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_NAT</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700249849902</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_NAT_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700249161774</id>
+    <published>2021-01-06T17:29:52-08:00</published>
+    <updated>2021-01-06T17:29:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-moss-green"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Moss Green</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_MOSS_D01.jpg?v=1611710184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-moss-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Moss Green</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Moss Green</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700249161774</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_MOSS</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700249161774</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_MOSS_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700248703022</id>
+    <published>2021-01-06T17:29:50-08:00</published>
+    <updated>2021-01-06T17:29:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-ivory"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Ivory</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_IVR_D01.jpg?v=1611714250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-ivory">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td>
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Ivory</td>
+</tr>
+<tr>
+<td>
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td>
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td>
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td>Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td>Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-ivory</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700248703022</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_IVR</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700248703022</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_IVR_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700247883822</id>
+    <published>2021-01-06T17:29:48-08:00</published>
+    <updated>2021-01-06T17:29:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-gray"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Gray</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_GRAY_D01.jpg?v=1611707042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-gray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Gray</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-gray</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700247883822</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_GRAY</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700247883822</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_GRAY_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700247457838</id>
+    <published>2021-01-06T17:29:46-08:00</published>
+    <updated>2021-01-06T17:29:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-gold"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Gold</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_GOLD_D01.jpg?v=1611707571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Gold</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-sub1_Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>cat-sub2_Gender Neutral Linens</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Gender Neutral Baby Shower Themes</s:tag>
+    <s:tag>categ-Gender Neutral Linens</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-gold</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700247457838</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_GOLD</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700247457838</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_GOLD_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700246409262</id>
+    <published>2021-01-06T17:29:45-08:00</published>
+    <updated>2021-01-06T17:29:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-cream"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Cream</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_CRM_D01.jpg?v=1611714523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Cream</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-cream</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700246409262</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_CRM</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700246409262</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_CRM_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700245917742</id>
+    <published>2021-01-06T17:29:43-08:00</published>
+    <updated>2021-01-06T17:29:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-burgundy"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Burgundy</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_BURG_D01.jpg?v=1611715027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-burgundy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Burgundy</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-burgundy</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700245917742</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_BURG</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700245917742</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_BURG_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700245426222</id>
+    <published>2021-01-06T17:29:41-08:00</published>
+    <updated>2021-01-06T17:29:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-baby-blue"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Baby Blue</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_BLUE_D01.jpg?v=1611715415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-baby-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Baby Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Boys</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-sub2_Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-Baby Shower Themes For Boys</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Linen For Boy&apos;s Themes</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-baby-blue</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700245426222</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_BLUE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700245426222</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_BLUE_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700244541486</id>
+    <published>2021-01-06T17:29:39-08:00</published>
+    <updated>2021-01-06T17:29:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-mustard-yellow"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Mustard Yellow</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_088_D01.jpg?v=1611709888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-mustard-yellow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Mustard Yellow</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-yellow</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700244541486</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_088</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700244541486</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_088_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700243755054</id>
+    <published>2021-01-06T17:29:37-08:00</published>
+    <updated>2021-01-06T17:29:37-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-olive-green"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Olive Green</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_087_D01.jpg?v=1611710469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-olive-green">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Olive Green</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-olive green</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700243755054</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_087</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700243755054</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_087_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700242804782</id>
+    <published>2021-01-06T17:29:36-08:00</published>
+    <updated>2021-01-06T17:29:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-blue"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Dusty Blue</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_086_D01.jpg?v=1611710785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-blue">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity:</strong> 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color:</strong> Dusty Blue</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction:</strong> Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements.</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Dusty Blue</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700242804782</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_086</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700242804782</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_086_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700241887278</id>
+    <published>2021-01-06T17:29:34-08:00</published>
+    <updated>2021-01-06T17:29:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-beige"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Beige</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_081_D01.jpg?v=1611708443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-beige">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Beige</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-beige</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700241887278</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_081</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700241887278</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_081_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700241199150</id>
+    <published>2021-01-06T17:29:32-08:00</published>
+    <updated>2021-01-06T17:29:32-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-rose"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Dusty Rose</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_080_D01.jpg?v=1611711314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-dusty-rose">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Dusty Rose</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Dusty Rose</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700241199150</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_080</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700241199150</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_080_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700239986734</id>
+    <published>2021-01-06T17:29:30-08:00</published>
+    <updated>2021-01-06T17:29:30-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-violet"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Violet</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_073_D01.jpg?v=1611715745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-violet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Amethyst</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Amethyst</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700239986734</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_073</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700239986734</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_073_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4700238708782</id>
+    <published>2021-01-06T17:29:29-08:00</published>
+    <updated>2021-01-06T17:29:29-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-blush-rose-gold"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Blush | Rose Gold</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_046_D01.jpg?v=1611711047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-blush-rose-gold">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td>
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td>
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>: Blush | Rose Gold</td>
+</tr>
+<tr>
+<td>
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td>
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td>
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td>
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td>Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td>Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong data-mce-fragment="1">Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Baby Shower Themes For Girls</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-sub2_Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>cat-top_Event Decor</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-Baby Shower Themes For Girls</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Featured</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Linen For Girl&apos;s Themes</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-blush</s:tag>
+    <s:tag>color-rose-gold</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700238708782</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_046</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4700238708782</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_046_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4698177863726</id>
+    <published>2021-01-06T17:29:27-08:00</published>
+    <updated>2021-01-06T17:29:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-charcoal-gray"/>
+    <title>10FT Gauze Table Runner Cheesecloth Fabric For Wedding Arch, Arbor Decor - Charcoal Gray</title>
+    <s:type>Runners</s:type>
+    <s:vendor>HIER_2230</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/RUN_CHES_044_D01.jpg?v=1611712459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_2230<br>
+        <strong>Type: </strong>Runners<br>
+        <strong>Price: </strong>
+            7.99 - 735.08
+            <a href="https://www.efavormart.com/products/10ft-gauze-table-runner-cheesecloth-fabric-for-wedding-arch-arbor-decor-charcoal-gray">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: 1 Table Runner</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material: </strong>Cotton</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Charcoal Gray</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 120" | 10 FT</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Un-Stretched:</strong> 19"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Width Stretched:</strong> 32"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>GSM:</strong> 90</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Length Ends are Hemmed Style</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Opposing Width Ends are Frayed</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;" data-mce-style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Care Instruction</strong>: Hand wash only, No dry cleaning, Shedding is possible, Sun fading is possible, Keep away from fire, Dry vertically, to make it flat Wrap as a ball to make it wrinkled</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>﻿All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>Has intentional wrinkle/fold texture style</li>
+<li>Stretches Width-Wise NOT Length-Wise</li>
+<li>Sheer but textured fabric that can be used in any color.</li>
+<li>
+<strong>Uses:</strong> Wedding, Party, Event, Banquet, Decoration</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-100</s:tag>
+    <s:tag>cat-sub1_Gauze Fabric Table Runner</s:tag>
+    <s:tag>cat-top_Table Runners</s:tag>
+    <s:tag>categ-estytablelinens</s:tag>
+    <s:tag>categ-Gauze Fabric Table Runner</s:tag>
+    <s:tag>categ-Table Runners</s:tag>
+    <s:tag>color-Charcoal Gray</s:tag>
+    <s:tag>material-cotton</s:tag>
+    <s:tag>shape-rectangle</s:tag>
+    <s:tag>size:length-10 Ft</s:tag>
+    <s:tag>size:width-10 Ft</s:tag>
+    <s:tag>style-solid color</s:tag>
+    <s:tag>type-runner</s:tag>
+    <s:tag>variant-RUN_CHES</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4698177863726</id>
+      <title>Pack of 1 Runner</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>RUN_CHES_044</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4698177863726</id>
+      <title>Case of 100 Runners</title>
+      <s:price currency="USD">735.08</s:price>
+      <s:sku>RUN_CHES_044_CASE</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

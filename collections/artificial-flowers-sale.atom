@@ -1,0 +1,3360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.efavormart.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.efavormart.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.efavormart.com/collections/artificial-flowers-sale.atom"/>
+  <title>efavormart.com</title>
+  <updated>2020-02-06T14:42:59-08:00</updated>
+  <author>
+    <name>efavormart.com</name>
+  </author>
+  <entry>
+    <id>https://www.efavormart.com/products/4432224354350</id>
+    <published>2020-02-06T14:42:59-08:00</published>
+    <updated>2020-02-06T14:42:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-green-wet-floral-foam-bricks-styrofoam-blocks-for-floral-arrangements"/>
+    <title>Set of 3 - Green Wet Floral Foam Bricks, Styrofoam Blocks for Floral Arrangements</title>
+    <s:type>Craft Flowers</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/FOAM_ARTI_BRK01_D03.jpg?v=1627074533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Craft Flowers<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="95%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Quantity</b>: 3 Wet Foam Blocks</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Material</b>: Styrofoam</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Color</b>: Green</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<b>Shape</b>: Rectangle</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Each Brick Size:</strong> 9" L x 4.25" H x 3" W</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Can be used for real, dried, or artificial flowers</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>How to use:</strong> Soak in water until completely saturated. Cut foam to desired size to fit any container. Then add flowers.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">
+<strong>Features: </strong>Lightweight, Quick water absorption, Great holding power &amp; Low drainage</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Wet foam gives longer life to your plant and flower arrangements</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;">Wet foam provides great structure to floral designs</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><b>All sizes are approximate measurements</b></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px; width: 100%;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<br>
+<h4>[Information]</h4>
+<p> </p>
+<p><strong>Note</strong>: Item is only for foam bricks. Other decorations are not included.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Craft Flowers</s:tag>
+    <s:tag>cat-sub1_Foam Decorations</s:tag>
+    <s:tag>cat-sub2_Floral Supplies</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Best Sellers</s:tag>
+    <s:tag>cat-top_Craft Supplies</s:tag>
+    <s:tag>cat-top_Wedding Favors</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Craft Flowers</s:tag>
+    <s:tag>categ-DIY Crafts</s:tag>
+    <s:tag>categ-DIY Crafts &amp; Accessories</s:tag>
+    <s:tag>categ-Floral Supplies</s:tag>
+    <s:tag>categ-Foam Decorations</s:tag>
+    <s:tag>categ-Home Decoration</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>material-styrofoam</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>type-floral supply</s:tag>
+    <s:tag>variant-foam_bquet01</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4432224354350</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>FOAM_ARTI_BRK01</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/4366246051886</id>
+    <published>2019-11-27T02:03:22-08:00</published>
+    <updated>2019-11-27T02:03:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/2-bushes-36-green-flexible-artificial-eucalyptus-stems-uv-protected-artificial-outdoor-plant"/>
+    <title>2 Bushes - 36&quot; Green Flexible Artificial Eucalyptus Stems - UV Protected Artificial Outdoor Plant</title>
+    <s:type>Flower Bushes</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_GRN04_01__02.jpg?v=1612911055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Flower Bushes<br>
+        <strong>Price: </strong>
+            9.99 - 107.89
+            <a href="https://www.efavormart.com/products/2-bushes-36-green-flexible-artificial-eucalyptus-stems-uv-protected-artificial-outdoor-plant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<table width="100%">
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>1 Qty</strong>: 2 Artificial Eucalyptus Bushes</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Material</strong>: Silk</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Material</strong>: High Quality Flexible Plastic</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Color: </strong>Green</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Stem Color: </strong>Reddish-Brown</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<b>Plant Type</b>: Eucalyptus (Rounded-Leaved Moort Leafs)<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<b>Stem Type</b>: Flexible Wired Stem</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Overall Height</strong>: 3 Ft (36")</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Overall Width</strong>: 8.5"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Each Bush has 5 stems</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<b>Leaves</b>: Approx 30-32 leaves each bush</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Leaf Size</strong>: 2.5" x 2"</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Eco-friendly and hassle free without watering and trimming.</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<strong>Additional Information:</strong>
+<ul>
+<li>
+<strong>Note:</strong> Order is for Eucalyptus Stems only. Other accessories not included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amp-test</s:tag>
+    <s:tag>Case-12</s:tag>
+    <s:tag>case_calc-24</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Flower Bushes</s:tag>
+    <s:tag>cat-sub2_Greenery</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>cat-top_Decorating Supplies</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Decorating Supplies</s:tag>
+    <s:tag>categ-Flower Bushes</s:tag>
+    <s:tag>categ-Flowers &amp; Lights</s:tag>
+    <s:tag>categ-Greenery</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>color-green</s:tag>
+    <s:tag>flowertype-eucalyptus leaves</s:tag>
+    <s:tag>material-silk</s:tag>
+    <s:tag>NEWARRIVALS-2103</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>size:height-36&quot;</s:tag>
+    <s:tag>type-bushes</s:tag>
+    <s:tag>variantsizev-ARTI_GRN01_01</s:tag>
+    <s:tag>Wreaths</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4366246051886</id>
+      <title>Pack of 2 Bushes</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ARTI_GRN04_01</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/4366246051886</id>
+      <title>Case of 12 Packs (24 Bushes Total)</title>
+      <s:price currency="USD">107.89</s:price>
+      <s:sku>ARTI_GRN04_01_CASE</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509814501422</id>
+    <published>2018-12-19T19:31:56-08:00</published>
+    <updated>2018-12-19T19:31:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-echeveria-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 4&quot; Assorted Echeveria Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT007_ASST__01.jpg?v=1571439168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            12.99 - 34.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-echeveria-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li><span><strong>Inclusion:</strong> Succulents in Pot with decorative rocks</span></li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type:</strong> Echeveria</span></li>
+<li><span><strong>Overall Height:</strong> 4" </span></li>
+<li><span><strong>Succulent width:</strong> 4" </span></li>
+<li><span><strong>Pot material:</strong> White Ceramic Pot</span></li>
+<li>
+<strong>Pot Height:</strong> 3<span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong> <span>3"</span>
+</li>
+<li><span><strong>Pot Base: </strong>2"</span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li><span><strong>Inclusion:</strong> Succulents in Pot with decorative rocks</span></li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type:</strong> Echeveria</span></li>
+<li><span><strong>Overall Height:</strong> 4"</span></li>
+<li><span><strong>Succulent width:</strong> 4"</span></li>
+<li><span><strong>Pot material:</strong> White Ceramic Pot</span></li>
+<li>
+<strong>Pot Height:</strong><span> </span>3<span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong> <span>3"</span>
+</li>
+<li><span><strong>Pot Base: </strong>2"</span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+<li>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-4&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509814501422</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>ARTI_SUC_PT007_ASST</s:sku>
+      <s:grams>1034</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509814501422</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>ARTI_SUC_PT007_ASST_CASE</s:sku>
+      <s:grams>3103</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509802770478</id>
+    <published>2018-12-19T19:31:54-08:00</published>
+    <updated>2018-12-19T19:31:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-aloe-varietal-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 5&quot; Assorted Aloe Varietal Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT004_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            13.99 - 37.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-aloe-varietal-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Quantity:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Each in Pot with decorative rocks</li>
+<li>
+<strong>Color:</strong> Assorted</li>
+<li>
+<strong>Succulent Material:</strong> PVC </li>
+<li>
+<strong>Succulent Type:</strong> Aloe Varietal</li>
+<li>
+<strong>Pot material:</strong> Grey Ceramic Round Pot</li>
+<li>
+<strong>Pot Height:</strong> 2" </li>
+<li>
+<strong>Pot Base:</strong> 2" </li>
+<li>
+<strong>Overall Height:</strong> 5"</li>
+<li>
+<strong>Overall Width:</strong> 5"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>
+<strong>Note:</strong> Actual plant measurement may vary</li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<ul></ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Quantity:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Each in Pot with decorative rocks</li>
+<li>
+<strong>Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC </li>
+<li>
+<strong>Succulent Type:</strong><span> </span>Aloe Varietal</li>
+<li>
+<strong>Pot material:</strong><span> </span>Grey Ceramic Round Pot</li>
+<li>
+<strong>Pot Height:</strong><span> </span>2" </li>
+<li>
+<strong>Pot Base:</strong><span> </span>2" </li>
+<li>
+<strong>Overall Height:</strong><span> </span>5"</li>
+<li>
+<strong>Overall Width:</strong><span> </span>5"</li>
+<li>
+<strong>Features:</strong><span> </span>Realistic, lifelike, natural looking succulents</li>
+<li>
+<strong>Note:</strong><span> </span>Actual plant measurement may vary</li>
+<li>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</li>
+<li>
+<strong>Note:</strong><span> </span>Actual plant measurement may vary</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aloe Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509802770478</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>ARTI_SUC_PT004_ASST</s:sku>
+      <s:grams>1606</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509802770478</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>ARTI_SUC_PT004_ASST_CASE</s:sku>
+      <s:grams>4817</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509794709550</id>
+    <published>2018-12-19T19:31:53-08:00</published>
+    <updated>2018-12-19T19:31:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-7-assorted-cactus-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 7&quot; Assorted Cactus Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT003_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            12.99 - 34.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-7-assorted-cactus-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li><span><strong>Succulent Material:</strong> PVC</span></li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type: </strong>Cactus</span></li>
+<li><span><strong>Overall Height:</strong> 7" </span></li>
+<li>
+<strong>Succulent width:</strong> 4" </li>
+<li>
+<strong>Pot material: </strong>White Ceramic Pot</li>
+<li>
+<strong>Pot Height:</strong> 3<span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong> <span>3"</span>
+</li>
+<li><span><strong>Pot Base: </strong>2" </span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li><span><strong>Succulent Material:</strong> PVC</span></li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type: </strong>Cactus</span></li>
+<li><span><strong>Overall Height:</strong> 7" </span></li>
+<li>
+<strong>Succulent width:</strong><span> </span>4" </li>
+<li>
+<strong>Pot material: </strong>White Ceramic Pot</li>
+<li>
+<strong>Pot Height:</strong><span> </span>3<span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span><span>3"</span>
+</li>
+<li><span><strong>Pot Base: </strong>2"</span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</span></li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Cactus Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-7&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509794709550</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>ARTI_SUC_PT003_ASST</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509794709550</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>ARTI_SUC_PT003_ASST_CASE</s:sku>
+      <s:grams>3143</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509758795822</id>
+    <published>2018-12-19T19:31:50-08:00</published>
+    <updated>2018-12-19T19:31:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-18-assorted-artificial-succulent-plants-aeonium-spray-long-stem-air-plants"/>
+    <title>Set of 3 | 18&quot; Assorted Artificial Succulent Plants Aeonium Spray Long Stem Air Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_LS005_ALST__02.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            9.99 - 27.99
+            <a href="https://www.efavormart.com/products/set-of-3-18-assorted-artificial-succulent-plants-aeonium-spray-long-stem-air-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Succulent</strong> <strong>Type</strong>: Aeonium Spray<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Long Stem</strong> <strong>Length</strong>: 9"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 18" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Width:</strong> 6" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong><a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank">Creating a Succulent Arrangement</a> </strong><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Actual plant measurement may vary<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulent picks. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either fill in jars, pots and bowls to make elegant rustic tabletop centerpieces, or attach with Tree Branches, backdrops, arches, chair sashes, and napkin rings for a truly whimsical look. These loose picks can be bunched together or can be scattered on your Party Tables swathed with our Burlap Tablecloths and Linens, accentuated with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations. </span></p>
+<p><strong>Additional Information: </strong></p>
+<ul>
+<li>
+<strong>Material:</strong> PVC</li>
+<li>
+<strong>Quantity:</strong> Set of 3 Plants</li>
+<li>
+<strong>Color:</strong> Assorted</li>
+<li>
+<strong>Succulent Type:</strong> Aeonium Spray</li>
+<li>
+<strong>Wired Stems:</strong> Yes</li>
+<li>
+<strong>Long Stem Length:</strong> 9"</li>
+<li>
+<strong>Total Length:</strong> <span>18</span><span>" </span>
+</li>
+<li>
+<strong>Flower Width:</strong> 6" </li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong><span> </span>Order is only for Plants, no Pots included.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aeonium Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-18&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_LS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509758795822</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ARTI_SUC_LS005_ALST</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509758795822</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>ARTI_SUC_LS005_ALST_CASE</s:sku>
+      <s:grams>2214</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509752897582</id>
+    <published>2018-12-19T19:31:50-08:00</published>
+    <updated>2018-12-19T19:31:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-echeveria-or-grape-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 5&apos;&apos; Assorted Echeveria or Grape Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT016_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            12.68 - 35.98
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-echeveria-or-grape-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li><span><strong>Succulents Type:</strong> Minibelle, Elegans, Grassneri<br></span></li>
+<li>
+<strong> Overall Height: </strong>5"</li>
+<li>
+<strong>Overall Width:</strong> 4" </li>
+<li>
+<strong>Pot Material:</strong> Ceramic</li>
+<li>
+<strong>Pot Color:</strong> White</li>
+<li>
+<strong>Pot Height:</strong> 2.5"</li>
+<li>
+<strong>Pot Width:</strong> 3"</li>
+<li>
+<strong>Pot Base:</strong> 2"</li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking cactus succulents</span></li>
+<li><span><strong>Note:</strong> Actual plant measurement may vary<br></span></li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike miniature succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party decor. Cute ceramic pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><span><strong>Additional Information:</strong></span></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li><span><strong>Succulents Type:</strong> Minibelle, Elegans, Grassneri<br></span></li>
+<li>
+<strong>Overall Height: </strong>5"</li>
+<li>
+<strong>Overall Width:</strong><span> </span>4" </li>
+<li>
+<strong>Pot Material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Pot Color:</strong><span> </span>White</li>
+<li>
+<strong>Pot Height:</strong><span> </span>2.5"</li>
+<li>
+<strong>Pot Width:</strong><span> </span>3"</li>
+<li>
+<strong>Pot Base:</strong><span> </span>2"</li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking cactus succulents</span></li>
+<li><span>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</span></li>
+<li><span>Perfect for Decorative Gardening, Terrariums, Home furnishing, Table decor, Wedding favors.</span></li>
+<li><span><strong>Note</strong>: Actual plant measurement may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509752897582</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>ARTI_SUC_PT016_ASST</s:sku>
+      <s:grams>980</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509752897582</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>ARTI_SUC_PT016_ASST_CASE</s:sku>
+      <s:grams>2939</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509749719086</id>
+    <published>2018-12-19T19:31:49-08:00</published>
+    <updated>2018-12-19T19:31:49-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-18-assorted-artificial-succulent-plants-echeveria-long-stem-air-plants"/>
+    <title>Set of 3 | 18&quot; Assorted Artificial Succulent Plants Echeveria Long Stem Air Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_LS004_ALST__02.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            9.99 - 27.99
+            <a href="https://www.efavormart.com/products/set-of-3-18-assorted-artificial-succulent-plants-echeveria-long-stem-air-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Succulent</strong> <strong>Type</strong>: Echeveria Long Stem<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Long Stem</strong> <strong>Length</strong>: 9"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 18" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Width:</strong> 6" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong><a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank">Creating a Succulent Arrangement</a> </strong><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Actual plant measurement may vary<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulent picks. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either fill in jars, pots and bowls to make elegant rustic tabletop centerpieces, or attach with Tree Branches, backdrops, arches, chair sashes, and napkin rings for a truly whimsical look. These loose picks can be bunched together or can be scattered on your Party Tables swathed with our Burlap Tablecloths and Linens, accentuated with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span><span>PVC</span>
+</li>
+<li>
+<strong>Quantity:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulent Type:</strong><span> </span>Echeveria Long Stem</li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Long Stem Length:</strong><span> </span>9"</li>
+<li>
+<strong>Total Length:</strong> <span>18"</span>
+</li>
+<li>
+<strong>Flower Width:</strong><span> </span>6" </li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong><span> </span>Order is only for Plants, no Pots included.</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-18&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_LS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509749719086</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>ARTI_SUC_LS004_ALST</s:sku>
+      <s:grams>597</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509749719086</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>ARTI_SUC_LS004_ALST_CASE</s:sku>
+      <s:grams>1791</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1509744836654</id>
+    <published>2018-12-19T19:31:48-08:00</published>
+    <updated>2018-12-19T19:31:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-13-assorted-artificial-succulent-plants-yucca-aloe-vera-long-stem-air-plants"/>
+    <title>Set of 3 | 13&quot; Assorted Artificial Succulent Plants Yucca Aloe Vera Long Stem Air Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_LS003_ALST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Succulent</strong> <strong>Type</strong>: Yucca Aloe Vera Stem<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Long Stem</strong> <strong>Length</strong>: 7"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 13" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Width:</strong> 5" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong><a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank">Creating a Succulent Arrangement</a> </strong><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Actual plant measurement may vary<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulent picks. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either fill in jars, pots and bowls to make elegant rustic tabletop centerpieces, or attach with Tree Branches, backdrops, arches, chair sashes, and napkin rings for a truly whimsical look. These loose picks can be bunched together or can be scattered on your Party Tables swathed with our Burlap Tablecloths and Linens, accentuated with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations. </span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span><span>PVC</span>
+</li>
+<li>
+<strong>Quantity:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulent Type:</strong><span> </span>Yucca Aloe Vera Stem</li>
+<li><span><strong>Wired Stems:</strong> Yes</span></li>
+<li>
+<strong>Long Stem Length:</strong><span> </span>7"</li>
+<li>
+<strong>Total Length:</strong> <span>13"</span>
+</li>
+<li>
+<strong>Flower Width:</strong><span> </span>5" </li>
+<li>Features: Realistic, lifelike, natural looking succulents</li>
+<li>
+<strong>Note: </strong>Order is only for Plants, no Pots included.</li>
+<li>Actual plant measurement may vary</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aloe Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:length-13&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_LS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1509744836654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>ARTI_SUC_LS003_ALST</s:sku>
+      <s:grams>279</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506700951598</id>
+    <published>2018-12-19T19:31:47-08:00</published>
+    <updated>2018-12-19T19:31:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-8-assorted-spiky-crassula-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 8&quot; Assorted Spiky Crassula Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT002_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            16.99 - 45.87
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-8-assorted-spiky-crassula-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type: </strong>Spiky Crassula </span></li>
+<li><span><strong>Overall Height:</strong> 8" </span></li>
+<li><span><strong>Succulent width:</strong> 6"</span></li>
+<li><span><strong>Pot material: </strong>Grey Ceramic Geometric Pot </span></li>
+<li>
+<strong>Pot Height:</strong> 3" </li>
+<li><span><strong>Pot Base:</strong> 3" </span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type: </strong>Spiky Crassula </span></li>
+<li><span><strong>Overall Height:</strong> 8" </span></li>
+<li><span><strong>Succulent width:</strong> 6"</span></li>
+<li><span><strong>Pot material: </strong>Grey Ceramic Geometric Pot</span></li>
+<li>
+<strong>Pot Height:</strong><span> </span>3" </li>
+<li><span><strong>Pot Base:</strong> 3" </span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</span></li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Crassula Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506700951598</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>ARTI_SUC_PT002_ASST</s:sku>
+      <s:grams>1855</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506700951598</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">45.87</s:price>
+      <s:sku>ARTI_SUC_PT002_ASST_CASE</s:sku>
+      <s:grams>5566</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506688139310</id>
+    <published>2018-12-19T19:31:46-08:00</published>
+    <updated>2018-12-19T19:31:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-12-assorted-artificial-succulent-plants-echeveria-long-stem-air-plants"/>
+    <title>Set of 3 | 12&quot; Assorted Artificial Succulent Plants Echeveria Long Stem Air Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_LS002_ALST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232" alt=""></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Quantity</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Succulent</strong> <strong>Type</strong>: Echeveria stem<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Long Stem</strong> <strong>Length</strong>: 7"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length:</strong> 12" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Flower Width:</strong> 5" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong><a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank">Creating a Succulent Arrangement</a> </strong><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">Actual plant measurement may vary<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulent picks. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either fill in jars, pots and bowls to make elegant rustic tabletop centerpieces, or attach with Tree Branches, backdrops, arches, chair sashes, and napkin rings for a truly whimsical look. These loose picks can be bunched together or can be scattered on your Party Tables swathed with our Burlap Tablecloths and Linens, accentuated with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span></p>
+<p><span><strong>Additional Information:</strong></span></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span><span>PVC</span>
+</li>
+<li>
+<strong>Quantity:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulent Type: </strong>Echeveria stem</li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Long Stem Length:</strong><span> </span>7"</li>
+<li>
+<strong>Total Length: </strong><span>12" </span>
+</li>
+<li>
+<strong>Flower Width:</strong><span> </span>5" </li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, no Pots included</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Wall Grass decors, Wreaths</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-12&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_LS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506688139310</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>ARTI_SUC_LS002_ALST</s:sku>
+      <s:grams>384</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506675916846</id>
+    <published>2018-12-19T19:31:46-08:00</published>
+    <updated>2018-12-19T19:31:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-mini-echeveria-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 5&apos;&apos; Assorted Mini Echeveria Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT014_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            13.99 - 37.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-5-assorted-mini-echeveria-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img alt="" src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825"></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li>
+<strong>Succulent Type:</strong> Echeveria</li>
+<li>
+<strong>Pot material:</strong> Ceramic</li>
+<li>
+<strong>Pot Color:</strong> White</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li><span><strong>Inclusion:</strong> Succulents in Pot with decorative rocks</span></li>
+<li><span><strong>Overall Height:</strong> 5" </span></li>
+<li><span><strong>Succulent Width:</strong> 4" </span></li>
+<li>
+<strong>Pot Height:</strong> 2.<span>5"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong> 3<span>"</span>
+</li>
+<li><span><strong>Pot Base:</strong> 2"</span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><strong>﻿All sizes are approximate measurements </strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulent Type:</strong><span> </span>Echeveria</li>
+<li>
+<strong>Pot material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Pot Color:</strong><span> </span>White</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li><span><strong>Inclusion:</strong> Succulents in Pot with decorative rocks</span></li>
+<li><span><strong>Overall Height:</strong> 5" </span></li>
+<li><span><strong>Succulent Width:</strong> 4" </span></li>
+<li>
+<strong>Pot Height:</strong><span> </span>2.<span>5"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span>3<span>"</span>
+</li>
+<li><span><strong>Pot Base:</strong> 2"</span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</span></li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary slightly.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-5&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506675916846</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>ARTI_SUC_PT014_ASST</s:sku>
+      <s:grams>1048</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506675916846</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>ARTI_SUC_PT014_ASST_CASE</s:sku>
+      <s:grams>3143</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506670247982</id>
+    <published>2018-12-19T19:31:45-08:00</published>
+    <updated>2018-12-19T19:31:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-green-echeveria-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 4&apos;&apos; Assorted Green Echeveria Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT013_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            13.99 - 37.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-green-echeveria-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li>
+<strong>Succulents Type:</strong> Echeveria</li>
+<li>
+<strong>Pot material:</strong> Ceramic</li>
+<li>
+<strong>Overall Height:</strong> 4" </li>
+<li>
+<strong>Succulent Width:</strong> 4"</li>
+<li>
+<strong>Pot Height:</strong> 2.5"</li>
+<li>
+<strong>Pot Top Width:</strong> 3"</li>
+<li>
+<strong>Pot Base:</strong> 2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulents Type:</strong><span> </span>Echeveria</li>
+<li>
+<strong>Pot material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Overall Height:</strong><span> </span>4" </li>
+<li>
+<strong>Succulent Width:</strong><span> </span>4"</li>
+<li>
+<strong>Pot Height:</strong><span> </span>2.5"</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span>3"</li>
+<li>
+<strong>Pot Base:</strong><span> </span>2"</li>
+<li>
+<strong>Features:</strong><span> </span>Realistic, lifelike, natural looking succulents</li>
+<li>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li>
+<strong>Note: </strong>Actual plant measurement may vary slightly.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-4&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506670247982</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>ARTI_SUC_PT013_ASST</s:sku>
+      <s:grams>1125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506670247982</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>ARTI_SUC_PT013_ASST_CASE</s:sku>
+      <s:grams>3375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506664480814</id>
+    <published>2018-12-19T19:31:44-08:00</published>
+    <updated>2018-12-19T19:31:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-3-assorted-mini-echeveria-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 3&apos;&apos; Assorted Mini Echeveria Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT012_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li>
+<strong>Succulents Type:</strong> Echeveria</li>
+<li>
+<strong>Pot material:</strong> Ceramic</li>
+<li>
+<strong>Overall Height:</strong> 3" </li>
+<li>
+<strong>Succulent Width:</strong> 3" </li>
+<li>
+<strong>Pot Height:</strong> <span>2</span><span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong> 2"</li>
+<li>
+<strong>Pot Base:</strong> 1.5"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulents Type:</strong><span> </span>Echeveria</li>
+<li>
+<strong>Pot material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Overall Height:</strong><span> </span>3" </li>
+<li>
+<strong>Succulent Width:</strong><span> </span>3" </li>
+<li>
+<strong>Pot Height:</strong><span> </span><span>2</span><span>"</span>
+</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span>2"</li>
+<li>
+<strong>Pot Base:</strong><span> </span>1.5"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</li>
+<li><span>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary slightly.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:general-3&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506664480814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>ARTI_SUC_PT012_ASST</s:sku>
+      <s:grams>549</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506652422190</id>
+    <published>2018-12-19T19:31:44-08:00</published>
+    <updated>2018-12-19T19:31:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-8-assorted-sedum-oaxacanum-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 8&apos;&apos; Assorted Sedum Oaxacanum Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT011_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            12.68 - 35.98
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-8-assorted-sedum-oaxacanum-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li>
+<strong>Succulents Type:</strong> Sedum Oaxacanum</li>
+<li>
+<strong>Pot material:</strong> Ceramic</li>
+<li>
+<strong>Overall Height:</strong> 7" </li>
+<li>
+<strong>Succulent Width:</strong> 4.5" </li>
+<li>
+<strong>Pot Height:</strong> 2.5"</li>
+<li>
+<strong>Pot Top Width:</strong> 3"</li>
+<li>
+<strong>Pot Base:</strong> 2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>
+<strong>Note: </strong>Actual plant measurement may vary</li>
+<li><strong>﻿All sizes are approximate measurements </strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulents Type:</strong><span> </span>Sedum Oaxacanum</li>
+<li>
+<strong>Pot material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Overall Height:</strong><span> </span>7" </li>
+<li>
+<strong>Succulent Width:</strong><span> </span>4.5" </li>
+<li>
+<strong>Pot Height:</strong><span> </span>2.5"</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span>3"</li>
+<li>
+<strong>Pot Base:</strong><span> </span>2"</li>
+<li>
+<strong>Features:</strong><span> </span>Realistic, lifelike, natural looking succulents</li>
+<li>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Sedum Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506652422190</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">12.68</s:price>
+      <s:sku>ARTI_SUC_PT011_ASST</s:sku>
+      <s:grams>1148</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506652422190</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">35.98</s:price>
+      <s:sku>ARTI_SUC_PT011_ASST_CASE</s:sku>
+      <s:grams>3443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506643410990</id>
+    <published>2018-12-19T19:31:43-08:00</published>
+    <updated>2018-12-19T19:31:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-6-wavy-kalanchoe-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 6&quot; Wavy Kalanchoe Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS015_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Curlylocks or Wavy Kalanchoe<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 5" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Height</strong>: 6" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired</strong> <strong>Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 4" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong><strong>Additional Information:</strong></strong>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Curlylocks or Wavy Kalanchoe</li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span>5" </li>
+<li>
+<strong>Total Height:</strong><span> </span>6" </li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Short Stem Length:</strong><span> </span>4"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, Pots are not included.</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Kalanchoe Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-6&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506643410990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku>ARTI_SUC_WS015_ASST</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506637545518</id>
+    <published>2018-12-19T19:31:42-08:00</published>
+    <updated>2018-12-19T19:31:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-roundleaf-echeveria-stems-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 3&quot; Roundleaf Echeveria Stems Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS012_ASST__02.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            4.49 - 24.25
+            <a href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-roundleaf-echeveria-stems-decorative-artificial-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Type</strong>: Purpusorum, Setorum, CRIS<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 3" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Height</strong>: 3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired</strong> <strong>Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 2"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Blog</strong>: Creating a Succulent Arrangement <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, Pots are not included.<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">All sizes are approximate measurements<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong><strong>Additional Information:</strong></strong>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Purpusorum, Setorum, CRIS</li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span><span>3" </span>
+</li>
+<li>
+<strong>Total Height:</strong><span> </span>3"</li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Short Stem<span> </span>Length:</strong><span> </span>2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, Pots are not included.</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-18</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:general-3&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506637545518</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>ARTI_SUC_WS012_ASST</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506637545518</id>
+      <title>Case of 6 Packs(18 Air Plants Total)</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>ARTI_SUC_WS012_ASST_CASE</s:sku>
+      <s:grams>2724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506631286830</id>
+    <published>2018-12-19T19:31:42-08:00</published>
+    <updated>2018-12-19T19:31:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-6-spike-aeonium-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 6&quot; Spike Aeonium Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS010_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Spike Aeonium <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 4"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Height</strong>: 6"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired</strong> <strong>Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 4"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Spike Aeonium </li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span>4"</li>
+<li>
+<strong>Total Height:</strong><span> </span>6"</li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Short Stem Length:</strong><span> </span>4"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, Pots are not included.</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aeonium Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-6&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506631286830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>ARTI_SUC_WS010_ASST</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506625060910</id>
+    <published>2018-12-19T19:31:41-08:00</published>
+    <updated>2018-12-19T19:31:41-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-parva-echeveria-stems-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 3&quot; Parva Echeveria Stems Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS009_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            4.49 - 24.25
+            <a href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-parva-echeveria-stems-decorative-artificial-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232"></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Halbingeri, Glauca, Jade Point<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Height</strong>: 3" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 2"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tree Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Halbingeri, Glauca, Jade Point</li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span><span>3"</span>
+</li>
+<li>
+<strong>Total Height:</strong><span> </span>3" </li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Short Stem Length</strong>: 2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note</strong>: Order is only for Plants, Pots are not included.</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-18</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:general-3&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506625060910</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>ARTI_SUC_WS009_ASST</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506625060910</id>
+      <title>Case of 6 Packs(18 Air Plants Total)</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>ARTI_SUC_WS009_ASST_CASE</s:sku>
+      <s:grams>2724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506619588654</id>
+    <published>2018-12-19T19:31:40-08:00</published>
+    <updated>2018-12-19T19:31:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-echeveria-orion-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 3” Echeveria Orion Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS008_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            4.49 - 24.25
+            <a href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-3-echeveria-orion-decorative-artificial-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232" alt=""></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Bee's Knees, Melaco, Opalina<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 2"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length</strong>: 3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Width</strong>: 3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong>Additional Information</strong><br>
+<ul>
+<li>
+<strong>Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Plants</li>
+<li>
+<strong>Plant Type:</strong> Bee's Knees, Melaco, Opalina</li>
+<li>
+<strong>Plant Color:</strong> Assorted</li>
+<li>
+<strong>Wired Stems:</strong> Yes</li>
+<li>
+<strong>Short Stem Length:</strong> 2"</li>
+<li>
+<strong>Total Length:</strong> 3" </li>
+<li>
+<strong>Total Width:</strong> 3" </li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note</strong>: Order is only for Plants, Pots are not included.</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-18</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:general-3&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506619588654</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">4.49</s:price>
+      <s:sku>ARTI_SUC_WS008_ASST</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506619588654</id>
+      <title>Case of 6 Packs(18 Air Plants Total)</title>
+      <s:price currency="USD">24.25</s:price>
+      <s:sku>ARTI_SUC_WS008_ASST_CASE</s:sku>
+      <s:grams>2724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506618638382</id>
+    <published>2018-12-19T19:31:39-08:00</published>
+    <updated>2018-12-19T19:31:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-lotus-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Fake Succulents in Pot | 4&apos;&apos; Assorted Lotus Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT010_ASST__01.jpg?v=1571439167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            13.39 - 37.99
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-fake-succulents-in-pot-4-assorted-lotus-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825" alt=""></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong> Assorted</li>
+<li>
+<strong>Succulents Type:</strong> Lotus</li>
+<li>
+<strong>Pot material:</strong> Ceramic</li>
+<li>
+<strong>Overall Height:</strong> 4"</li>
+<li>
+<strong>Succulent width:</strong> 4"</li>
+<li>
+<strong>Pot Height:</strong> 2.5"</li>
+<li>
+<strong>Pot Top Width:</strong> 3"</li>
+<li>
+<strong>Pot Base:</strong> 2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>
+<strong>Note: </strong>Actual plant measurement may vary</li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<ul></ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li>
+<strong>Succulent Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Succulents Type:</strong><span> </span>Lotus</li>
+<li>
+<strong>Pot material:</strong><span> </span>Ceramic</li>
+<li>
+<strong>Overall Height:</strong><span> </span>4"</li>
+<li>
+<strong>Succulent width:</strong><span> </span>4"</li>
+<li>
+<strong>Pot Height:</strong><span> </span>2.5"</li>
+<li>
+<strong>Pot Top Width:</strong><span> </span>3"</li>
+<li>
+<strong>Pot Base:</strong><span> </span>2"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Lotus Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-4&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506618638382</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">13.39</s:price>
+      <s:sku>ARTI_SUC_PT010_ASST</s:sku>
+      <s:grams>1188</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506618638382</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">37.99</s:price>
+      <s:sku>ARTI_SUC_PT010_ASST_CASE</s:sku>
+      <s:grams>3565</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506616115246</id>
+    <published>2018-12-19T19:31:39-08:00</published>
+    <updated>2018-12-19T19:31:39-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-6-echeveria-stem-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 6&quot; Echeveria Stem Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS007_ASST__01.jpg?v=1594059097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232" alt=""></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Echeveria Stem<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 4"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total Length</strong>: 6"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Width</strong>: 4"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.</span><br><br><strong>Additional Information:</strong><br>
+<ul>
+<ul></ul>
+</ul>
+<ul>
+<li>
+<strong>Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong> Echeveria Stem</li>
+<li>
+<strong>Plant Color:</strong> Assorted</li>
+<li>
+<strong>Wired Stems:</strong> Yes</li>
+<li>
+<strong>Short Stem Length:</strong> 4" </li>
+<li>
+<strong>Total Length:</strong> 6" </li>
+<li>
+<strong>Total Width:</strong> 4"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+<li><span><strong>Note:</strong> Order is only for Plants, no Pots included</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Echeveria Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-6&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506616115246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>ARTI_SUC_WS007_ASST</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506605826094</id>
+    <published>2018-12-19T19:31:36-08:00</published>
+    <updated>2018-12-19T19:31:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-7-spiky-crassula-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 7&quot; Spiky Crassula Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS002_ASST__01.jpg?v=1625092394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            3.99 - 21.55
+            <a href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-7-spiky-crassula-decorative-artificial-plants">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232" alt=""></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Spiky Crassula<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 3" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Height</strong>: 7"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired</strong> <strong>Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 3"<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p><span>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tea Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations. </span><br><br><strong>Additional Information:</strong><br></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Spiky Crassula </li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span>3" </li>
+<li>
+<strong>Total Height:</strong><span> </span>7"</li>
+<li><span><strong>Wired Stems:</strong> Yes</span></li>
+<li>
+<strong>Short Stem Length:</strong><span> </span>3"</li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, no Pots included</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc. Ideal for windowsill, office table, kitchen, bathroom, and bedroom decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-6</s:tag>
+    <s:tag>case_calc-18</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Crassula Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-7&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506605826094</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">3.99</s:price>
+      <s:sku>ARTI_SUC_WS002_ASST</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506605826094</id>
+      <title>Case of 6 Packs(18 Air Plants Total)</title>
+      <s:price currency="USD">21.55</s:price>
+      <s:sku>ARTI_SUC_WS002_ASST_CASE</s:sku>
+      <s:grams>2724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506604056622</id>
+    <published>2018-12-19T19:31:35-08:00</published>
+    <updated>2018-12-19T19:31:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-assorted-faux-succulents-in-pot-6-assorted-aeonium-artificial-plants-with-pots"/>
+    <title>Set of 3 | Assorted Faux Succulents in Pot | 6&quot; Assorted Aeonium Artificial Plants with Pots</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_PT001_ASST_D09.jpg?v=1601659344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            17.99 - 48.57
+            <a href="https://www.efavormart.com/products/set-of-3-assorted-faux-succulents-in-pot-6-assorted-aeonium-artificial-plants-with-pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/collections/succulent-plants" target="_blank"><img alt="" src="//cdn.shopify.com/s/files/1/1552/7691/files/Collection-Satin_Collection-min_2cb133d6-3dda-467e-b33b-073ec3c8ffb5_1024x1024.jpg?v=1545417825"></a></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong> PVC</li>
+<li>
+<strong>Qty:</strong> Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong> Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type:</strong> Aeonium Succulent</span></li>
+<li><span><strong>Overall Height:</strong> 6" </span></li>
+<li><span><strong>Succulent width:</strong> 6"</span></li>
+<li><span><strong>Pot material: </strong>Round wood grain clay pot </span></li>
+<li>
+<strong>Pot Height:</strong> 3" </li>
+<li><span><strong>Pot Base:</strong> 4" </span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+<li><strong>﻿All sizes are approximate measurements</strong></li>
+<li><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></li>
+</ul>
+<h4>[Information]</h4>
+<p><span>This set of 3 pots, containing artificial, but amazingly lifelike succulent plants is ideal for adding a dash of refreshingly modern style to your home, office, or party décor. Rustic round wood grain clay pots are pre-filled with decorative rocks and succulents to give you a truly classy decorative accent fit for any space and season. Bring the freshness of natural green to your life and space by placing these faux cacti pots in your living room coffee table, dining table, kitchen counter, bathroom shelf, home garden ledge, or hang from tree branches, arches, columns, and poles for an elegant rustic touch. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events.</span></p>
+<p><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Succulent Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Artificial Succulents</li>
+<li>
+<strong>Inclusion:</strong><span> </span>Succulents in Pot with decorative rocks</li>
+<li><span><strong>Color:</strong> Assorted</span></li>
+<li><span><strong>Succulent Type:</strong> Aeonium Succulent</span></li>
+<li><span><strong>Overall Height:</strong> 6" </span></li>
+<li><span><strong>Succulent width:</strong> 6"</span></li>
+<li><span><strong>Pot material: </strong>Round wood grain clay pot </span></li>
+<li>
+<strong>Pot Height:</strong><span> </span>3" </li>
+<li><span><strong>Pot Base:</strong> 4" </span></li>
+<li><span><strong>Features:</strong> Realistic, lifelike, natural looking succulents</span></li>
+<li><span>Contents inside the pot cannot be removed as it is glued down. You can forcefully remove the plants and put something else in it.</span></li>
+<li>Perfect to use for Wedding Bouquets, Table Decoration, Centerpiece, Home Furnishings</li>
+<li><span><strong>Note: </strong>Actual plant measurement may vary</span></li>
+</ul>
+<ul rel="noopener noreferrer" href="https://www.efavormart.com/collections/wooden-planter-boxes" target="_blank"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case-3</s:tag>
+    <s:tag>case_calc-9</s:tag>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aeonium Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-6&quot;</s:tag>
+    <s:tag>type-Succulent w/Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_PT</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506604056622</id>
+      <title>Pack of 3 Air Plants</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>ARTI_SUC_PT001_ASST</s:sku>
+      <s:grams>2114</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506604056622</id>
+      <title>Case of 3 Packs ( Total 9 Air Plants)</title>
+      <s:price currency="USD">48.57</s:price>
+      <s:sku>ARTI_SUC_PT001_ASST_CASE</s:sku>
+      <s:grams>6341</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.efavormart.com/products/1506601271342</id>
+    <published>2018-12-19T19:31:35-08:00</published>
+    <updated>2018-12-19T19:31:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.efavormart.com/products/set-of-3-multi-colored-fake-succulents-8-aloe-cactus-decorative-artificial-plants"/>
+    <title>Set of 3 | Multi Colored Fake Succulents | 8&quot; Aloe Cactus Decorative Artificial Plants</title>
+    <s:type>Succulents</s:type>
+    <s:vendor>HIER_1600</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1552/7691/products/ARTI_SUC_WS001_ASST__01.jpg?v=1571439166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HIER_1600<br>
+        <strong>Type: </strong>Succulents<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>[About]</h4>
+<p><a href="https://www.efavormart.com/pages/search-results?q=succulent" target="_blank"><img src="https://cdn.shopify.com/s/files/1/1832/6341/files/Collection-Satin_Collection-min_64bb2632-daf8-4287-a16c-0957d03e521e_large.jpg?v=1545420232" alt=""></a></p>
+<table>
+<tbody>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Material</strong>: PVC<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Qty</strong>: Set of 3 Plants<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant Type</strong>: Aloe Cactus or Spiky Crassula<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Color</strong>: Assorted<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Plant</strong> <strong>Width</strong>: 5" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Total</strong> <strong>Height</strong>: 8" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Wired</strong> <strong>Stems</strong>: Yes<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Short</strong> <strong>Stem</strong> <strong>Length</strong>: 3" <br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<a href="https://www.efavormart.com/blogs/home/5-ways-to-get-creative-with-our-succulents" target="_blank"><strong>Blog: Creating a Succulent Arrangement </strong></a><br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;">
+<strong>Note</strong>: Order is only for Plants, no Pots included<br>
+</td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>All sizes are approximate measurements</strong></td>
+</tr>
+<tr>
+<td style="padding-top: 4px; padding-bottom: 4px;"><strong>Due to different light settings the actual color might vary a bit from the pictures.</strong></td>
+</tr>
+</tbody>
+</table>
+<h4>[Information]</h4>
+<p>Add a dash of natural green to any space with these realistic looking faux cacti succulents. Fake miniature assorted cactus plants are perfect to display on your bookshelf, living room mantle, coffee table, dining room table, cabinet, counter, bathroom shelf, kitchen window, foyer, and any other place to bring an organic style and refreshing colors of nature. Besides home and office decoration, our everlasting faux Succulents also make an ideal decorative accent for Rustic Parties, Woodland, Southwestern, and Garden-themed Weddings and Events. Either hang from Tree Branches, or make fabulous Rustic Wedding Centerpieces, place atop your Party Tables swathed with our Burlap Tablecloths and Linens, and accentuate with our Natural Stump Candle and Card Holders, Cactus Tealight Candles, LEDs, Burlap Flowers, and other rustic-themes decorations.<br><br><strong>Additional Information:</strong></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>PVC</li>
+<li>
+<strong>Qty:</strong><span> </span>Set of 3 Plants</li>
+<li>
+<strong>Plant Type:</strong><span> </span>Aloe Cactus or Spiky Crassula </li>
+<li>
+<strong>Plant Color:</strong><span> </span>Assorted</li>
+<li>
+<strong>Plant Width:</strong><span> </span>5" </li>
+<li>
+<strong>Total Height:</strong><span> </span>8" </li>
+<li>
+<strong>Wired Stems:</strong><span> </span>Yes</li>
+<li>
+<strong>Short Stem Length:</strong><span> </span>3" </li>
+<li>
+<strong>Features:</strong> Realistic, lifelike, natural looking succulents</li>
+<li>Actual plant measurement may vary</li>
+<li>
+<strong>Note:</strong> Order is only for Plants, no Pots included</li>
+<li>Perfect Gift for Wedding, Birthday, Christmas, etc.  Ideal for windowsill and office table decoration.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cat-sub1_Artificial Flowers</s:tag>
+    <s:tag>cat-sub1_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Home Decor Plants</s:tag>
+    <s:tag>cat-sub2_Succulents</s:tag>
+    <s:tag>cat-top_Artificial Flowers</s:tag>
+    <s:tag>categ-Artificial Flowers</s:tag>
+    <s:tag>categ-Sale</s:tag>
+    <s:tag>categ-Succulents</s:tag>
+    <s:tag>categ-Thanksgiving Decorations</s:tag>
+    <s:tag>color-assorted</s:tag>
+    <s:tag>etsy-all</s:tag>
+    <s:tag>flowertype-Aloe Succulents</s:tag>
+    <s:tag>flowertype-Cactus Succulents</s:tag>
+    <s:tag>material-PVC</s:tag>
+    <s:tag>shop_the_look</s:tag>
+    <s:tag>single-unit-count_3</s:tag>
+    <s:tag>size:height-8&quot;</s:tag>
+    <s:tag>type-Succulent w/o Pot</s:tag>
+    <s:tag>variant-ARTI_SUC_WS</s:tag>
+    <s:tag>variant_label:style</s:tag>
+    <s:variant>
+      <id>https://www.efavormart.com/products/1506601271342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>ARTI_SUC_WS001_ASST</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+</feed>
